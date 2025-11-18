@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gdfbaef3d0cd7f8b4ea35e0c2ec93ef9c" title="Unit Assessments - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.1.3</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1b556292a21f961d54626f184aa1500b" title="Simple choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>44636,85248,9349,60284</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g754b9da9328e4985120219cfe7adffb8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the audio again and choose the correct answer based on the conversation.&lt;/p&gt;
+				&lt;audio id="audioElement" controls="controls"&gt;
+      			&lt;source src="https://canvas.instructure.com/assessment_questions/296961020/files/251623454/download?verifier=NRXYCaP5USJoZJJaoEK16SUv1m3CW8rHBPWh2PSZ" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;
+&lt;br&gt;
+¿Cuándo corre Viviana por el parque? ________&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="44636">
+                <material>
+                  <mattext texttype="text/plain">Muchos días</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85248">
+                <material>
+                  <mattext texttype="text/plain">Nunca</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9349">
+                <material>
+                  <mattext texttype="text/plain">A veces</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60284">
+                <material>
+                  <mattext texttype="text/plain">Frecuentemente</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">85248</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb133a1e02772b58391ce3468831946b0" title="Simple choice1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>64333,95714,78655,46701</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3255f60f8ac14616203c35c79d2089d6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Cuando Pablo habla con Viviana, él está en ________.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="64333">
+                <material>
+                  <mattext texttype="text/plain">el comedor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95714">
+                <material>
+                  <mattext texttype="text/plain">la piscina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78655">
+                <material>
+                  <mattext texttype="text/plain">el patio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46701">
+                <material>
+                  <mattext texttype="text/plain">la cocina</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">78655</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd5df2cba8eb437c76a936359f77b4aa4" title="Simple choice2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>68272,64766,43700,88651</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g81f297ee9fbe7526e8e02911650cd8bd</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Viviana no puede ir al cine con Pablo en la noche porque quiere ________ con las primas.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="68272">
+                <material>
+                  <mattext texttype="text/plain">nadar en la piscina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64766">
+                <material>
+                  <mattext texttype="text/plain">correr en el parque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43700">
+                <material>
+                  <mattext texttype="text/plain">beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88651">
+                <material>
+                  <mattext texttype="text/plain">jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">88651</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge364e69706bdf8c89404dcd743d6a1fc" title="Simple choice3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>868,25764,55349,89342</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc4ea066bd009a7a8f546b89db4534555</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Al final, Pablo y Viviana deciden una actividad para el domingo: ________.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="868">
+                <material>
+                  <mattext texttype="text/plain">ver la televisión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="25764">
+                <material>
+                  <mattext texttype="text/plain">asistir a un concierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55349">
+                <material>
+                  <mattext texttype="text/plain">andar en bicicleta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89342">
+                <material>
+                  <mattext texttype="text/plain">hacer la tarea</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">55349</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

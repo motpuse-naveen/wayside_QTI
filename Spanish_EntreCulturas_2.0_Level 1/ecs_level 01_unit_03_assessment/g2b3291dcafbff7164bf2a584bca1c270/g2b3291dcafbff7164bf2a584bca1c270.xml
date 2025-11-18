@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2b3291dcafbff7164bf2a584bca1c270" title="Comunicación 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge2ec70f0f0f03725e4c96350d1e0064d" title="Image-Matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5712,9642,8922,1929,4583,3768</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1076dd7ee583249872bbd230fc27e7c8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures on the left and match what the people in the pictures are doing with the activities listed on the right.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5712">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q1.jpg" alt="a man taking clothes out of the drier"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9642">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q2.jpg" alt="a group of friends playing cards"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8922">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q3.jpg" alt="a mother helping her daughter with homework"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1929">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q4.jpg" alt="a girl drinking juice from a glass"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4583">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q5.jpg" alt="a mother and daughter dusting shelves"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3768">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq3_activity1_q6.jpg" alt="a young couple sitting on a couch watching the television"&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9083">
+                <material>
+                  <mattext>lavar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2546">
+                <material>
+                  <mattext>jugar juegos de mesa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4135">
+                <material>
+                  <mattext>hacer la tarea</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3885">
+                <material>
+                  <mattext>beber refrescos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1816">
+                <material>
+                  <mattext>limpiar la casa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5734">
+                <material>
+                  <mattext>ver la televisión</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5712">9083</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9642">2546</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8922">4135</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1929">3885</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4583">1816</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3768">5734</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

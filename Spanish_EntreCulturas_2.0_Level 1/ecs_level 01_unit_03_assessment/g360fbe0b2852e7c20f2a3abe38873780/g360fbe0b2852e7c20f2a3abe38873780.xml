@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g360fbe0b2852e7c20f2a3abe38873780" title="Unit Assessments - Vocabulary Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gea8cd222cde2abcbe86fc7a7e32868af" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>72632,31212,44716,56100</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8480fc4aa228828c63ea51265c31a4ea</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following paragraph about how Blanca spent a day at her sister’s house. Then complete the following activity.&lt;/p&gt;&lt;p&gt;Hola, me llamo Blanca y vivo con mis padres en una casa en el campo. Es una casa pequeña pero muy bonita. Mi hermana Adela y su esposo Luis, viven en la ciudad. Adela y Luis tienen un hijo de doce años, Jaime, y dos hijas pequeñas, Susi y Ana. Viven en un apartamento grande y bonito. El apartamento está en un edificio moderno. El edificio es de color azul. A la izquierda hay un supermercado y a la derecha hay un jardín.&lt;/p&gt;&lt;p&gt;Taking into account the text you have just read, choose the option that best completes each sentence.&lt;/p&gt;
+&lt;br&gt;
+Adela vive en ________.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="72632">
+                <material>
+                  <mattext texttype="text/plain">una casa grande en el campo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31212">
+                <material>
+                  <mattext texttype="text/plain">un pueblo pequeño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="44716">
+                <material>
+                  <mattext texttype="text/plain">un apartamento grande en la ciudad.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56100">
+                <material>
+                  <mattext texttype="text/plain">un apartamento moderno en un pueblo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">44716</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7257043c5a84d08e414133a334d29b84" title="simple-choice1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>29909,18743,73796,90224</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g163aeafb722103b9bb9f14e6bb96b6a5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Jaime y sus dos hermanas son ________ de Blanca.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="29909">
+                <material>
+                  <mattext texttype="text/plain">los sobrinos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18743">
+                <material>
+                  <mattext texttype="text/plain">los primos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73796">
+                <material>
+                  <mattext texttype="text/plain">los amigos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="90224">
+                <material>
+                  <mattext texttype="text/plain">los tíos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">29909</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g74d3659548c0404126fcd59ced6653b7" title="simple-choice2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6429,68002,46106,87547</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gca16199a0e019b2799b9fa7e2ddee1a0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;El edificio es de color azul y está ________ un supermercado y un jardín.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="6429">
+                <material>
+                  <mattext texttype="text/plain">delante de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68002">
+                <material>
+                  <mattext texttype="text/plain">enfrente de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46106">
+                <material>
+                  <mattext texttype="text/plain">lejos de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87547">
+                <material>
+                  <mattext texttype="text/plain">entre</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">87547</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

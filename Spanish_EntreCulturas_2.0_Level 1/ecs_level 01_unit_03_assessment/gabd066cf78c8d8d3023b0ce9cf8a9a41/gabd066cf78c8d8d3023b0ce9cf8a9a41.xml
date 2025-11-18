@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gabd066cf78c8d8d3023b0ce9cf8a9a41" title="Unit Assessments - Vocabulary Activity 05">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gd2066b585a0bc6532ba3b060e384d1e9" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1886,9001,5899,8643</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g056efcdc4606825bcd4fc9909bc2b581</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Now read the second part of the text: Blanca talks about a day she spent at her sister's house. Then do the activity.&lt;/p&gt;
+&lt;p&gt;Hoy visito a mi hermana Adela. Es una mañana tranquila: mi hermana y yo limpiamos la casa. Jaime hace la tarea en la cocina, cerca del comedor. Luego Adela, Jaime y yo preparamos la comida. Luis está en el parque con Susi y Ana. Luis las mira a las niñas mientras ellas corren y andan en bicicleta. A la 1 de la tarde nos reunimos todos para comer. Después de comer, jugamos juegos de mesa y videojuegos en la sala.&lt;/p&gt;
+&lt;p&gt;In the text you have read, every family member does one or more activities. Based on the reading, match each action with the person(s) who is doing it.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1886">
+            <material>
+              <mattext texttype="text/plain">limpiar la casa</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="759">
+                <material>
+                  <mattext>Blanca y Adela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8532">
+                <material>
+                  <mattext>Jaime</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7662">
+                <material>
+                  <mattext>Luis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2643">
+                <material>
+                  <mattext>Susi y Ana</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9001">
+            <material>
+              <mattext texttype="text/plain">hacer la tarea</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="759">
+                <material>
+                  <mattext>Blanca y Adela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8532">
+                <material>
+                  <mattext>Jaime</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7662">
+                <material>
+                  <mattext>Luis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2643">
+                <material>
+                  <mattext>Susi y Ana</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5899">
+            <material>
+              <mattext texttype="text/plain">cuidar a las niñas</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="759">
+                <material>
+                  <mattext>Blanca y Adela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8532">
+                <material>
+                  <mattext>Jaime</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7662">
+                <material>
+                  <mattext>Luis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2643">
+                <material>
+                  <mattext>Susi y Ana</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8643">
+            <material>
+              <mattext texttype="text/plain">correr y andar en bicicleta</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="759">
+                <material>
+                  <mattext>Blanca y Adela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8532">
+                <material>
+                  <mattext>Jaime</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7662">
+                <material>
+                  <mattext>Luis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2643">
+                <material>
+                  <mattext>Susi y Ana</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1886">759</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9001">8532</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5899">7662</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8643">2643</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

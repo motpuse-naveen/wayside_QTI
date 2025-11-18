@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g58e2b49dfaebad3fed4036373b834d4d" title="Comunicación 1 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g792b07aee4d2c712a06498f841894ca9" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4102</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9e30ca97566c3091c9ace772b6e84c1b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures and type a vocabulary word to complete the image’s description.
+		&lt;/p&gt;
+&lt;br&gt;
+&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/images/Unit3_VGQ_VQ_Activity2_Q1.jpg" alt="A white and gray cat with medium length fur and blue eyes sitting in the grass."&gt;
+&lt;br&gt;
+&lt;p&gt;Mi mascota se llama Milo. Milo es un [RESPONSE].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4102">
+                <material>
+                  <mattext texttype="text/plain">gato</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">4102</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">100.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3f0a564382445b80ce35b6f0844a09c1" title="Textentries1">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20579</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb49f80d2f7454eeead2d562cd72009c0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/images/Unit3_VGQ_VQ_Activity2_Q2.jpg" alt="A family picture with an elderly man and woman, 2 middle aged men, 2 middle aged women, 2 girls, and a toddler."&gt;
+&lt;br&gt;
+&lt;p&gt;Todas las personas que ves en la foto son mi [RESPONSE].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20579">
+                <material>
+                  <mattext texttype="text/plain">familia</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">20579</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">100.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g6b9d7531b8b88e312e47a2ea994dcdf1" title="Textentries2">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>42194</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g93caec2297cc8ae270805a77fab70a40</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/images/Unit3_VGQ_VQ_Activity2_Q3.jpg" alt="A young man in a gray suit with his arms around a young woman in a wedding dress. They are smiling while looking into each other’s eyes."&gt;
+&lt;br&gt;
+&lt;p&gt;Antonio es el [RESPONSE] de Lucía.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="42194">
+                <material>
+                  <mattext texttype="text/plain">esposo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">42194</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">100.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gf09ac31ecbd6469b8be9b2540fcb594f" title="Textentries3">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>14275</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2dca31e5d7b42c85ccd5f192b67dd11e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/images/Unit3_VGQ_VQ_Activity2_Q4.jpg" alt="A young man walking a big dog on a leash. They are walking towards a very small dog."&gt;
+&lt;br&gt;
+&lt;p&gt;Carlos tiene dos perros: un perro pequeño y un perro [RESPONSE] y alto.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="14275">
+                <material>
+                  <mattext texttype="text/plain">grande</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">14275</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">100.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9f40c05e72987e305c83d1493ff662ea" title="Textentries4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>96485</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>geb80fa41b75f164ccf1a16207172e681</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/images/Unit3_VGQ_VQ_Activity2_Q5.jpg" alt="An elderly man with gray hair sitting on a couch and smiling while holding a very young girl who is standing and also smiling."&gt;
+&lt;br&gt;
+&lt;p&gt;Mi abuelo Carlos no es joven. Él es [RESPONSE] ; tiene 70 años.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96485">
+                <material>
+                  <mattext texttype="text/plain">viejo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">96485</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">100.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

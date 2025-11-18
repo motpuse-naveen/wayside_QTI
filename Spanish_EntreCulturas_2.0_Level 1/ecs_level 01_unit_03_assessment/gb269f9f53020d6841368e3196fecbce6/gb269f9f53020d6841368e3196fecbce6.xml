@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb269f9f53020d6841368e3196fecbce6" title="Comunicación 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4a29d45c9ef2cd1f78a549e521419590" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20642,86986,34175,88783</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g115d969aeb4142e15986314e92f97d95</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the first sentence of each pair and complete the second sentence with the word that makes it mean the opposite. Pay attention! There is one word you should not use.&lt;/p&gt;
+&lt;p style="border: 1px solid black; display: ruby-text;"&gt;derecha&amp;nbsp; &amp;nbsp; enfrente&amp;nbsp; &amp;nbsp; debajo&amp;nbsp; &amp;nbsp; entre&amp;nbsp; &amp;nbsp; cerca&lt;/p&gt;
+&lt;div&gt;El garaje no está encima de la cocina. El garaje está [RESPONSE] de la cocina.&lt;/div&gt;
+&lt;div&gt;La casa no está lejos de la ciudad. La casa está [RESPONSE1] de la ciudad.&lt;/div&gt;
+&lt;div&gt;El jardín no está detrás de la casa. El jardín está [RESPONSE2] de la casa.&lt;/div&gt;
+&lt;div&gt;La plaza no está a la izquierda de la plaza. La plaza está a la [RESPONSE3] de la casa.&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20642">
+                <material>
+                  <mattext texttype="text/plain">debajo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86986">
+                <material>
+                  <mattext texttype="text/plain">cerca</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34175">
+                <material>
+                  <mattext texttype="text/plain">enfrente</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="88783">
+                <material>
+                  <mattext texttype="text/plain">derecha</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">20642</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">86986</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">34175</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">88783</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

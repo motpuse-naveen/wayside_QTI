@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g303769d827b252fc12addf57576bf11a" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g47c714539efe81ea21f796b779ef28cb" title="Image-Matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>3230,9143,2454,7846,2099,6014</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gfab96eb14549e2ca494f9cd1cb3454e0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the items on the left and match each one to the place in the house where it is most likely to be found.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_3230">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q1.jpg" alt="a white SUV"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9143">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q2.jpg" alt="a set of cookware"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2454">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q3.jpg" alt="A bed"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7846">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q4.jpg" alt="a toothbrush"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2099">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q5.jpg" alt="a red couch"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6014">
+            <material>
+              <mattext texttype="text/html">&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u3_vgq_vq2_activity1_q6.jpg" alt="a porch swing with a canopy"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2873">
+                <material>
+                  <mattext>el garaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6120">
+                <material>
+                  <mattext>la cocina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9079">
+                <material>
+                  <mattext>el dormitorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5805">
+                <material>
+                  <mattext>el baño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7319">
+                <material>
+                  <mattext>la sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8539">
+                <material>
+                  <mattext>el jardín</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3230">2873</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9143">6120</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2454">9079</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7846">5805</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2099">7319</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6014">8539</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g4399f3c709b162f4a5137adab1e0064a" title="Unit Assessments - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g83ffd26eb35c96dd2ebb2e91679a1666" title="Matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5152,8120,8346,2197,1680,1892</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gfe3b22cfe592002dd889e550bb5822d5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each sentence and match it with a logical response. Pay attention to the adjectives in the response phrases.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5152">
+            <material>
+              <mattext texttype="text/plain">¿Te gusta la casa?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8120">
+            <material>
+              <mattext texttype="text/plain">¿Rosita y Lupe no van a participar en la carrera?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8346">
+            <material>
+              <mattext texttype="text/plain">¿Te gusta hablar con Alberto?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2197">
+            <material>
+              <mattext texttype="text/plain">¿Tu prima ganó el concurso de ciencias?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1680">
+            <material>
+              <mattext texttype="text/plain">¿¿No puedes colocar los dos carros en el garaje?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1892">
+            <material>
+              <mattext texttype="text/plain">¿Quieres ver esta película?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1442">
+                <material>
+                  <mattext>Sí, pero es pequeña.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9856">
+                <material>
+                  <mattext>No. Son muy jóvenes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8541">
+                <material>
+                  <mattext>Sí. Es simpático.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6735">
+                <material>
+                  <mattext>¡Sí! Es muy inteligente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3086">
+                <material>
+                  <mattext>No. Son muy grandes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="622">
+                <material>
+                  <mattext>¡Sí! Parece divertida.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5152">1442</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8120">9856</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8346">8541</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2197">6735</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1680">3086</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1892">622</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

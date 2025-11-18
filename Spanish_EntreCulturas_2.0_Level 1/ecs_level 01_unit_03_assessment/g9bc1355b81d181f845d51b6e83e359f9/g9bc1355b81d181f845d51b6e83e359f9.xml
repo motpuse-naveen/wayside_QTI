@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9bc1355b81d181f845d51b6e83e359f9" title="Comunicación 2 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc16737ba6f607d223780d0a5206bbe0b" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>21705,78,64269,67890,39317,4869</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf66f86545db478952ffa472185676c7c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Complete the following sentences with the appropriate form of the verb &lt;strong&gt;estar&lt;/strong&gt;.&lt;/p&gt;
+&lt;div&gt;Tu familia [RESPONSE] en la ciudad.&lt;/div&gt;
+&lt;div&gt;Tú [RESPONSE1] en el patio de la casa.&lt;/div&gt;
+&lt;div&gt;Mi hermana y yo [RESPONSE2] en el pueblo de mis abuelos.&lt;/div&gt;
+&lt;div&gt;Tú y Rosa [RESPONSE3] al lado de la ventana del comedor.&lt;/div&gt;
+&lt;div&gt;Yo [RESPONSE4] en la cocina con mi papá.&lt;/div&gt;
+&lt;div&gt;Usted [RESPONSE5] en el comedor.&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="21705">
+                <material>
+                  <mattext texttype="text/plain">está</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="78">
+                <material>
+                  <mattext texttype="text/plain">estás</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64269">
+                <material>
+                  <mattext texttype="text/plain">estamos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="67890">
+                <material>
+                  <mattext texttype="text/plain">están</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="39317">
+                <material>
+                  <mattext texttype="text/plain">estoy</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4869">
+                <material>
+                  <mattext texttype="text/plain">está</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">21705</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">78</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">64269</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">67890</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">39317</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">4869</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
