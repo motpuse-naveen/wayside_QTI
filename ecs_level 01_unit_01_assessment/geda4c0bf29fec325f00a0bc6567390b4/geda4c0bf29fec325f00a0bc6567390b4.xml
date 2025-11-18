@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="geda4c0bf29fec325f00a0bc6567390b4" title="Unit Assessments - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g45bd8c355bfdcdb6909d6a3a548f6c23" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>8.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>78231,38200,64800,49750,64488,12610,60056,76552</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7f2600798c4f76ab299ec287aca747d1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Ana is writing an e-mail to her new online friend. She is also sending a photo of her and her friends. Read and complete the e-mail by filling in the blanks with the appropriate form of the verb &lt;i&gt;&lt;strong&gt;ser&lt;/strong&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ECS1_U1_UA_GA_Activity2_Q1.jpg" alt="A picture of five friends. There are two young men in the back and three young women in the front."&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;Hola, Estela:&lt;/div&gt;
+&lt;p&gt;Mira la foto. Yo [RESPONSE](1) Ana. Tania, Rosa, Tom y Paul [RESPONSE1](2) mis amigos. Tania [RESPONSE2](3) de Brasil y no habla español, pero habla inglés. Tania, Rosa y yo [RESPONSE3](4) jugadoras del equipo &lt;i&gt;(team)&lt;/i&gt; de básquetbol de la escuela. Tom y Paul [RESPONSE4](5) atletas. Yo también [RESPONSE5](6) ciclista. ¿Y tú? ¿Tú [RESPONSE6](7) atleta o artista? ¿Tú y tus amigos [RESPONSE7](8) estudiantes de música?&lt;/p&gt;
+&lt;div&gt;Cuéntame cosas de ustedes.&lt;/div&gt;
+&lt;div&gt;Un abrazo,&lt;/div&gt;
+&lt;div&gt;Ana&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="78231">
+                <material>
+                  <mattext texttype="text/plain">soy</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="38200">
+                <material>
+                  <mattext texttype="text/plain">son</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64800">
+                <material>
+                  <mattext texttype="text/plain">es</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="49750">
+                <material>
+                  <mattext texttype="text/plain">somos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64488">
+                <material>
+                  <mattext texttype="text/plain">son</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12610">
+                <material>
+                  <mattext texttype="text/plain">soy</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE6">
+            <material>
+              <mattext>RESPONSE6</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="60056">
+                <material>
+                  <mattext texttype="text/plain">eres</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE7">
+            <material>
+              <mattext>RESPONSE7</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="76552">
+                <material>
+                  <mattext texttype="text/plain">son</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">78231</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">38200</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">64800</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">49750</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">64488</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">12610</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE6">60056</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE7">76552</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

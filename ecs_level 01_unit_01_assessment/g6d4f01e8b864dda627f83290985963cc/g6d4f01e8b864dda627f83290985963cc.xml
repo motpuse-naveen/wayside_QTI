@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6d4f01e8b864dda627f83290985963cc" title="Comunicación 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g655205bc051adde5eff43ef0d3c8ce4b" title="matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5289,6166,9417</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc35e564eafd2c5f98eed84a0bcbd7558</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the correct phrase from the options provided to complete the sentence.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5289">
+            <material>
+              <mattext texttype="text/plain">Aurora</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="625">
+                <material>
+                  <mattext>es bailarina.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6406">
+                <material>
+                  <mattext>son poetisas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4698">
+                <material>
+                  <mattext>eres estudiante.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6166">
+            <material>
+              <mattext texttype="text/plain">Carla y Luisa</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="625">
+                <material>
+                  <mattext>es bailarina.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6406">
+                <material>
+                  <mattext>son poetisas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4698">
+                <material>
+                  <mattext>eres estudiante.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9417">
+            <material>
+              <mattext texttype="text/plain">Tú</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="625">
+                <material>
+                  <mattext>es bailarina.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6406">
+                <material>
+                  <mattext>son poetisas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4698">
+                <material>
+                  <mattext>eres estudiante.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5289">625</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6166">6406</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9417">4698</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

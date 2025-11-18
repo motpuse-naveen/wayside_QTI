@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g704b80d44a5e62d6c66dcc67250d26d4" title="Comunicación 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g3aed086d4e1aade9f51f166d2e1bd5ac" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>53094,59130,85648,58455</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc68c3861c3084496abc2f6b580707fb9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following dialogues. In the first one, Paula (a student) is talking with her maestra (teacher). In the second one, Fernando is talking with his entrenador (coach). Use the word bank to fill in the blanks with words or phrases that make sense.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 96%;"&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 21%; text-align: center;"&gt;tú&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 37%; text-align: center;"&gt;está usted&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 30%; text-align: center;"&gt;estás&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 30%; text-align: center;"&gt;usted&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;br&gt;PAULA:&lt;/strong&gt; Buenos días, Señora Ramírez. ¿Cómo [RESPONSE]? (1)&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;MAESTRA:&lt;/strong&gt; Estoy bien. ¿Y [RESPONSE1]? (2)&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;PAULA:&lt;/strong&gt; Muy bien, Señora Ramírez. Gracias.&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;ENTRENADOR:&lt;/strong&gt; Hola. Fernando. ¿Cómo [RESPONSE3]? (3)&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;FERNANDO:&lt;/strong&gt; Estoy regular. ¿Y [RESPONSE4]? (4)&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;ENTRENADOR:&lt;/strong&gt; Yo estoy muy bien.&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="53094">
+                <material>
+                  <mattext texttype="text/plain">está usted</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59130">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="85648">
+                <material>
+                  <mattext texttype="text/plain">estás</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="58455">
+                <material>
+                  <mattext texttype="text/plain">usted</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">53094</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">59130</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">85648</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">58455</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

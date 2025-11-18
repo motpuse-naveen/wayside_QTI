@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7fd644e0107eca3cdac00fb0e8262650" title="Unit Assessments - Grammar Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g92aa2f76e18dbc82be104efec750e1dc" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>34341,89380,73166,1515,94212,35387</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g29145bb5552fc3cf3592156e42e3fa0c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at what a group of friends has marked about their likes and dislikes. Then complete the sentences writing the correct form of &lt;i&gt;&lt;strong&gt;gustar&lt;/strong&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;div class="row" style="width: 99%; display: flex; border: 1px solid black; margin: 0 auto;"&gt;
+&lt;div class="column" style="width: 113px; border-right: 1px solid black; float: left; display: flex; flex-direction: column; justify-content: flex-start;"&gt;
+&lt;div style="height: 5%; padding: 8px; margin-top: 6px;"&gt;&lt;span&gt;&lt;strong&gt;Yuli&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding: 10px;"&gt;&lt;span style="color: blue;"&gt;Pintar&lt;/span&gt;&lt;span style="color: blue; font-size: 30px; margin-top: -12px; margin-left: 14px;"&gt;No&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="column1" style="width: 201px; border-right: 1px solid black; float: left; display: flex; flex-direction: column; justify-content: flex-start;"&gt;
+&lt;div style="height: 5%; padding: 10px;"&gt;&lt;span&gt;&lt;strong&gt;Ernesto&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding: 13px;"&gt;&lt;span style="color: blue; float: left; width: 100%;"&gt;Tocar un instrumento&lt;/span&gt;&lt;span style="color: blue; font-size: 30px;"&gt;Sí&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding-left: 13px; margin-top: -21px;"&gt;&lt;span style="color: blue;"&gt;Escuchar música&lt;/span&gt;&lt;span style="color: blue; font-size: 30px; margin-left: 8px;"&gt;Sí&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="column2" style="width: 110px; height: 150px; float: left; display: flex; flex-direction: column; justify-content: flex-start;"&gt;
+&lt;div style="padding: 10px;"&gt;&lt;span style="color: black;"&gt;&lt;strong&gt;Pablo&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding: 10px;"&gt;&lt;span style="color: blue;"&gt;Cocinar&lt;/span&gt;&lt;span style="color: blue; font-size: 30px; float: right; margin-top: -12px;"&gt;No&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding: 10px;"&gt;&lt;span style="color: blue;"&gt;Comer&lt;/span&gt;&lt;span style="color: blue; font-size: 30px; float: right; margin-top: -12px;"&gt;Sí&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;1. —Yuli, ¿ [RESPONSE]pintar?&lt;/div&gt;
+&lt;div&gt;2. —No, [RESPONSE1]pintar.&lt;/div&gt;
+&lt;div&gt;3. —Ernesto, ¿ [RESPONSE2]tocar un instrumento?&lt;/div&gt;
+&lt;div&gt;4. —Sí, [RESPONSE3]tocar un instrumento y escuchar música.&lt;/div&gt;
+&lt;div&gt;5. —Pablo, ¿ [RESPONSE4]cocinar?&lt;/div&gt;
+&lt;div&gt;6. — No, [RESPONSE5]cocinar.&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34341">
+                <material>
+                  <mattext texttype="text/plain">te gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89380">
+                <material>
+                  <mattext texttype="text/plain">no me gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73166">
+                <material>
+                  <mattext texttype="text/plain">te gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1515">
+                <material>
+                  <mattext texttype="text/plain">me gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="94212">
+                <material>
+                  <mattext texttype="text/plain">te gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="35387">
+                <material>
+                  <mattext texttype="text/plain">no me gusta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">34341</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">89380</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">73166</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">1515</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">94212</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">35387</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
