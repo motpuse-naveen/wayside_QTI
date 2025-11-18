@@ -47,7 +47,7 @@
 &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
                 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac3_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
                 &lt;/audio&gt;&lt;/p&gt;
-&lt;div class="transcript"&gt;&lt;a download="media/assessment_questions/ECS1_unit1_assessment_ac3.txt"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit1_assessment_ac3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Match the names in the first column with the word that Sofía uses to describe each person (second column).&lt;/p&gt;&lt;/div&gt;</mattext>
           </material>
           <response_lid ident="response_8826">

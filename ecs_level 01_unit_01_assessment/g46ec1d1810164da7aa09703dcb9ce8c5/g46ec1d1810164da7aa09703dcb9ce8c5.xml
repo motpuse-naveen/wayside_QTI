@@ -47,7 +47,7 @@
 &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
                 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac4_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
                 &lt;/audio&gt;&lt;/p&gt;
-&lt;div class="transcript"&gt;&lt;a download="media/assessment_questions/ECS1_unit1_assessment_ac4.txt"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit1_assessment_ac4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;1. Hugo: pintar y [RESPONSE] música&lt;/p&gt;
 &lt;div&gt;2.Sofía: [RESPONSE1] para la comunidad&lt;/div&gt;
 &lt;div&gt;3. Laura: [RESPONSE2] libros&lt;/div&gt;
