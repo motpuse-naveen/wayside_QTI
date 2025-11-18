@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gae95f4a3aac06cb644700becf587345f" title="Unit Assessments - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.3</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge9eccb89c93fe344e403a826dea69ff2" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>8.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>98185,53087,62353,23145,4058,17005,84163,69753,43027,24422,57897,60735,47255,20045,57247,36071</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g52566d3e1e14e6660f0d5b4da510b2af</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;The table shows the classes that Selena has in the morning. Based on the schedule, decide whether each of the following sentences is true &lt;i&gt;(Cierto)&lt;/i&gt; or false &lt;i&gt;(Falso)&lt;/i&gt;.&lt;/p&gt;
+&lt;table style="border-collapse: collapse; width: 97.6939%; height: 140px;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 26px;"&gt;
+&lt;th style="width: 15.258%; text-align: center; height: 26px;"&gt;&lt;/th&gt;
+&lt;th style="width: 15.5873%; text-align: center; height: 26px;"&gt;LUNES&lt;/th&gt;
+&lt;th style="width: 14.3798%; text-align: center; height: 26px;"&gt;MARTES&lt;/th&gt;
+&lt;th style="width: 14.9286%; text-align: center; height: 26px;"&gt;MIÉRCOLES&lt;/th&gt;
+&lt;th style="width: 20.6367%; text-align: center; height: 26px;"&gt;JUEVES&lt;/th&gt;
+&lt;th style="width: 18.9901%; text-align: center; height: 26px;"&gt;VIERNES&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td style="width: 15.258%; text-align: center; height: 28px;"&gt;&lt;strong&gt;8:00-8:55&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 15.5873%; text-align: center; height: 28px;"&gt;Matemáticas&lt;/td&gt;
+&lt;td style="width: 14.3798%; text-align: center; height: 28px;"&gt;&lt;/td&gt;
+&lt;td style="width: 14.9286%; text-align: center; height: 28px;"&gt;Informática&lt;/td&gt;
+&lt;td style="width: 20.6367%; text-align: center; height: 28px;"&gt;Historia (en línea)&lt;/td&gt;
+&lt;td style="width: 18.9901%; text-align: center; height: 28px;"&gt;Matemáticas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td style="width: 15.258%; text-align: center; height: 28px;"&gt;&lt;strong&gt;9:00-9:55&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 15.5873%; text-align: center; height: 28px;"&gt;Música&lt;/td&gt;
+&lt;td style="width: 14.3798%; text-align: center; height: 28px;"&gt;Matemática&lt;/td&gt;
+&lt;td style="width: 14.9286%; text-align: center; height: 28px;"&gt;Arte&lt;/td&gt;
+&lt;td style="width: 20.6367%; text-align: center; height: 28px;"&gt;Geografía&lt;/td&gt;
+&lt;td style="width: 18.9901%; text-align: center; height: 28px;"&gt;Ciencias&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td style="width: 15.258%; text-align: center; height: 28px;"&gt;&lt;strong&gt;10:00-10:55&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 15.5873%; text-align: center; height: 28px;"&gt;Informática&lt;/td&gt;
+&lt;td style="width: 14.3798%; text-align: center; height: 28px;"&gt;Geografía&lt;/td&gt;
+&lt;td style="width: 14.9286%; text-align: center; height: 28px;"&gt;Arte&lt;/td&gt;
+&lt;td style="width: 20.6367%; text-align: center; height: 28px;"&gt;Ciencias&lt;/td&gt;
+&lt;td style="width: 18.9901%; text-align: center; height: 28px;"&gt;Educación física&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 30px;"&gt;
+&lt;td style="width: 15.258%; text-align: center; height: 30px;"&gt;&lt;strong&gt;11:00-11:30&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 15.5873%; text-align: center; height: 30px;"&gt;Recreo&lt;/td&gt;
+&lt;td style="width: 14.3798%; text-align: center; height: 30px;"&gt;Recreo&lt;/td&gt;
+&lt;td style="width: 14.9286%; text-align: center; height: 30px;"&gt;Recreo&lt;/td&gt;
+&lt;td style="width: 20.6367%; text-align: center; height: 30px;"&gt;Recreo&lt;/td&gt;
+&lt;td style="width: 18.9901%; text-align: center; height: 30px;"&gt;Recreo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;"&gt;1. Selena tiene clase de música el miércoles.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE1]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. El jueves y el viernes, Selena tiene ciencias.&lt;/p&gt;
+&lt;p&gt;[RESPONSE2]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. La hora del recreo es de 11 a 11 y media de la mañana.&lt;/p&gt;
+&lt;p&gt;[RESPONSE3]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. El lunes Selena no tiene clase a las 8 de la mañana.&lt;/p&gt;
+&lt;p&gt;[RESPONSE4]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. La clase de educación física es el viernes a las 10:55.&lt;/p&gt;
+&lt;p&gt;[RESPONSE5]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;6. El miércoles Selena tiene dos clases diferentes.&lt;/p&gt;
+&lt;p&gt;[RESPONSE6]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;7. El día de la clase de música es el lunes.&lt;/p&gt;
+&lt;p&gt;[RESPONSE7]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;8. La clase de geografía es en línea.&lt;/p&gt;
+&lt;p&gt;[RESPONSE8]&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="98185">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53087">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62353">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="23145">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4058">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17005">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="84163">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69753">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="43027">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24422">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE6">
+            <material>
+              <mattext>RESPONSE6</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57897">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60735">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE7">
+            <material>
+              <mattext>RESPONSE7</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47255">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20045">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE8">
+            <material>
+              <mattext>RESPONSE8</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57247">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36071">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">53087</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">62353</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">4058</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">69753</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">24422</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE6">57897</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE7">47255</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE8">36071</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

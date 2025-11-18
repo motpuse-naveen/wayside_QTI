@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9285e6c6551cbcb2bbb19a6ddc7980c8" title="Comunicación 1 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7abe073316a7d7583ceaf0011662015e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>72154,35531,88997,44973</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc3fd428b0075fcacc6d84b1371b708a2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;You will hear people talking in different places. Listen carefully and choose the name of the place where the speaker is. You don’t have to understand everything. Just pay attention to the words you know and the tone of voice for clues about each place.
+&lt;br&gt;
+&lt;audio id="audioElement" controls="controls"&gt;
+&lt;source src="https://canvas.instructure.com/assessment_questions/297829612/files/252528619/download?verifier=dnCpUFRsGu4YjF2rSnJeZKMeHB0Qr23WBGIaEMgV" type="audio/mpeg"&gt;
+&lt;/audio&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="72154">
+                <material>
+                  <mattext texttype="text/plain">el museo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35531">
+                <material>
+                  <mattext texttype="text/plain">la escuela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88997">
+                <material>
+                  <mattext texttype="text/plain">el campo de fútbol</mattext>
+                </material>
+              </response_label>
+              <response_label ident="44973">
+                <material>
+                  <mattext texttype="text/plain">el edificio</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">88997</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g1385ae119ea8cddc1643715a5b118225" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>53410,81445,34307,83457</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga78f6d3ac170681b5bfa60c71fddf73e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+&lt;source src="https://canvas.instructure.com/assessment_questions/297829408/files/252528415/download?verifier=7zGR3thkHf8S9rvJgycmOswQ721sZNlWkBFixmXN" type="audio/mpeg"&gt;
+&lt;/audio&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="53410">
+                <material>
+                  <mattext texttype="text/plain">la playa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81445">
+                <material>
+                  <mattext texttype="text/plain">el colegio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34307">
+                <material>
+                  <mattext texttype="text/plain">la clase</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83457">
+                <material>
+                  <mattext texttype="text/plain">el campo de fútbol</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">53410</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gfb218ec929900d4154ff38b5f55c6122" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>46974,59613,40046,35347</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9ed0bfc70322702dc1670556d455de54</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+&lt;source src="https://canvas.instructure.com/assessment_questions/297829328/files/252528291/download?verifier=Q6DrGRi8oLLTAT79Bhgr6ncOlPNiYAjjiKZYHpAy" type="audio/mpeg"&gt;
+&lt;/audio&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="46974">
+                <material>
+                  <mattext texttype="text/plain">la piscina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59613">
+                <material>
+                  <mattext texttype="text/plain">la biblioteca pública</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40046">
+                <material>
+                  <mattext texttype="text/plain">la playa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35347">
+                <material>
+                  <mattext texttype="text/plain">el museo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">59613</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc3fd1c456a15d8e7daee81ecdb86ca89" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>70993,31935,68300,52835</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9038b040ac11e4dd275ba326a46e798e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+&lt;source src="https://canvas.instructure.com/assessment_questions/297829292/files/252528223/download?verifier=aJTcXt6ZkY4GYdp2EIwp2xtAESV4WvG0ndkI0cCX" type="audio/mpeg"&gt;
+&lt;/audio&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="70993">
+                <material>
+                  <mattext texttype="text/plain">el parque nacional</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31935">
+                <material>
+                  <mattext texttype="text/plain">el museo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68300">
+                <material>
+                  <mattext texttype="text/plain">la escuela</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52835">
+                <material>
+                  <mattext texttype="text/plain">la casa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">31935</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

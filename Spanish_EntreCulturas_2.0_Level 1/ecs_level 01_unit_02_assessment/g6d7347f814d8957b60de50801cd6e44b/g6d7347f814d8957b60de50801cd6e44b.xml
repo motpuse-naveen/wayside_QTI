@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6d7347f814d8957b60de50801cd6e44b" title="Comunicación 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g3f0345098e684c56035c64c8fe832d4f" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7161,8879,3328,7044,1538</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g80de98ac22c6d0d1a28d0f317f384417</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures. Match each activity with the name of the place where it would be done.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7161">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq1_activity1_q1.jpg" alt="A group of adults sitting at a table painting."&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9402">
+                <material>
+                  <mattext>el centro comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="224">
+                <material>
+                  <mattext>el laboratorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2658">
+                <material>
+                  <mattext>la universidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="161">
+                <material>
+                  <mattext>la escuela restaurante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5076">
+                <material>
+                  <mattext>el parque nacional</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8879">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq1_activity1_q2.jpg" alt="A woman looking into a microscope in a lab."&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9402">
+                <material>
+                  <mattext>el centro comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="224">
+                <material>
+                  <mattext>el laboratorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2658">
+                <material>
+                  <mattext>la universidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="161">
+                <material>
+                  <mattext>la escuela restaurante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5076">
+                <material>
+                  <mattext>el parque nacional</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3328">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq1_activity1_q3.jpg" alt="A man standing in front of students with a whiteboard covered in writing behind him."&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9402">
+                <material>
+                  <mattext>el centro comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="224">
+                <material>
+                  <mattext>el laboratorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2658">
+                <material>
+                  <mattext>la universidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="161">
+                <material>
+                  <mattext>la escuela restaurante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5076">
+                <material>
+                  <mattext>el parque nacional</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7044">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq1_activity1_q4.jpg" alt="A chef teaching a group of adults how to cook."&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9402">
+                <material>
+                  <mattext>el centro comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="224">
+                <material>
+                  <mattext>el laboratorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2658">
+                <material>
+                  <mattext>la universidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="161">
+                <material>
+                  <mattext>la escuela restaurante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5076">
+                <material>
+                  <mattext>el parque nacional</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1538">
+            <material>
+              <mattext texttype="text/html">&lt;div style="margin-right:10px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq1_activity1_q5.jpg" alt="A park ranger standing in front of an animal habitat."&gt;&lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9402">
+                <material>
+                  <mattext>el centro comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="224">
+                <material>
+                  <mattext>el laboratorio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2658">
+                <material>
+                  <mattext>la universidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="161">
+                <material>
+                  <mattext>la escuela restaurante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5076">
+                <material>
+                  <mattext>el parque nacional</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7161">9402</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8879">224</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3328">2658</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7044">161</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1538">5076</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
