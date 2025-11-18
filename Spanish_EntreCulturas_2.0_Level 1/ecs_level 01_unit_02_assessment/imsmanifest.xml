@@ -220,5 +220,17 @@
     <resource identifier="70fb52b9-5c1b-4974-ac6a-b0b3f04a98e0" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-3_ac1_q6.txt">
       <file href="assessment_questions/ECS1_unit2_comunicacion-3_ac1_q6.txt"/>
     </resource>
+    <resource identifier="cce864b7-fbad-4910-addf-909d5bc97886" type="webcontent" href="assessment_questions/ECS1_unit2_assessment_ac2_q1.txt">
+      <file href="assessment_questions/ECS1_unit2_assessment_ac2_q1.txt"/>
+    </resource>
+    <resource identifier="1cb5b3b1-6f5d-4e16-927d-57e5595c5560" type="webcontent" href="assessment_questions/ECS1_unit2_assessment_ac2_q2.txt">
+      <file href="assessment_questions/ECS1_unit2_assessment_ac2_q2.txt"/>
+    </resource>
+    <resource identifier="2f19e3fc-f547-43e2-9270-1483bb4a2720" type="webcontent" href="assessment_questions/ECS1_unit2_assessment_ac2_q3.txt">
+      <file href="assessment_questions/ECS1_unit2_assessment_ac2_q3.txt"/>
+    </resource>
+    <resource identifier="1ae71a10-739a-4f93-a5b9-f73f9cba0c18" type="webcontent" href="assessment_questions/ECS1_unit2_assessment_ac2_q4.txt">
+      <file href="assessment_questions/ECS1_unit2_assessment_ac2_q4.txt"/>
+    </resource>
   </resources>
 </manifest>
