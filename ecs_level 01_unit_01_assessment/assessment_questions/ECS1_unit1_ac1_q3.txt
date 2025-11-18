@@ -1,0 +1,17 @@
+Speaker 1
+¿Te gusta escuchar música?
+
+Speaker 2
+Sí, me gusta escuchar música y bailar.
+
+Speaker 1
+A mí también
+
+Speaker 2
+¿Te gusta jugar videojuegos?
+
+Speaker 1
+No, no me gusta jugar videojuegos, pero me gusta mirar videos.
+
+Speaker 2
+¡Qué bueno!

@@ -43,6 +43,7 @@
 &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
                 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
                 &lt;/audio&gt;&lt;/p&gt;
+&lt;div class="transcript"&gt;&lt;a download="media/assessment_questions/ECS1_unit1_ac1_q3.txt"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;—¿ [RESPONSE](1) escuchar música?&lt;/div&gt;
 &lt;div&gt;—Sí, [RESPONSE1](2) escuchar música y bailar.&lt;/div&gt;
 &lt;div&gt;—A mí también.&lt;/div&gt;

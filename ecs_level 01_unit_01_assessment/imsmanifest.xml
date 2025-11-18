@@ -173,5 +173,18 @@
     <resource identifier="g50c0f45552bfda0e21da48d07c0d9dc4" type="webcontent" href="assessment_questions/unit1_ac4_q1.mp3">
       <file href="assessment_questions/unit1_ac4_q1.mp3"/>
     </resource>
+
+    <resource identifier="bcab42b5-2a51-4940-a195-a5d32aeab2f1" type="webcontent" href="assessment_questions/ECS1_unit1_ac1_q3.txt">
+      <file href="assessment_questions/ECS1_unit1_ac1_q3.txt"/>
+    </resource>
+    <resource identifier="60facd01-25db-4510-8df1-6563ba4d8550" type="webcontent" href="assessment_questions/ECS1_unit1_ac2_q1.txt">
+      <file href="assessment_questions/ECS1_unit1_ac2_q1.txt"/>
+    </resource>
+    <resource identifier="bd16b168-1909-4d26-a688-f29351c6d3a1" type="webcontent" href="assessment_questions/ECS1_unit1_assessment_ac3.txt">
+      <file href="assessment_questions/ECS1_unit1_assessment_ac3.txt"/>
+    </resource>
+    <resource identifier="aaf011e3-dda8-4bd6-98b1-8ced27e2d6ed" type="webcontent" href="assessment_questions/ECS1_unit1_assessment_ac4.txt">
+      <file href="assessment_questions/ECS1_unit1_assessment_ac4.txt"/>
+    </resource>
   </resources>
 </manifest>

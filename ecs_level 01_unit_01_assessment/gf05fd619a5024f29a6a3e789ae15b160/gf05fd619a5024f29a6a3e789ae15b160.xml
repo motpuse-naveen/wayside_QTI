@@ -46,6 +46,7 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
                 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
                 &lt;/audio&gt;&lt;/p&gt;
+&lt;div class="transcript"&gt;&lt;a download="media/assessment_questions/ECS1_unit1_ac2_q1.txt"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;Listen carefully to each audio file and then complete each sentence by writing the appropriate word from the word bank to describe the character. Pay attention! There are two words that you will not use.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style="border: 1px solid black; display: ruby-text;"&gt;ciclista voluntaria vegetariano músico bilingüe poeta&lt;/p&gt;
