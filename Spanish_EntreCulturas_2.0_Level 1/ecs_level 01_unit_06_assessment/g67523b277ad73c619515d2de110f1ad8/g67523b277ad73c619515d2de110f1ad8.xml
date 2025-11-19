@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g67523b277ad73c619515d2de110f1ad8" title="Comunicación 2 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.1.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.1.3</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g44ddc459c2893f766e193513610f10f9" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1123,6121,9829,2671,751,3551</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g60a2e2c5b75e794398dcbf06b1ce6619</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures of people doing different activities. Listen carefully to each audio and then match it to the correct image number.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q1.jpg" alt="Two sisters going trick-or-treating" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q2.jpg" alt="A woman looking through a microscope in a lab" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q3.jpg" alt="A woman tying her shoes" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q4.jpg" alt="A dog running" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;e. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q5.jpg" alt="A teacher talking to a student sitting at a desk with the middle-aged man standing next to them holding the student’s belongings" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;f. &lt;img style="margin-left: 4px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_vgq_gq1_activity2_q6.jpg" alt="A young man texting on his phone" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1123">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;1.&lt;/p&gt;
+                      &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                  &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6121">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;2.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                           &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;&lt;/div&gt;
+                      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;      
+                            </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9829">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;3.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;&lt;/div&gt;
+                     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
+                            </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2671">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;4.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;&lt;/div&gt;
+                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                            </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_751">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;5.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;&lt;/div&gt;
+                  &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                            </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3551">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;6.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_gr_ac2_q6.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;&lt;/div&gt;
+             &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit6_Comunicacion 2_6.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;               
+                            </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5234">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9260">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4013">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3941">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="162">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7845">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1123">5234</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6121">9260</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9829">4013</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2671">3941</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_751">162</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3551">7845</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

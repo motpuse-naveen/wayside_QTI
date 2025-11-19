@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g26d98a3558bbea818194136eb1b99cfa" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g6be8f7a634ae8c3328aeb59c7f607aa1" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>94158,18806,36554,27547</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd46292010969c2c3ed47fc730a37b716</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each sentence and decide who does the action (&lt;i&gt;¿Quién hace la acción?&lt;/i&gt;).&lt;/p&gt;
+          
+               &lt;p&gt;El lunes almuerzas con Melisa y Luz. &lt;/p&gt;
+               &lt;p&gt;¿Quién hace la acción? &lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="94158">
+                <material>
+                  <mattext texttype="text/plain">ellas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18806">
+                <material>
+                  <mattext texttype="text/plain">yo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36554">
+                <material>
+                  <mattext texttype="text/plain">usted</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27547">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">27547</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd2083728269ad48ebc7f1ebe51b8b0c3" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>74856,93073,97513,95123</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g315a4b6d57993075ad15dfb24b41cbf3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Duermen en casa de su abuela.&lt;/p&gt;
+               &lt;p&gt;¿Quién hace la acción?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="74856">
+                <material>
+                  <mattext texttype="text/plain">yo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93073">
+                <material>
+                  <mattext texttype="text/plain">los niños</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97513">
+                <material>
+                  <mattext texttype="text/plain">Rosa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95123">
+                <material>
+                  <mattext texttype="text/plain">usted</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">93073</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g98c8adf6e9b1db52e13862d362cead8d" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>12878,54024,88266,42162</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g65cfaf1267173b611413479239aceb3d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Puede ir a Nueva York en tren. &lt;/p&gt;
+               &lt;p&gt;¿Quién hace la acción?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="12878">
+                <material>
+                  <mattext texttype="text/plain">Mario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54024">
+                <material>
+                  <mattext texttype="text/plain">ustedes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88266">
+                <material>
+                  <mattext texttype="text/plain">nosotros</mattext>
+                </material>
+              </response_label>
+              <response_label ident="42162">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">12878</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g87e1fd9358f665827d818ad9d6d58548" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>40928,15589,36365,49008</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc9e73f69cff2cca7e5a9c1eb21d043bd</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Todos los fines de semana juegan dominó. &lt;/p&gt;
+               &lt;p&gt;¿Quién hace la acción?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="40928">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="15589">
+                <material>
+                  <mattext texttype="text/plain">mis tíos y mis padres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36365">
+                <material>
+                  <mattext texttype="text/plain">mis padres y yo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49008">
+                <material>
+                  <mattext texttype="text/plain">usted</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">15589</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9a4d0bc6574eab0a5dc5cabdad7ee51c" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>426,89951,36407,53600</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6c9ca98d0dc49f8c169cd80a787b6d0e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Los domingos en la tarde dormimos una siesta. &lt;/p&gt;
+               &lt;p&gt;¿Quién hace la acción?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="426">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89951">
+                <material>
+                  <mattext texttype="text/plain">mis amigos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36407">
+                <material>
+                  <mattext texttype="text/plain">ustedes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53600">
+                <material>
+                  <mattext texttype="text/plain">mis amigos y yo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">53600</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g97cf920d5dd8a80a6f2d156c662d560c" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>25304,33225,48618,5174</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf82156264b92d5cbed19ce529a0df266</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Hoy puedo ayudarte con la tarea. ¿Quién hace la acción?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="25304">
+                <material>
+                  <mattext texttype="text/plain">Rosa y tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33225">
+                <material>
+                  <mattext texttype="text/plain">ustedes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48618">
+                <material>
+                  <mattext texttype="text/plain">yo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5174">
+                <material>
+                  <mattext texttype="text/plain">Mario</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">48618</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g45b6207f3c67bbb300345c79f4733cd3" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65232,83085,83375,83622</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g10aeadcacc540efe262a55c334bb278d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Pueden tomar el metro muy cerca de la casa. ¿Quién hace la acción?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="65232">
+                <material>
+                  <mattext texttype="text/plain">Luz y tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83085">
+                <material>
+                  <mattext texttype="text/plain">Tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83375">
+                <material>
+                  <mattext texttype="text/plain">usted</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83622">
+                <material>
+                  <mattext texttype="text/plain">Rosa y yo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">65232</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g665f36e97442fd7b065c1f6b94f730e4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>86101,69421,35401,78717</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g26115c13e7acdd05446a41969eaadc98</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;¿A qué hora vuelven a casa el sábado? ¿Quién hace la acción?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="86101">
+                <material>
+                  <mattext texttype="text/plain">tú</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69421">
+                <material>
+                  <mattext texttype="text/plain">ustedes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35401">
+                <material>
+                  <mattext texttype="text/plain">tu amigo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78717">
+                <material>
+                  <mattext texttype="text/plain">nosotros</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">69421</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

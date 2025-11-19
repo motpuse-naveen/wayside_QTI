@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6d5c3f6c3cdfa5107b476922ea7b07ca" title="Unit Assessments - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.1.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g38474fc7b546ebca43302f67bcd8e72d" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>37544,85257,4395,83573</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g80c1af61d13425801b797e20a05110ee</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures and choose the option that best completes each sentence.&lt;/p&gt;
+
+        &lt;p&gt;1. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q1.jpg" alt="mountains"&gt;&lt;/p&gt;
+
+        &lt;p&gt;_____ es muy alta.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="37544">
+                <material>
+                  <mattext texttype="text/plain">La costa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85257">
+                <material>
+                  <mattext texttype="text/plain">La montaña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4395">
+                <material>
+                  <mattext texttype="text/plain">La sala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83573">
+                <material>
+                  <mattext texttype="text/plain">La playa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">85257</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gca75ded6a276a1b2ae335088044df95a" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>95658,1362,8957,17849</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7b5f1f8496361f60779eea5a4626e2cb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q2.jpg" alt="a toucan"&gt;&lt;/p&gt;
+
+        &lt;p&gt;El tucán vive en _____ tropical.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="95658">
+                <material>
+                  <mattext texttype="text/plain">el valle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1362">
+                <material>
+                  <mattext texttype="text/plain">la montaña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8957">
+                <material>
+                  <mattext texttype="text/plain">el mar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17849">
+                <material>
+                  <mattext texttype="text/plain">la selva</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">17849</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g423614ab6531b38b5f2a86a7d4972d17" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>83867,90752,62298,11410</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5b87b4135d660b2083c263e53b388ca9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q3.jpg" alt="small boats in the water at the edge of a beach"&gt;&lt;/p&gt;
+
+        &lt;p&gt;Hace buen tiempo en _____.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="83867">
+                <material>
+                  <mattext texttype="text/plain">la selva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="90752">
+                <material>
+                  <mattext texttype="text/plain">el festival</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62298">
+                <material>
+                  <mattext texttype="text/plain">la costa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11410">
+                <material>
+                  <mattext texttype="text/plain">el valle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">62298</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge79163c955050f6288209fc1b5ccd770" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>56303,70791,1523,69969</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1d0047f0851a509c1d6ab7755e854e91</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q4.jpg" alt="a desert"&gt;&lt;/p&gt;
+
+        &lt;p&gt;Case nunca llueve en _____.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="56303">
+                <material>
+                  <mattext texttype="text/plain">el desierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70791">
+                <material>
+                  <mattext texttype="text/plain">el juego</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1523">
+                <material>
+                  <mattext texttype="text/plain">la playa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69969">
+                <material>
+                  <mattext texttype="text/plain">la selva</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">56303</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga46abb62b5235341ee8cefa319c492e5" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65289,14531,33223,81182</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gdff79010286bdee2dcbce7cac8bf6c97</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q5.jpg" alt="an ocean"&gt;&lt;/p&gt;
+
+        &lt;p&gt;En _____ de Florida, hay muchos peces.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="65289">
+                <material>
+                  <mattext texttype="text/plain">la selva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14531">
+                <material>
+                  <mattext texttype="text/plain">el valle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33223">
+                <material>
+                  <mattext texttype="text/plain">la montaña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81182">
+                <material>
+                  <mattext texttype="text/plain">el mar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">81182</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g31ce95f139fe2587e12fc986b2871fe0" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>96843,25221,96972,83495</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5584d3bec26e3f3ffe397f8a5826c26c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;6. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q6.jpg" alt="a valley surrounded by mountains"&gt;&lt;/p&gt;
+
+        &lt;p&gt;_____ está cubierto de vegetación.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="96843">
+                <material>
+                  <mattext texttype="text/plain">El puente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="25221">
+                <material>
+                  <mattext texttype="text/plain">El valle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96972">
+                <material>
+                  <mattext texttype="text/plain">El desierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83495">
+                <material>
+                  <mattext texttype="text/plain">El mar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">25221</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc64e102889ceea4a38e2268d1ebab4a3" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>40580,33029,83557,6011</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g12e09ae4d1b3e4c13ed5596b0baeb656</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;7. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q7.jpg" alt="the plains"&gt;&lt;/p&gt;
+
+        &lt;p&gt;Muchas hierbas crecen en _____.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="40580">
+                <material>
+                  <mattext texttype="text/plain">el llano</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33029">
+                <material>
+                  <mattext texttype="text/plain">la montaña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83557">
+                <material>
+                  <mattext texttype="text/plain">el mar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6011">
+                <material>
+                  <mattext texttype="text/plain">la playa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">40580</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g06288649bd974b870eb58a2095c8688e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>54296,88701,23934,22977</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g152325c0a7f0751b6f4b2b65afaf4d9f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;8. &lt;/p&gt;
+        &lt;p style="width:55%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u6_ua_vq1_activity1_q8.jpg" alt="a river"&gt;&lt;/p&gt;
+
+        &lt;p&gt;Navegamos por _____ Cuenca.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="54296">
+                <material>
+                  <mattext texttype="text/plain">la montaña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88701">
+                <material>
+                  <mattext texttype="text/plain">el río</mattext>
+                </material>
+              </response_label>
+              <response_label ident="23934">
+                <material>
+                  <mattext texttype="text/plain">el llano</mattext>
+                </material>
+              </response_label>
+              <response_label ident="22977">
+                <material>
+                  <mattext texttype="text/plain">la costa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">88701</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
