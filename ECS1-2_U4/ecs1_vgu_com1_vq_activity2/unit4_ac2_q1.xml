@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>queso</value>
+			<value>huevo</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Queso" mappedValue="1"/>
+			<mapEntry mapKey="queso" mappedValue="0.5"/>
+			<mapEntry mapKey="Huevo" mappedValue="1"/>
+			<mapEntry mapKey="huevo" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>huevo</value>
+			<value>queso</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Huevo" mappedValue="1"/>
+			<mapEntry mapKey="huevo" mappedValue="0.5"/>
+			<mapEntry mapKey="Queso" mappedValue="1"/>
+			<mapEntry mapKey="queso" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>pescado</value>
+			<value>brócoli</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Pescado" mappedValue="1"/>
+			<mapEntry mapKey="pescado" mappedValue="0.5"/>
+			<mapEntry mapKey="Brócoli" mappedValue="1"/>
+			<mapEntry mapKey="brócoli" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>brócoli </value>
+			<value>pescado </value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Brócoli " mappedValue="1"/>
+			<mapEntry mapKey="brócoli " mappedValue="0.5"/>
+			<mapEntry mapKey="Pescado " mappedValue="1"/>
+			<mapEntry mapKey="pescado " mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>lentejas</value>
+			<value>papas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Lentejas" mappedValue="1"/>
+			<mapEntry mapKey="lentejas" mappedValue="0.5"/>
+			<mapEntry mapKey="papas" mappedValue="1"/>
+			<mapEntry mapKey="papas" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>papas</value>
+			<value>lentejas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Papas" mappedValue="1"/>
+			<mapEntry mapKey="papas" mappedValue="0.5"/>
+			<mapEntry mapKey="Lentejas" mappedValue="1"/>
+			<mapEntry mapKey="lentejas" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		
+
+		
+
+  <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>textentry</title>
+        <description>This is a textentry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>textentry</keyword>
+        </keywords>
+  </metadata>
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+
+
+
+		<p>Listen carefully to what Maria says about the foods she likes to eat. Pay close attention to the foods she names. Then, based on what you hear, follow the directions to classify the foods in the word bank.</p>
+    <div>
+
+    <div class="prompt">
+			<div>		<p><audio id="audioElement" controls="controls">
+      			<source src="audio/unit4_ac2_q1.mp3" type="audio/mpeg" />
+    			</audio><br/></p></div>
+</div>
+
+
+		<div>
+		<p style=" border:1px solid black; display:ruby-text;"> pescado   lentejas  queso   huevo   papas   brócoli </p>
+
+		<p>Write the food on the word bank in the appropriate column:</p>
+
+
+<html>
+<style>
+table, th, td {
+  border:1px solid black; text-align:left-center;
+}
+</style>
+<body>
+		<table>
+  <tr>
+    <td>En la mañana, María come…</td>
+    <td>En el almuerzo, María come…</td>
+    <td>María no menciona (<i>mention</i>) …</td>
+  </tr>
+  <tr>
+   
+    <td><p>1. <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/></p></td>
+    <td><p>3. <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/></p></td>
+    <td><p>5. <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/></p></td>
+  </tr>
+
+  <tr>
+   
+    <td><p>2. <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/></p></td>
+    <td><p>4. <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/></p></td>
+    <td><p>6. <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/></p></td>
+  </tr>
+ 
+</table>
+</body> 
+</html>
+
+
+
+</div>
+
+
+
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

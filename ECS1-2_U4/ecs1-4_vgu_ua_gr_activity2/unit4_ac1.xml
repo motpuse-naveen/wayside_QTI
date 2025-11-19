@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>quieres</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="quieres" mappedValue="1"/>
+			<mapEntry mapKey="quieres" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>recomiendo</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="recomiendo" mappedValue="1"/>
+			<mapEntry mapKey="recomiendo" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>preferimos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="preferimos" mappedValue="1"/>
+			<mapEntry mapKey="preferimos" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>quieren</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="quieren" mappedValue="1"/>
+			<mapEntry mapKey="quieren" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>quiere</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="quiere" mappedValue="1"/>
+			<mapEntry mapKey="quiere" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>prefiere</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="prefiere" mappedValue="1"/>
+			<mapEntry mapKey="prefiere" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE6" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>recomienda</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="recomienda" mappedValue="1"/>
+			<mapEntry mapKey="recomienda" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE7" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>prefieren</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="prefieren" mappedValue="1"/>
+			<mapEntry mapKey="prefieren" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>text-entry</title>
+        <description>This is a text-entry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>text-entry</keyword>
+        </keywords>
+    </metadata>
+
+
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+		<p>Complete the following sentences using the appropriate form of the verbs in parentheses.</p>
+		<div>
+		<p>1. ¿Tú <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/>(querer) probar un plato típico de México?<br>
+		2. Yo <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/>(recomendar) los camarones con salsa.<br>
+		3. Nosotros <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/>(preferir) un plato de carne de res.<br>
+		4. Entonces ustedes <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/>(querer) carne con papas<br>
+		5. ¿Antonio también <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/>(querer) carne?<br>
+		6. Él <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/>(preferir) pescado y una ensalada.<br>
+		7. El chef <textEntryInteraction responseIdentifier="RESPONSE6" expectedLength="15"/>(recomendar) probar estos cuatro platos.<br>
+		8. Y para el postre, ¿ustedes <textEntryInteraction responseIdentifier="RESPONSE7" expectedLength="15"/>(preferir) helado, pastel o fruta?</p>
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

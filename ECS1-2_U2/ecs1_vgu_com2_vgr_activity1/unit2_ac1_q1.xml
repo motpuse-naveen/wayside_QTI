@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+    identifier="choice" title="simple-choice" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+        <correctResponse>
+            <value>ChoiceC</value>
+        </correctResponse>
+    </responseDeclaration>
+      <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>simple choice</title>
+        <description>This is a simple choice QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>simple choice</keyword>
+        </keywords>
+  </metadata>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+        <defaultValue>
+            <value>0</value>
+        </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+    <div class="quiz-header">
+        <p>Choose the correct article for each word.</p>
+        <P>_____ asignatura</P>
+
+        
+               </div>
+        <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+            <simpleChoice identifier="ChoiceA">el</simpleChoice>
+            <simpleChoice identifier="ChoiceB">las</simpleChoice>
+            <simpleChoice identifier="ChoiceC">la</simpleChoice>
+            <simpleChoice identifier="ChoiceD">los</simpleChoice>
+        </choiceInteraction>
+          
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct"/>
+</assessmentItem>
+
+

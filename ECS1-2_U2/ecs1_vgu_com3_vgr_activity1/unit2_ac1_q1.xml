@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>dibujas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Dibujas" mappedValue="1"/>
+			<mapEntry mapKey="dibujas" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>estudiamos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Estudiamos" mappedValue="1"/>
+			<mapEntry mapKey="estudiamos" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>enseña</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Enseña" mappedValue="1"/>
+			<mapEntry mapKey="enseña" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>cantan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Cantan" mappedValue="1"/>
+			<mapEntry mapKey="cantan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>participan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Participan" mappedValue="1"/>
+			<mapEntry mapKey="participan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		
+
+  <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>textentry</title>
+        <description>This is a textentry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>textentry</keyword>
+        </keywords>
+  </metadata>
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+		<p>Read the following sentences and complete them using the correct form of the verb in parentheses.
+</p>
+		<div>
+
+		<p> 
+
+		 <div>1. Tú <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/> (dibujar) con lápices de colores.</div>
+     <div>2. Carla y yo <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/> (estudiar) en la biblioteca los martes en la tarde.</div>
+     <div>3. ¿Usted <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/> (enseñar) matemáticas en la universidad?</div>
+     <div>4. Edu y Roberto <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/> (cantar) en el coro (<i>choir</i>) de la escuela.</div>
+     <div>5. Elena y tú no <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/> (participar) en la clase de inglés.</div>
+
+
+
+
+
+		</p>
+
+
+
+		
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+    identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>unas</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Unas" mappedValue="1"/>
+            <mapEntry mapKey="unas" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+
+        <responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>muchos</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Muchos" mappedValue="1"/>
+            <mapEntry mapKey="muchos" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+
+        <responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>un</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Un" mappedValue="1"/>
+            <mapEntry mapKey="un" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+
+        <responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>una</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Una" mappedValue="1"/>
+            <mapEntry mapKey="una" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+
+        <responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>muchas</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Muchas" mappedValue="1"/>
+            <mapEntry mapKey="muchas" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+      <responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+        <correctResponse>
+            <value>unos</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="Unos" mappedValue="1"/>
+            <mapEntry mapKey="unos" mappedValue="0.5"/>
+        </mapping>
+    </responseDeclaration>
+
+    
+
+    <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>text-entry</title>
+        <description>This is a text-entry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>text-entry</keyword>
+        </keywords>
+    </metadata>
+
+
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+    <itemBody>
+        <p>Read the end of each sentence and complete it with the correct form of the indefinite article/adjective (muchos/muchas) in parentheses to indicate existence. Look at the example below.</p>
+        <div>   
+        <p><b>Example:</b> (un) Hay ___________ profesora en la escuela. 🡪 Hay <u>una</u> profesora en la escuela. </p>
+    </div>
+        <div>
+        <p>1. (un) Hay <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/> jugadoras en el campo de fútbol.</p>
+        <p>2. (mucho) Hay <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/> libros en la biblioteca pública.</p>
+        <p>3. (un) Hay <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/> colegio en ese edificio.</p>
+        <p>4. (un) Hay <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/> poetisa en la clase.</p>
+        <p>5. (mucho) Hay <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/> voluntarias en el centro comunitario.</p>
+        <p>6. (un) Hay <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/> pintores en el museo.</p>
+            
+        </div>
+    </itemBody>
+    <responseProcessing
+        template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

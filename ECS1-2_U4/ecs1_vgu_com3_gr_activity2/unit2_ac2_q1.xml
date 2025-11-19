@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>esos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Esos" mappedValue="0.5"/>
+			<mapEntry mapKey="esos" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>esa</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Esa" mappedValue="0.5"/>
+			<mapEntry mapKey="esa" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>estas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Estas" mappedValue="0.5"/>
+			<mapEntry mapKey="estas" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>ese</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Ese" mappedValue="0.5"/>
+			<mapEntry mapKey="ese" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>estos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Estos" mappedValue="0.5"/>
+			<mapEntry mapKey="estos" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+	<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>esta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Esta" mappedValue="0.5"/>
+			<mapEntry mapKey="esta" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>textentry</title>
+        <description>This is a textentry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>textentry</keyword>
+        </keywords>
+  </metadata>
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+	<div>
+		<p>Look at the photos and complete the sentences with the appropriate demonstrative adjective. (If there are no people in the photo, assume that the objects are far away.) Look at the models.
+		</p>
+		
+	<!-- 	<!DOCTYPE html> -->
+<html>
+<style>
+table, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<table style="width:100%">
+
+   <tr>
+    <td><b>Modelo:</b></td>
+    <td><div style="max-width: 84%;"><img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_ex1.jpg" alt="a hand holding an apple on an apple tree"/></div> Me gusta <b><u>esta manzana.</u></b></td>
+    <td><div style="max-width: 90%;"><img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_ex2.jpg" alt="an apple orchard with apples on every tree"/></div> Me gustan <b><u>esas manzanas.</u></b></td>
+ 
+  </tr>
+  
+</table>
+</body>
+</html> 
+
+		</div>
+		
+
+		<div>
+		
+			<p>1. <div style="max-width: 45%; margin-left: 133px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q1.jpg" alt=" a produce stand with the following (from closest to farthest): sugar snap peas, ginger, chile peppers, kiwis, star fruit, kumquats, grapes, and more."/></div></p>
+            
+		<p>Quiero comprar <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/> chiles.</p>
+
+         <div>
+			<p>2. <div style="max-width: 45%; margin-left: 133px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q2.jpg" alt="A large cauliflower in front of a field of cauliflower plants."/></div></p>
+            
+		<p><textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/> coliflor es grande.</p></div>
+
+		<div>
+			<p>3. <div style="max-width: 35%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q3.jpg" alt="A woman holding a bowl of strawberries"/></div></p>
+            
+		<p>¡Me encantan <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/> fresas!</p></div>
+
+
+		<div>
+			<p>4. <div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q4.jpg" alt="a lemon"/></div></p>
+            
+		<p>¿Quieres <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/> limón?</p></div>
+
+
+		<div>
+			<p>5. <div style="max-width: 45%; margin-left: 133px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q5.jpg" alt="A bowl bean chili next to a tortilla and some small containers with toppings."/></div></p>
+            
+		<p>Quiero comer <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/> frijoles.</p></div>
+
+		<div>
+			<p>6. <div style="max-width: 45%; margin-left: 133px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_gq3_activity2_q6.jpg" alt="Hands washing spinach in a bowl."/></div></p>
+            
+		<p>Tengo que lavar <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/> espinaca.</p></div>
+
+
+
+</div>
+
+		
+		
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

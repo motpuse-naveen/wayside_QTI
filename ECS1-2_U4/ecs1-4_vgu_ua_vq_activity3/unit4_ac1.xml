@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>alérgica</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="alérgica" mappedValue="1"/>
+			<mapEntry mapKey="alérgica" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>jugo</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="jugo" mappedValue="1"/>
+			<mapEntry mapKey="jugo" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>arroz</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="arroz" mappedValue="1"/>
+			<mapEntry mapKey="arroz" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>pollo</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="pollo" mappedValue="1"/>
+			<mapEntry mapKey="pollo" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>lentejas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="lentejas" mappedValue="1"/>
+			<mapEntry mapKey="lentejas" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>lechuga</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="lechuga" mappedValue="1"/>
+			<mapEntry mapKey="lechuga" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE6" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>sal</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="sal" mappedValue="1"/>
+			<mapEntry mapKey="sal" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE7" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>salsa</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="salsa" mappedValue="1"/>
+			<mapEntry mapKey="salsa" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>text-entry</title>
+        <description>This is a text-entry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>simple-choice</keyword>
+        </keywords>
+    </metadata>
+
+
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+		<p>Write the phrases in the word bank to complete each sentence.
+</p>
+		<div>
+		<p style=" border:1px solid black; display: ruby-text;">sal  arroz  alérgica  sals  jugo  lentejas  pollo  lechuga</p>
+		<p>Me gusta la fruta, pero no puedo comer fresas porque soy <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/>(1). También me gusta beber <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/>(2) de fruta natural. Me gusta comer la comida tradicional y balanceada. Por ejemplo, me gusta poner en mi plato cereales como el <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/>(3) o el maíz; proteínas como el <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/>(4) y las <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/>(5), y también una buena ensalada con <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/>(6) y tomate. Me gusta preparar la comida con poca <textEntryInteraction responseIdentifier="RESPONSE6" expectedLength="15"/>(7) y <textEntryInteraction responseIdentifier="RESPONSE7" expectedLength="15"/>(8) picante.</p>
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

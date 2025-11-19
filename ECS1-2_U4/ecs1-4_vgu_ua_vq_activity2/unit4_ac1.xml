@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd"
+    identifier="match" title="simple-choice4" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="multiple" baseType="directedPair">
+        <correctResponse>
+            <value>C R</value>
+            <value>D S</value>
+            <value>L V</value>
+            <value>P W</value>
+            <value>A T</value>
+            <value>B Q</value>
+            <value>E M</value>
+            <value>F U</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="C R" mappedValue="1"/>
+            <mapEntry mapKey="D V" mappedValue="0.5"/>
+            <mapEntry mapKey="L M" mappedValue="0.5"/>
+            <mapEntry mapKey="P T" mappedValue="1"/>
+            <mapEntry mapKey="A S" mappedValue="1"/>
+            <mapEntry mapKey="B U" mappedValue="0.5"/>
+            <mapEntry mapKey="E W" mappedValue="0.5"/>
+            <mapEntry mapKey="F Q" mappedValue="1"/>
+        </mapping>
+    </responseDeclaration>
+    <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>matching</title>
+        <description>This is a matching QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>simple-choice</keyword>
+        </keywords>
+    </metadata>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+    <itemBody>
+   
+    <P> Match each word to its description.</P>
+
+        <matchInteraction responseIdentifier="RESPONSE" shuffle="true" maxAssociations="4">
+            
+            <simpleMatchSet>
+                <simpleAssociableChoice identifier="C" matchMax="1">la cena</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="D" matchMax="1">el batido</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="L" matchMax="1">el jugo</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="P" matchMax="1">la sandía</simpleAssociableChoice>
+
+               <simpleAssociableChoice identifier="A" matchMax="1">el maíz</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="B" matchMax="1">el azúcar</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="E" matchMax="1">el desayuno</simpleAssociableChoice>
+
+                <simpleAssociableChoice identifier="F" matchMax="1">el sándwich</simpleAssociableChoice>
+
+
+
+
+            </simpleMatchSet>
+            <simpleMatchSet>
+                <simpleAssociableChoice identifier="M" matchMax="4">Esta comida la comemos a las 7 de la mañana.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="R" matchMax="4">Esta comida la comemos en la noche.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="T" matchMax="4">En México se come mucho este vegetal.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="V" matchMax="4">Es el líquido de las frutas.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="Q" matchMax="4">Tiene un sabor muy dulce (<i>sweet taste</i>)</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="S" matchMax="4">Esta bebida la preparamos con leche y fruta.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="U" matchMax="4">Esta comida la preparamos con pan, jamón (<i>ham</i>) y queso.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="W" matchMax="4">Es una fruta grande.</simpleAssociableChoice>
+            </simpleMatchSet>
+            </matchInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/map_response"/>
+</assessmentItem>

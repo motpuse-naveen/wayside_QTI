@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+    identifier="choice" title="simple-choice" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+        <correctResponse>
+            <value>ChoiceC</value>
+        </correctResponse>
+    </responseDeclaration>
+    <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>simple-choice</title>
+        <description>This is a simple-choice QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>simple-choice</keyword>
+        </keywords>
+    </metadata>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="integer">
+        <defaultValue>
+            <value>0</value>
+        </defaultValue>
+    </outcomeDeclaration>
+    <itemBody>
+    <div class="quiz-header">
+        <p>Read the following text. Based on the text you read, choose the option that best completes each statement.</p>
+        <p>Sara es una chica muy activa. De lunes a viernes estudia en la universidad. El jueves aprende a tocar el piano, tiene clase de 5 a 6. En su casa, ella practica piano el lunes y el miércoles. También le gusta cantar y los domingos en la mañana participa en el coro “Voces amigas”, en el centro comunitario. Su amigo Roger también canta en el coro. Los sábados en la tarde, Roger enseña inglés en la biblioteca pública. Muchas personas que asisten a las clases de Roger son de Costa Rica. A Roger le gusta hablar con los estudiantes. Ellos hablan de su país, de la naturaleza, de las costumbres y de la comida típica. ¡Es muy interesante! Roger quiere viajar a Costa Rica. ¡Sara y Roger también descansan y se divierten! Les gusta ir al cine los domingos en la tarde.</p>
+        <p>Sara estudia en ____________.</p>
+               </div>
+        <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1">
+            <simpleChoice identifier="ChoiceA">la biblioteca</simpleChoice>
+            <simpleChoice identifier="ChoiceB">la escuela</simpleChoice>
+            <simpleChoice identifier="ChoiceC">la universidad</simpleChoice>
+        </choiceInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/match_correct"/>
+</assessmentItem>

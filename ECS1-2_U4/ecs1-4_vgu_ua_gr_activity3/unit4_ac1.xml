@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>les gusta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="les gusta" mappedValue="1"/>
+			<mapEntry mapKey="les gusta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>te encanta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="te encanta" mappedValue="1"/>
+			<mapEntry mapKey="te encanta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>nos encanta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="nos encanta" mappedValue="1"/>
+			<mapEntry mapKey="nos encanta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>le gustan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="le gustan" mappedValue="1"/>
+			<mapEntry mapKey="le gustan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>le gusta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="le gusta" mappedValue="1"/>
+			<mapEntry mapKey="le gusta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>me encantan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="me encantan" mappedValue="1"/>
+			<mapEntry mapKey="me encantan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE6" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>les gustan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="les gustan" mappedValue="1"/>
+			<mapEntry mapKey="les gustan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE7" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>nos encanta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="nos encanta" mappedValue="1"/>
+			<mapEntry mapKey="nos encanta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>text-entry</title>
+        <description>This is a text-entry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>text-entry</keyword>
+        </keywords>
+    </metadata>
+
+
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+		<p>Complete the following sentences using the correct pronouns and verb forms.</p>
+		<p><b>Modelo:</b> (gustar) A él ____   __________ las papas. &#8594; A él <b><u>le</u></b> <b><u>gustan</u></b> las papas.</p>
+		<div>
+		<p>1. (gustar) 	A tus amigas <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/>el té con limón.<br>
+		2. (encantar) 	A ti <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/>el helado de fresa.<br>
+		3. (encantar)	A Xavier y a mí <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/>la carne con chiles picantes.<br>
+		4. (gustar)	    A usted no <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/>los plátanos.<br>
+		5. (gustar)  	A Eduardo <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/>el pollo con arroz.<br>
+		6. (encantar)	A mí <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/>las lentejas.<br>
+		7. (gustar)	    A David y Rosa <textEntryInteraction responseIdentifier="RESPONSE6" expectedLength="15"/>la lechuga y los tomates.<br>
+		8. (encantar)	A nosotras <textEntryInteraction responseIdentifier="RESPONSE7" expectedLength="15"/>comer hamburguesas con los amigos.</p>
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>
