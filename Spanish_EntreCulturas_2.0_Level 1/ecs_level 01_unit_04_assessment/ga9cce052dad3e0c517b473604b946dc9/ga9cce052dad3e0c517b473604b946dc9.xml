@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga9cce052dad3e0c517b473604b946dc9" title="Comunicación 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g88c2ed259fb0cd96c19b3f2ec910a6c1" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20065,55927,5563,89528,55504,47288</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g60a0e6b95ecadaf2fe50bb0ecb3494d5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the photos and write the name of each product. Be sure to include the appropriate definite article. Look at the models.&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Modelo:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div style="max-width: 56%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_ex1.jpg" alt="an apple"&gt;&lt;/div&gt;
+&lt;u&gt;la manzana&lt;/u&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;div style="max-width: 80%;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_ex2.jpg" alt="a bunch of grapes"&gt;&lt;/div&gt;
+&lt;u&gt;las uvas&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;div style="max-width: 40%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q1.jpg" alt="an avocado"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;div style="max-width: 40%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q2.jpg" alt="three pumpkins"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE1]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;div style="max-width: 40%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q3.jpg" alt="a mushroom"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE2]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;4.&amp;nbsp;&lt;/p&gt;
+&lt;div style="max-width: 40%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q4.jpg" alt="a basket of pears"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;[RESPONSE3]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;5.&amp;nbsp;&lt;/p&gt;
+&lt;div style="max-width: 30%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q5.jpg" alt="a cherry"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;[RESPONSE4]&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;6.&amp;nbsp;&lt;/p&gt;
+&lt;div style="max-width: 40%; margin-left: 160px;"&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q6.jpg" alt="three bell peppers"&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;[RESPONSE5]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20065">
+                <material>
+                  <mattext texttype="text/plain">el aguacate</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55927">
+                <material>
+                  <mattext texttype="text/plain">las calabazas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5563">
+                <material>
+                  <mattext texttype="text/plain">el champiñón</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89528">
+                <material>
+                  <mattext texttype="text/plain">las peras</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55504">
+                <material>
+                  <mattext texttype="text/plain">la cereza</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47288">
+                <material>
+                  <mattext texttype="text/plain">los pimientos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">20065</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">55927</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">5563</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">89528</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">55504</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">47288</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

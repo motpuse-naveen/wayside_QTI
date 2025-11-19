@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g1965735f1bd2f98643e4d8ba7bf50eaf" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gb3242269b771910b6c781d7af149ff90" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>8.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>59930,76771,53456,24689,2662,92448,7332,40653</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g732278c0cd6d0fec07d88e10bac5db27</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Complete the sentences by writing the appropriate demonstrative adjective. Look at the hints in parentheses to see which demonstrative adjective to use depending on whether a thing is near or far.&lt;/p&gt;
+&lt;p&gt;1. Yo como [RESPONSE]arroz. (Está cerca, en mi plato).&lt;br&gt;2. Quiero [RESPONSE1]leche. (Está lejos).&lt;br&gt;3. No quiero [RESPONSE2]pasta con tomate. (Está cerca, en mi plato).&lt;br&gt;4. Quiero [RESPONSE3]panes dulces (Están lejos).&lt;br&gt;5. ¿Cuánto cuestan [RESPONSE4]nueces? (Están cerca, en mi mano [&lt;i&gt;hand&lt;/i&gt;]).&lt;br&gt;6. ¿Cuánto cuesta [RESPONSE5]postre? (Está lejos).&lt;br&gt;7. Tengo que lavar [RESPONSE6]champiñones. (Están cerca, en mi mano [&lt;i&gt;hand&lt;/i&gt;]).&lt;br&gt;8. Por favor, póngame [RESPONSE7] cerezas. (Están lejos).&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59930">
+                <material>
+                  <mattext texttype="text/plain">este</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="76771">
+                <material>
+                  <mattext texttype="text/plain">esa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="53456">
+                <material>
+                  <mattext texttype="text/plain">esta</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="24689">
+                <material>
+                  <mattext texttype="text/plain">esos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2662">
+                <material>
+                  <mattext texttype="text/plain">estas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="92448">
+                <material>
+                  <mattext texttype="text/plain">ese</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE6">
+            <material>
+              <mattext>RESPONSE6</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7332">
+                <material>
+                  <mattext texttype="text/plain">estos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE7">
+            <material>
+              <mattext>RESPONSE7</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="40653">
+                <material>
+                  <mattext texttype="text/plain">esas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">59930</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">76771</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">53456</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">24689</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">2662</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">92448</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE6">7332</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE7">40653</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

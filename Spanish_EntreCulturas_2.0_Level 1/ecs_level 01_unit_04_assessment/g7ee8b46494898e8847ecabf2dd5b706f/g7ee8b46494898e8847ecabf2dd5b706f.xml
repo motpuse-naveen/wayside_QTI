@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7ee8b46494898e8847ecabf2dd5b706f" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g794ab582d042c1e29214d7a1905d5b64" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>8.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1254,6915,7560,2123,9359,4092,2854,5574</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1d581e3328fb1a3bdf51efb79b687266</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each word to its description.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1254">
+            <material>
+              <mattext texttype="text/plain">la cena</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6915">
+            <material>
+              <mattext texttype="text/plain">el batido</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7560">
+            <material>
+              <mattext texttype="text/plain">el jugo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2123">
+            <material>
+              <mattext texttype="text/plain">la sandía</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9359">
+            <material>
+              <mattext texttype="text/plain">el maíz</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4092">
+            <material>
+              <mattext texttype="text/plain">el azúcar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2854">
+            <material>
+              <mattext texttype="text/plain">el desayuno</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5574">
+            <material>
+              <mattext texttype="text/plain">el sándwich</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7393">
+                <material>
+                  <mattext>Esta comida la comemos en la noche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9830">
+                <material>
+                  <mattext>Esta bebida la preparamos con leche y fruta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="369">
+                <material>
+                  <mattext>Es el líquido de las frutas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8181">
+                <material>
+                  <mattext>Es una fruta grande.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93">
+                <material>
+                  <mattext>En México se come mucho este vegetal.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3901">
+                <material>
+                  <mattext>Tiene un sabor muy dulce (sweet taste).</mattext>
+                </material>
+              </response_label>
+              <response_label ident="431">
+                <material>
+                  <mattext>Esta comida la comemos a las 7 de la mañana.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6401">
+                <material>
+                  <mattext>Esta comida la preparamos con pan, jamón (ham) y queso.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1254">7393</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6915">9830</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7560">369</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2123">8181</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9359">93</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4092">3901</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2854">431</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5574">6401</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

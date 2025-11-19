@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gc2e039c4eaf7e0ab1e02bb28a047533d" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield><qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gfdc53791dc7de8457e59dec931866e10" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1829,626,3029,5528</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g362ddc1ec4f43a4e114c550fb022ab45</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;You will hear two sets of sentences about food (1-4 and 5-8). As you listen, look at the pictures and match each sentence you hear by choosing the correct option from the drop-down.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q1.jpg" alt="a sack of potatoe" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q2.jpg" alt="a plate with an assortment of cheeses" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q3.jpg" alt="a bowl of shrimp covered in a red sauce" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q4.jpg" alt="a bowl of cereal" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1829">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;1.&lt;/p&gt;
+                      &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q5.mp3" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;
+            &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                 
+                             &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5599">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4361">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9693">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8994">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_626">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;2.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                           &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q6.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+                                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q6.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;        
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5599">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4361">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9693">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8994">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3029">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;3.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q7.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+                              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q7.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5599">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4361">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9693">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8994">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5528">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;4.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q8.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+                   &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q8.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5599">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4361">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9693">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8994">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1829">5599</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_626">4361</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3029">9693</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5528">8994</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7490e73ac840d4d546545d4f1b3f97a0" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4460,2115,228,4931</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0388a36cf699b58553409fe7d5f5c398</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;You will hear two sets of sentences about food (1-4 and 5-8). As you listen, look at the pictures and match each sentence you hear by choosing the correct option from the drop-down.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;e. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q5.jpg" alt="a row of chicken and avocado tacos" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;f. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q6.jpg" alt="a bowl of chicken noodle soup" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;g. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q7.jpg" alt="a plate of steak" width="90%"&gt;&lt;/td&gt;
+&lt;td&gt;h. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_ua_vq_activity1_q8.jpg" alt="cheesecake" width="90%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4460">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;5.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                        &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q1.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+          &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;            
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="382">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6324">
+                <material>
+                  <mattext>g</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5425">
+                <material>
+                  <mattext>h</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9932">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2115">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;6.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                        &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q2.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+   &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                          
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="382">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6324">
+                <material>
+                  <mattext>g</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5425">
+                <material>
+                  <mattext>h</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9932">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_228">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;7.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                        &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q3.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                 
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="382">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6324">
+                <material>
+                  <mattext>g</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5425">
+                <material>
+                  <mattext>h</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9932">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4931">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;8.&lt;/p&gt;
+                    &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
+                        &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q4.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;    
+                            &lt;/div&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="382">
+                <material>
+                  <mattext>f</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6324">
+                <material>
+                  <mattext>g</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5425">
+                <material>
+                  <mattext>h</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9932">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4460">382</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2115">6324</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_228">5425</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4931">9932</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

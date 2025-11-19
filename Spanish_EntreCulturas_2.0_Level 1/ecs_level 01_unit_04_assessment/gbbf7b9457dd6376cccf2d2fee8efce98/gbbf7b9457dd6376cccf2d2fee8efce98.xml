@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbbf7b9457dd6376cccf2d2fee8efce98" title="Comunicación 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g0f1e9348dca3b5a8e32b3aec96bfe1ef" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7598,3621,9656,9579,2182,5843</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gacf6c6a16213cfbc6f2c914ba51861e6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read what Monica wrote about meals for herself and her family on a weekday. Then match the elements in the first and second columns to make sentences that make sense.&lt;/p&gt;
+&lt;p&gt;En las mañanas, antes de ir a la escuela, me gusta tomar leche y comer pan dulce y una fruta. Mi padre y mi hermana toman té con limón y mi madre toma café. A las 12 y media, mi hermana y yo comemos en la cafetería de la escuela. Yo como una hamburguesa y mi hermana come sopa y un sándwich. Bebemos jugo de fruta y luego comemos helado. En la noche, mi familia y yo comemos pollo y ensalada.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7598">
+            <material>
+              <mattext texttype="text/plain">En el desayuno, Mónica come</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3621">
+            <material>
+              <mattext texttype="text/plain">En el almuerzo, la hermana de Mónica come</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9656">
+            <material>
+              <mattext texttype="text/plain">En la cena, la familia come</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9579">
+            <material>
+              <mattext texttype="text/plain">En el desayuno, a la hermana de Mónica le gusta</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2182">
+            <material>
+              <mattext texttype="text/plain">En el almuerzo, Mónica bebe</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5843">
+            <material>
+              <mattext texttype="text/plain">Como postre, a Mónica le gusta</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4643">
+                <material>
+                  <mattext>pan dulce</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7060">
+                <material>
+                  <mattext>sopa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4605">
+                <material>
+                  <mattext>pollo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9637">
+                <material>
+                  <mattext>el té con limón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4717">
+                <material>
+                  <mattext>jugo de fruta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9520">
+                <material>
+                  <mattext>el helado</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7598">4643</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3621">7060</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9656">4605</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9579">9637</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2182">4717</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5843">9520</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
