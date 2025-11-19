@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g34ffe391ec0540c5557cfcb164d94df9" title="Comunicación 1 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge81add31e13515070358a27cd726abf0" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1199,4979,664,8015,4712,4564</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g16e426760d70d3366686583013ceab8b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the correct ending of each sentence from the drop down menu.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1199">
+            <material>
+              <mattext texttype="text/plain">1. En Naples, Martín y Jimena</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4979">
+            <material>
+              <mattext texttype="text/plain">2. Como hace sol, yo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_664">
+            <material>
+              <mattext texttype="text/plain">3. Para ir a la piscina, mi papá</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8015">
+            <material>
+              <mattext texttype="text/plain">4. Como hoy hace frío, ustedes</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4712">
+            <material>
+              <mattext texttype="text/plain">5. En invierno, a ti te gusta</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4564">
+            <material>
+              <mattext texttype="text/plain">6. Para salir a la nieve, nosotros</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4457">
+                <material>
+                  <mattext>se ponen protector solar en la playa.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5608">
+                <material>
+                  <mattext>me pongo mis gafas antes de salir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7154">
+                <material>
+                  <mattext>se pone el traje de baño.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5444">
+                <material>
+                  <mattext>se ponen un suéter.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5244">
+                <material>
+                  <mattext>ponerte calcetines.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1098">
+                <material>
+                  <mattext>nos ponemos guantes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1199">4457</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4979">5608</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_664">7154</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8015">5444</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4712">5244</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4564">1098</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

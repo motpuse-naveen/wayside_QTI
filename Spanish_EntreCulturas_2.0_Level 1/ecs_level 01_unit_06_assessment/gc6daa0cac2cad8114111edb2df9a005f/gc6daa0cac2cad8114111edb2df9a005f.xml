@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gc6daa0cac2cad8114111edb2df9a005f" title="Comunicación 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc9eb603ab4920fddac4e6804bae02b70" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6498,2692,9389,1102,5833</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcb6778f2bc45a50bc0120eaf14069ed8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the correct description for each word or expression from the drop down menu.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6498">
+            <material>
+              <mattext texttype="text/plain">1. bolsa</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3438">
+                <material>
+                  <mattext>donde guardas tus cosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4897">
+                <material>
+                  <mattext>sirve para escuchar música</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6843">
+                <material>
+                  <mattext>donde publicas tus fotos o videos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>sirve para protegerte de la lluvia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1515">
+                <material>
+                  <mattext>un sitio, como una ciudad o un pueblo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2692">
+            <material>
+              <mattext texttype="text/plain">2. audífonos</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3438">
+                <material>
+                  <mattext>donde guardas tus cosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4897">
+                <material>
+                  <mattext>sirve para escuchar música</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6843">
+                <material>
+                  <mattext>donde publicas tus fotos o videos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>sirve para protegerte de la lluvia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1515">
+                <material>
+                  <mattext>un sitio, como una ciudad o un pueblo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9389">
+            <material>
+              <mattext texttype="text/plain">3. red social</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3438">
+                <material>
+                  <mattext>donde guardas tus cosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4897">
+                <material>
+                  <mattext>sirve para escuchar música</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6843">
+                <material>
+                  <mattext>donde publicas tus fotos o videos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>sirve para protegerte de la lluvia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1515">
+                <material>
+                  <mattext>un sitio, como una ciudad o un pueblo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1102">
+            <material>
+              <mattext texttype="text/plain">4. paraguas</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3438">
+                <material>
+                  <mattext>donde guardas tus cosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4897">
+                <material>
+                  <mattext>sirve para escuchar música</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6843">
+                <material>
+                  <mattext>donde publicas tus fotos o videos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>sirve para protegerte de la lluvia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1515">
+                <material>
+                  <mattext>un sitio, como una ciudad o un pueblo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5833">
+            <material>
+              <mattext texttype="text/plain">5. lugar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3438">
+                <material>
+                  <mattext>donde guardas tus cosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4897">
+                <material>
+                  <mattext>sirve para escuchar música</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6843">
+                <material>
+                  <mattext>donde publicas tus fotos o videos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>sirve para protegerte de la lluvia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1515">
+                <material>
+                  <mattext>un sitio, como una ciudad o un pueblo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6498">3438</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2692">4897</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9389">6843</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1102">2804</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5833">1515</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
