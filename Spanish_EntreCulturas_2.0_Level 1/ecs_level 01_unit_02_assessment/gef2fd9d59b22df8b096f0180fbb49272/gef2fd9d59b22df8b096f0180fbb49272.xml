@@ -82,22 +82,29 @@
 &lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 [RESPONSE1]&lt;br&gt;&lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 [RESPONSE2]&lt;br&gt;&lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
-[RESPONSE3]
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
-[RESPONSE4]
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
-[RESPONSE5]
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+[RESPONSE5]&lt;br&gt;&lt;br&gt;
 &lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac2_q6.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;&lt;/div&gt;
-[RESPONSE6]&lt;/div&gt;&lt;/div&gt;</mattext>
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_uni2_comunicacion-2_ac2_q6.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+[RESPONSE6]&lt;/div&gt;&lt;/div&gt;
+</mattext>
           </material>
           <response_lid ident="response_RESPONSE1">
             <material>
