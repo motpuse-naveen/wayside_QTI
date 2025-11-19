@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g50900fd157cdab3a7ff5773c2a3ce866" title="Comunicación 3 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g3c6cd7a202b0dceffe70308dcb475c36" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>82208,57898,14887,71855,50946,60159</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge30fba138502af4cb433603f32d14e00</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Change the following sentences to the future, using &lt;strong&gt;ir a + infinitive&lt;/strong&gt; of the verb marked in bold. See the model below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modelo:&lt;/strong&gt; Miguel &lt;strong&gt;participa&lt;/strong&gt; en el desfile. &lt;strong&gt;-🡪&lt;/strong&gt; Miguel &lt;u&gt;&lt;strong&gt;va a participar&lt;/strong&gt;&lt;/u&gt; en el desfile.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;1. Mis amigos &lt;strong&gt;visitan&lt;/strong&gt; el Museo de las Casas Reales.&lt;br&gt;Mis amigos [RESPONSE] el Museo de las Casas Reales.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;2. Jesús y yo &lt;strong&gt;consultamos&lt;/strong&gt; el mapa de Santo Domingo.&lt;br&gt;Jesús y yo [RESPONSE1] el mapa de Santo Domingo.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;3. Yo &lt;strong&gt;compro&lt;/strong&gt; un boleto para el tren de Nueva York.&lt;br&gt;Yo [RESPONSE2] un boleto para el tren de Nueva York.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;4. Alicia y tú &lt;strong&gt;admiran&lt;/strong&gt; el nuevo estilo musical de estos artistas.&lt;br&gt;Alicia y tú [RESPONSE3] el nuevo estilo musical de estos artistas.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;5. Usted &lt;strong&gt;hace&lt;/strong&gt; una reservación en un hotel de Brooklyn.&lt;br&gt;Usted [RESPONSE4] una reservación en un hotel de Brooklyn.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;6. Tú &lt;strong&gt;subes&lt;/strong&gt; al barco para ir a la isla Ellis.&lt;br&gt;Tú [RESPONSE5] al barco para ir a la isla Ellis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="82208">
+                <material>
+                  <mattext texttype="text/plain">van a visitar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57898">
+                <material>
+                  <mattext texttype="text/plain">vamos a consultar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="14887">
+                <material>
+                  <mattext texttype="text/plain">voy a comprar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="71855">
+                <material>
+                  <mattext texttype="text/plain">van a admirar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="50946">
+                <material>
+                  <mattext texttype="text/plain">va a hacer</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="60159">
+                <material>
+                  <mattext texttype="text/plain">vas a subir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">82208</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">57898</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">14887</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">71855</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">50946</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">60159</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

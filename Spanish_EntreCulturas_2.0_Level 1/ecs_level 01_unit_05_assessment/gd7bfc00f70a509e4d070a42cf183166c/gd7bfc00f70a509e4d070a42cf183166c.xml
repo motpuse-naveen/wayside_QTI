@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd7bfc00f70a509e4d070a42cf183166c" title="Unit Assessment - Grammar Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g0858d9ac50760f99ab670878e4dd4c93" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>33163,11498,52641,83539,18091,4949</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2b577256dadcdc182071cb54fbc1a64c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the sentences and complete the missing words.&lt;/p&gt;
+&lt;div&gt;&lt;br&gt;1. &lt;audio id="audioElement" style="margin-bottom: -20px; margin-left: 10px;" controls="controls"&gt;
+      			&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit5_ac3_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;
+          &lt;br&gt;&lt;br&gt;
+        &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit5_assessment_ac3_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;            
+&lt;p&gt;Si vas a la República Dominicana en carnaval [RESPONSE] hacer muchas cosas divertidas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;2. &lt;audio id="audioElement" style="margin-bottom: -20px; margin-left: 10px;" controls="controls"&gt;
+      			&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit5_ac3_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;
+          &lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit5_assessment_ac3_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;               
+&lt;p&gt;Todo el mundo [RESPONSE1] poco. ¡La gente prefiere ver los desfiles y bailar!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;3. &lt;audio id="audioElement" style="margin-bottom: -20px; margin-left: 10px;" controls="controls"&gt;
+      			&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit5_ac3_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;
+           &lt;br&gt;&lt;br&gt;
+   &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit5_assessment_ac3_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
+
+&lt;p&gt;Al mediodía [RESPONSE2], luego [RESPONSE3] mi disfraz encima de la cama y lo miro. ¡Es hermoso!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;4. &lt;audio id="audioElement" style="margin-bottom: -20px; margin-left: 10px;" controls="controls"&gt;
+      			&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit5_ac3_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;
+          &lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit5_assessment_ac3_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;               
+&lt;p&gt;Hoy es el desfile principal y yo voy a [RESPONSE4].&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;5. &lt;audio id="audioElement" style="margin-bottom: -20px; margin-left: 10px;" controls="controls"&gt;
+      			&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit5_ac3_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+    			&lt;/audio&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit5_assessment_ac3_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
+&lt;p&gt;Hoy [RESPONSE5] a casa muy tarde.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="33163">
+                <material>
+                  <mattext texttype="text/plain">puedes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11498">
+                <material>
+                  <mattext texttype="text/plain">duerme</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="52641">
+                <material>
+                  <mattext texttype="text/plain">almuerzo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="83539">
+                <material>
+                  <mattext texttype="text/plain">pongo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="18091">
+                <material>
+                  <mattext texttype="text/plain">participar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4949">
+                <material>
+                  <mattext texttype="text/plain">volvemos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">33163</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">11498</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">52641</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">83539</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">18091</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">4949</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
