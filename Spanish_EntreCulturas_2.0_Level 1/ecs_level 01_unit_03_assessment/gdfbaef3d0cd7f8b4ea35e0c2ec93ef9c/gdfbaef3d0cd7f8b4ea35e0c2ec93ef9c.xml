@@ -47,6 +47,7 @@
 				&lt;audio id="audioElement" controls="controls"&gt;
       			&lt;source src="https://canvas.instructure.com/assessment_questions/296961020/files/251623454/download?verifier=NRXYCaP5USJoZJJaoEK16SUv1m3CW8rHBPWh2PSZ" type="audio/mpeg"&gt;
     			&lt;/audio&gt;
+          &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit3_assessment_ac3_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;br&gt;
 ¿Cuándo corre Viviana por el parque? ________&lt;/div&gt;</mattext>
           </material>
