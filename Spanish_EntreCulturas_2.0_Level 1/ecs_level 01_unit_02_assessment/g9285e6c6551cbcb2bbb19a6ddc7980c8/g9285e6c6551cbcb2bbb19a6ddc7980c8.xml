@@ -47,7 +47,9 @@
 &lt;br&gt;
 &lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="https://canvas.instructure.com/assessment_questions/297829612/files/252528619/download?verifier=dnCpUFRsGu4YjF2rSnJeZKMeHB0Qr23WBGIaEMgV" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/div&gt;</mattext>
+&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit2_comunicacion-1_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+</mattext>
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
@@ -111,7 +113,9 @@
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="https://canvas.instructure.com/assessment_questions/297829408/files/252528415/download?verifier=7zGR3thkHf8S9rvJgycmOswQ721sZNlWkBFixmXN" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/div&gt;</mattext>
+&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit2_comunicacion-1_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+</mattext>
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
@@ -175,7 +179,9 @@
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="https://canvas.instructure.com/assessment_questions/297829328/files/252528291/download?verifier=Q6DrGRi8oLLTAT79Bhgr6ncOlPNiYAjjiKZYHpAy" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/div&gt;</mattext>
+&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit2_comunicacion-1_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+</mattext>
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
@@ -239,7 +245,9 @@
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
 &lt;source src="https://canvas.instructure.com/assessment_questions/297829292/files/252528223/download?verifier=aJTcXt6ZkY4GYdp2EIwp2xtAESV4WvG0ndkI0cCX" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/div&gt;</mattext>
+&lt;/audio&gt;&lt;/div&gt;
+&lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit2_comunicacion-1_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+</mattext>
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>

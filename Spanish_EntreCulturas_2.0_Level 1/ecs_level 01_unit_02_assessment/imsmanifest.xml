@@ -232,5 +232,35 @@
     <resource identifier="1ae71a10-739a-4f93-a5b9-f73f9cba0c18" type="webcontent" href="assessment_questions/ECS1_unit2_assessment_ac2_q4.txt">
       <file href="assessment_questions/ECS1_unit2_assessment_ac2_q4.txt"/>
     </resource>
+    <resource identifier="8ce09d57-0305-413a-abf8-70afba6d53d7" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q1.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q1.txt"/>
+    </resource>
+    <resource identifier="a4ab9166-3866-4dac-8970-d15465b5d278" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q2.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q2.txt"/>
+    </resource>
+    <resource identifier="d9dbf074-5252-44f8-9165-6143a91a4b7f" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q3.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q3.txt"/>
+    </resource>
+    <resource identifier="b2eda7f1-8408-4836-9248-1f0616318549" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q4.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q4.txt"/>
+    </resource>
+    <resource identifier="7b8f7b5a-bf42-4b78-a354-333fff69b5ea" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q5.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q5.txt"/>
+    </resource>
+    <resource identifier="0d0713ea-79ef-4314-bcf9-4fc0c6100438" type="webcontent" href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q6.txt">
+      <file href="assessment_questions/ECS1_uni2_comunicacion-2_ac2_q6.txt"/>
+    </resource>
+    <resource identifier="71412837-9813-4d9f-b5c6-9f7e3112be53" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q1.txt">
+      <file href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q1.txt"/>
+    </resource>
+    <resource identifier="a1f6b482-8137-411e-b2e4-60e63787a558" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q2.txt">
+      <file href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q2.txt"/>
+    </resource>
+    <resource identifier="9e44c174-eb5e-4f38-a6a4-fb5f5fc3faca" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q3.txt">
+      <file href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q3.txt"/>
+    </resource>
+    <resource identifier="249a886b-fc83-4b80-b1f8-a0c77e54e419" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q4.txt">
+      <file href="assessment_questions/ECS1_unit2_comunicacion-1_ac2_q4.txt"/>
+    </resource>
   </resources>
 </manifest>
