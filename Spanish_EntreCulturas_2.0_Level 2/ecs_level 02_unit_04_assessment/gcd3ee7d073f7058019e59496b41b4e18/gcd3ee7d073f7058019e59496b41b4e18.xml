@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gcd3ee7d073f7058019e59496b41b4e18" title="Comunicación 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gd6be314a2aec0de459e295aa1bcd2172" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8999,2849,5475,5217,3168</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g61b8ed932109b7baa87489c770cebddc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match the descriptions in the first column with the correct words in the second column.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8999">
+            <material>
+              <mattext texttype="text/plain">1. Montaña con un agujero por donde sale lava.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4465">
+                <material>
+                  <mattext>el volcán</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7950">
+                <material>
+                  <mattext>el bosque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2800">
+                <material>
+                  <mattext>la cascada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7639">
+                <material>
+                  <mattext>el ecoturismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3065">
+                <material>
+                  <mattext>el sendero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2849">
+            <material>
+              <mattext texttype="text/plain">2. Un lugar donde hay muchos árboles y plantas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4465">
+                <material>
+                  <mattext>el volcán</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7950">
+                <material>
+                  <mattext>el bosque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2800">
+                <material>
+                  <mattext>la cascada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7639">
+                <material>
+                  <mattext>el ecoturismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3065">
+                <material>
+                  <mattext>el sendero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5475">
+            <material>
+              <mattext texttype="text/plain">3. Agua de un río que cae en forma vertical.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4465">
+                <material>
+                  <mattext>el volcán</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7950">
+                <material>
+                  <mattext>el bosque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2800">
+                <material>
+                  <mattext>la cascada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7639">
+                <material>
+                  <mattext>el ecoturismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3065">
+                <material>
+                  <mattext>el sendero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5217">
+            <material>
+              <mattext texttype="text/plain">4. Turismo que cuida el medioambiente.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4465">
+                <material>
+                  <mattext>el volcán</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7950">
+                <material>
+                  <mattext>el bosque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2800">
+                <material>
+                  <mattext>la cascada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7639">
+                <material>
+                  <mattext>el ecoturismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3065">
+                <material>
+                  <mattext>el sendero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3168">
+            <material>
+              <mattext texttype="text/plain">5. Lo sigues para caminar por el bosque.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4465">
+                <material>
+                  <mattext>el volcán</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7950">
+                <material>
+                  <mattext>el bosque</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2800">
+                <material>
+                  <mattext>la cascada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7639">
+                <material>
+                  <mattext>el ecoturismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3065">
+                <material>
+                  <mattext>el sendero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8999">4465</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2849">7950</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5475">2800</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5217">7639</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3168">3065</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

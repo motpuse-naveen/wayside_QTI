@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g152335ed0dafff4e703ee64c76b7c5c5" title="Unit Assessments - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g516b70d1066be402051143677f6de780" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8199,3772,9065,9056,6568</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbe25d53fcb1bdec7bd23362f65297450</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following passage about Gino’s vacation in Ecuador with his family. Then, match the items in the first column with those in the second column to make correct sentences.&lt;/p&gt;
+&lt;p style="margin-left: 25px;"&gt;Desde que llegamos a Ecuador no dejamos de vivir experiencias nuevas. Ayer fue mi día favorito porque hicimos muchas cosas. Mientras papá y mamá desayunaban, fui con Luca al bosque. Recorrimos los senderemos y nos sacamos fotos. Cuando mamá y papá terminaron, papá nos llevó a todos a pasear en kayak. Después, se me ocurrió que era buena idea ir a una excursión. ¡Fuimos al lago! A la tarde, estábamos cansados pero igual fuimos a caminar y ver animales.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8199">
+            <material>
+              <mattext texttype="text/plain">1. Ayer</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext>fue un día lleno de actividades nuevas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext>Gino y su hermano exploraron el bosque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1519">
+                <material>
+                  <mattext>el papá alquiló un kayak para todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext>Gino escogió ir de excursión al lago.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7484">
+                <material>
+                  <mattext>toda la familia hizo una caminata para ver animales.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3772">
+            <material>
+              <mattext texttype="text/plain">2. Primero,</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext>fue un día lleno de actividades nuevas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext>Gino y su hermano exploraron el bosque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1519">
+                <material>
+                  <mattext>el papá alquiló un kayak para todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext>Gino escogió ir de excursión al lago.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7484">
+                <material>
+                  <mattext>toda la familia hizo una caminata para ver animales.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9065">
+            <material>
+              <mattext texttype="text/plain">3. Luego,</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext>fue un día lleno de actividades nuevas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext>Gino y su hermano exploraron el bosque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1519">
+                <material>
+                  <mattext>el papá alquiló un kayak para todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext>Gino escogió ir de excursión al lago.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7484">
+                <material>
+                  <mattext>toda la familia hizo una caminata para ver animales.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9056">
+            <material>
+              <mattext texttype="text/plain">4. Después</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext>fue un día lleno de actividades nuevas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext>Gino y su hermano exploraron el bosque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1519">
+                <material>
+                  <mattext>el papá alquiló un kayak para todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext>Gino escogió ir de excursión al lago.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7484">
+                <material>
+                  <mattext>toda la familia hizo una caminata para ver animales.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6568">
+            <material>
+              <mattext texttype="text/plain">5. Por último,</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8980">
+                <material>
+                  <mattext>fue un día lleno de actividades nuevas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3324">
+                <material>
+                  <mattext>Gino y su hermano exploraron el bosque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1519">
+                <material>
+                  <mattext>el papá alquiló un kayak para todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9355">
+                <material>
+                  <mattext>Gino escogió ir de excursión al lago.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7484">
+                <material>
+                  <mattext>toda la familia hizo una caminata para ver animales.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8199">8980</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3772">3324</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9065">1519</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9056">9355</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6568">7484</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

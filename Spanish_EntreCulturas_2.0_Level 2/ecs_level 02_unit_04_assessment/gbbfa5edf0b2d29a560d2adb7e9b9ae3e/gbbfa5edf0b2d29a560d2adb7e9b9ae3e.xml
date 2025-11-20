@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbbfa5edf0b2d29a560d2adb7e9b9ae3e" title="Unit Assessments - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbb83b66dea1d28a675ac9238663c4a66" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20583,58788,97832</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g66cb704ff2c93740d7d54972bc47253b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures and choose the most appropriate word to complete the sentence.&lt;/p&gt;
+       
+
+          &lt;p&gt;1. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u4_ua_vq1_activity1_q1.jpg" alt="a woman tanning at the beach" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+          &lt;p&gt;Deila fue a las playas de Ecuador para ________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="20583">
+                <material>
+                  <mattext texttype="text/plain">tomar el sol</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58788">
+                <material>
+                  <mattext texttype="text/plain">sacar unas fotos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97832">
+                <material>
+                  <mattext texttype="text/plain">observar las estrellas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">20583</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g14851025b8bbeb1d9e466098b47f18b8" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>35685,85148,77529</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5da44eeef7943a57e6b98c018bfbf1cc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u4_ua_vq1_activity1_q2.jpg" alt="Three friends planting a sapling" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+          &lt;p&gt;Es importante ________ árboles para preservar el medioambiente.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="35685">
+                <material>
+                  <mattext texttype="text/plain">ahorrar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85148">
+                <material>
+                  <mattext texttype="text/plain">reciclar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77529">
+                <material>
+                  <mattext texttype="text/plain">sembrar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">77529</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5e7edf5b88fd77e74714bf22a6216259" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>79999,95097,21174</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g191a1e8104fc61e469fc824a569b5bd4</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u4_ua_vq1_activity1_q3.jpg" alt="A table with several glass containers being used as flower vases" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+          &lt;p&gt;Mi mamá recicló las botellas de ________ como floreros.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="79999">
+                <material>
+                  <mattext texttype="text/plain">bombilla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95097">
+                <material>
+                  <mattext texttype="text/plain">cartón</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21174">
+                <material>
+                  <mattext texttype="text/plain">vidrio</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">21174</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5d66e747a05a5b0b5cb7f401d8f75210" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>67411,8285,94324</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1a5a6bd71f94a619062e563fc267ef37</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u4_ua_vq1_activity1_q4.jpg" alt="A family walking through a trail in a park on a sunny day"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Los días de sol, mi familia y yo salimos a caminar por el ____.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="67411">
+                <material>
+                  <mattext texttype="text/plain">lago</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8285">
+                <material>
+                  <mattext texttype="text/plain">sendero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="94324">
+                <material>
+                  <mattext texttype="text/plain">volcán</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8285</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9ca0157600957504e7ea3b590a498ac2" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>71034,56793,89499</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd516b6998c9b61ecdb078aebf0b5b9c5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u4_ua_vq1_activity1_q5.jpg" alt="A large bird soaring above the mountains"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;El cóndor andino, en Ecuador, está ____.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="71034">
+                <material>
+                  <mattext texttype="text/plain">volando en parapente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56793">
+                <material>
+                  <mattext texttype="text/plain">en contenedor de reciclaje</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89499">
+                <material>
+                  <mattext texttype="text/plain">en peligro de extinción</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">89499</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
