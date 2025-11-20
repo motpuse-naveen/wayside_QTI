@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga722eb2dc53a76a467f27152b691355c" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g41f2032a07366b84b76a8e6377417ced" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6024,5843,3402,3687,1889</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc1ad003e4254e361acddf28e9e8edbdf</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Look at the images carefully and m&lt;/span&gt;atch &lt;span&gt;each sentence with the corresponding image number.&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img style="border: solid black 1px; width: 90%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_vq2_activity1_q1.jpg" alt="a music concert"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img style="border: solid black 1px; width: 90%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_vq2_activity1_q2.jpg" alt="girls playing soccer"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img style="border: solid black 1px; width: 90%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_vq2_activity1_q3.jpg" alt="students clapping while someone stands before them holding a clipboard with notes"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img style="border: solid black 1px; width: 90%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_vq2_activity1_q4.jpg" alt="people cheering in stadium bleachers"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;e. &lt;img style="border: solid black 1px; width: 90%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_vq2_activity1_q5.jpg" alt="people rehearsing a play"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6024">
+            <material>
+              <mattext texttype="text/plain">1. Los aficionados chilenos siempre apoyan a su equipo.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8277">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5200">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="709">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9705">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6520">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5843">
+            <material>
+              <mattext texttype="text/plain">2. Mis amigos y yo vamos juntos al festival de música.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8277">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5200">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="709">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9705">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6520">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3402">
+            <material>
+              <mattext texttype="text/plain">3. Los estudiantes preparan una obra de teatro nueva.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8277">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5200">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="709">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9705">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6520">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3687">
+            <material>
+              <mattext texttype="text/plain">4. ¡Todo el mundo aplaude a Carla por su presentación!</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8277">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5200">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="709">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9705">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6520">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1889">
+            <material>
+              <mattext texttype="text/plain">5. Alexia está jugando un partido emocionante.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8277">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5200">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="709">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9705">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6520">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6024">8277</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5843">5200</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3402">709</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3687">9705</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1889">6520</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

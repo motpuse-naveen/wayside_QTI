@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9b4f6d9aa9663f5a3f4cdc509ddf4aa0" title="Comunicación 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g73e74b1bac7e66d74147ca318f4a4787" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4947,2118,8810,3211,1522</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g28138d290899897b5f7b282543150f51</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each statement with the group or club you would recommend.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4947">
+            <material>
+              <mattext texttype="text/plain">Toco el violín y quiero tocar con más personas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5687">
+                <material>
+                  <mattext>la orquesta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5797">
+                <material>
+                  <mattext>el club de excursionismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6220">
+                <material>
+                  <mattext>el club de deportes electrónicos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9315">
+                <material>
+                  <mattext>el grupo de servicio comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8591">
+                <material>
+                  <mattext>el grupo de yoga</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2118">
+            <material>
+              <mattext texttype="text/plain">Me gusta caminar por el campo y escalar montañas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5687">
+                <material>
+                  <mattext>la orquesta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5797">
+                <material>
+                  <mattext>el club de excursionismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6220">
+                <material>
+                  <mattext>el club de deportes electrónicos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9315">
+                <material>
+                  <mattext>el grupo de servicio comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8591">
+                <material>
+                  <mattext>el grupo de yoga</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8810">
+            <material>
+              <mattext texttype="text/plain">¡Soy muy buena con los videojuegos!</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5687">
+                <material>
+                  <mattext>la orquesta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5797">
+                <material>
+                  <mattext>el club de excursionismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6220">
+                <material>
+                  <mattext>el club de deportes electrónicos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9315">
+                <material>
+                  <mattext>el grupo de servicio comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8591">
+                <material>
+                  <mattext>el grupo de yoga</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3211">
+            <material>
+              <mattext texttype="text/plain">Quiero ayudar a las personas de mi barrio.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5687">
+                <material>
+                  <mattext>la orquesta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5797">
+                <material>
+                  <mattext>el club de excursionismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6220">
+                <material>
+                  <mattext>el club de deportes electrónicos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9315">
+                <material>
+                  <mattext>el grupo de servicio comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8591">
+                <material>
+                  <mattext>el grupo de yoga</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1522">
+            <material>
+              <mattext texttype="text/plain">Me gusta el deporte pero no soy muy activo.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5687">
+                <material>
+                  <mattext>la orquesta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5797">
+                <material>
+                  <mattext>el club de excursionismo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6220">
+                <material>
+                  <mattext>el club de deportes electrónicos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9315">
+                <material>
+                  <mattext>el grupo de servicio comunitario</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8591">
+                <material>
+                  <mattext>el grupo de yoga</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4947">5687</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2118">5797</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8810">6220</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3211">9315</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1522">8591</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

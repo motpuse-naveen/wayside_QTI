@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g77d3bf8616888fe9b672e443ee2963d3" title="Comunicación 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gcb2eb677e9ab7044f2fe6033cc0da6ff" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1084,6788,1141,4921,5441</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcbe939ad485ffd18d187c8c32aabc485</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Read each description and choose the correct word it refers to.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1084">
+            <material>
+              <mattext texttype="text/plain">1. persona que compone y canta canciones</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2599">
+                <material>
+                  <mattext>cantautor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6141">
+                <material>
+                  <mattext>lista de reproducción</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4204">
+                <material>
+                  <mattext>cantante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6389">
+                <material>
+                  <mattext>título</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5184">
+                <material>
+                  <mattext>banda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6788">
+            <material>
+              <mattext texttype="text/plain">2. un grupo de canciones</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2599">
+                <material>
+                  <mattext>cantautor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6141">
+                <material>
+                  <mattext>lista de reproducción</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4204">
+                <material>
+                  <mattext>cantante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6389">
+                <material>
+                  <mattext>título</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5184">
+                <material>
+                  <mattext>banda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1141">
+            <material>
+              <mattext texttype="text/plain">3. persona que se dedica a cantar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2599">
+                <material>
+                  <mattext>cantautor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6141">
+                <material>
+                  <mattext>lista de reproducción</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4204">
+                <material>
+                  <mattext>cantante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6389">
+                <material>
+                  <mattext>título</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5184">
+                <material>
+                  <mattext>banda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4921">
+            <material>
+              <mattext texttype="text/plain">4. el nombre de una canción o un libro</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2599">
+                <material>
+                  <mattext>cantautor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6141">
+                <material>
+                  <mattext>lista de reproducción</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4204">
+                <material>
+                  <mattext>cantante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6389">
+                <material>
+                  <mattext>título</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5184">
+                <material>
+                  <mattext>banda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5441">
+            <material>
+              <mattext texttype="text/plain">5. un grupo de personas que hacen música</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2599">
+                <material>
+                  <mattext>cantautor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6141">
+                <material>
+                  <mattext>lista de reproducción</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4204">
+                <material>
+                  <mattext>cantante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6389">
+                <material>
+                  <mattext>título</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5184">
+                <material>
+                  <mattext>banda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1084">2599</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6788">6141</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1141">4204</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4921">6389</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5441">5184</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

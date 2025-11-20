@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga197e01e0e0f7cae92e213ef4fa2b74f" title="Comunicación 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8b26a0cbb248a44c649e5d9e0eb6ae0e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>12684,11927,62201,31604</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gfae19dd97f6195fc23402f939799486f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the option that best completes each sentence.&lt;/p&gt;
+        &lt;p&gt;1. &lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_gq1_activity1_q1.jpg" alt=" On the left, there is a picture of an angry girl with the name Greta at the bottom. On the right, there is a picture of a happy girl with the name Paula at the bottom." width="50%"&gt;&lt;/p&gt;
+            &lt;p&gt;Paula es _________________ Greta.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="12684">
+                <material>
+                  <mattext texttype="text/plain">mejor simpática</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11927">
+                <material>
+                  <mattext texttype="text/plain">más simpática que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62201">
+                <material>
+                  <mattext texttype="text/plain">menos simpática que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31604">
+                <material>
+                  <mattext texttype="text/plain">menos simpática como</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">11927</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g94193974f778f278b1956ca36dfff42f" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>76272,61173,96132,84331</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9d087f694e5d75b44c91c1e9ece7579b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_gq1_activity1_q2.jpg" alt="On the left, there is a picture of a boy on a skateboard with the name Chris at the bottom. On the right, there is a picture of a boy sitting on the couch, using his phone." width="50%"&gt;&lt;/p&gt;
+            &lt;p&gt;Daniel es _________________ Chris.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="76272">
+                <material>
+                  <mattext texttype="text/plain">tan activo que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61173">
+                <material>
+                  <mattext texttype="text/plain">más activo como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96132">
+                <material>
+                  <mattext texttype="text/plain">más activo que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84331">
+                <material>
+                  <mattext texttype="text/plain">menos activo que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">84331</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7603374c4112843bc1029896c364bb40" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>42074,49638,67037,50249</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1d106a0df07ae767d7ef39ed24adaea8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_gq1_activity1_q3.jpg" alt="Two girls, Marta on the left and Jenna on the right, standing next to a giant ruler. The top of their heads both reach the 140 marker on the ruler." width="40%"&gt;&lt;/p&gt;
+            &lt;p&gt;Marta es _________________ Jenna.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="42074">
+                <material>
+                  <mattext texttype="text/plain">tan alta como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49638">
+                <material>
+                  <mattext texttype="text/plain">más alta que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67037">
+                <material>
+                  <mattext texttype="text/plain">menos alta como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50249">
+                <material>
+                  <mattext texttype="text/plain">tan alta que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">42074</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g4682f8c503fe055fcaaa1f8d0801596d" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>68718,40792,92756,89165</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb22286f3acbf2f815e7320dea09b2280</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. &lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_gq1_activity1_q4.jpg" alt="A young kitten looking up at a puppy." width="50%"&gt;&lt;/p&gt;
+            &lt;p&gt;El gato es _________________ el perro.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="68718">
+                <material>
+                  <mattext texttype="text/plain">más grande que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40792">
+                <material>
+                  <mattext texttype="text/plain">pequeño como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92756">
+                <material>
+                  <mattext texttype="text/plain">menos grande que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89165">
+                <material>
+                  <mattext texttype="text/plain">menos pequeño que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">92756</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc33cbac3ed0cad30137475165cb2513f" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>13717,96682,8922,92468</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4378f8da52a6ceebe15cae0deadd3510</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. &lt;/p&gt;
+       &lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u1_vgq_gq1_activity1_q5.jpg" alt="On the left, a girl is happily eating a slice of pizza. On the right, a girl is holding a hamburger with a bite taken out of it and is fanning her open mouth." width="50%"&gt;&lt;/p&gt;
+            &lt;p&gt;La hamburguesa es _________________ la pizza.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="13717">
+                <material>
+                  <mattext texttype="text/plain">menos picante como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96682">
+                <material>
+                  <mattext texttype="text/plain">más picante como</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8922">
+                <material>
+                  <mattext texttype="text/plain">tan picante que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92468">
+                <material>
+                  <mattext texttype="text/plain">más picante que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">92468</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
