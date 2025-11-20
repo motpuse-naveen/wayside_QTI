@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0a77adfda251a128a7d18d40d827058b" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g65eaa263c3aa7c2c11758026a57a49b5" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>97197,36824,50677,61919,73086,5133,70640,47769,81801,34705,11734,30072,41982,72203,87633,67669,7414,18903,71370,39272</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g843febac904d45c27bedf71007dfe471</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Look at each item and choose the name of the place where you would buy it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: solid black 1px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity2_q1.jpg" alt="a necklace"&gt;&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: solid black 1px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity2_q2.jpg" alt="a pair of red, high heeled shoes"&gt;&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: solid black 1px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity2_q3.jpg" alt="a table of handmade crafts"&gt;&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: solid black 1px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity2_q4.jpg" alt="a stack of newspapers"&gt;&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: solid black 1px;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity2_q5.jpg" alt="an icecream cone"&gt;&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="97197">
+                <material>
+                  <mattext texttype="text/plain">la zapatería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36824">
+                <material>
+                  <mattext texttype="text/plain">la carnicería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50677">
+                <material>
+                  <mattext texttype="text/plain">la joyería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61919">
+                <material>
+                  <mattext texttype="text/plain">la panadería</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73086">
+                <material>
+                  <mattext texttype="text/plain">la farmacia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5133">
+                <material>
+                  <mattext texttype="text/plain">la zapatería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70640">
+                <material>
+                  <mattext texttype="text/plain">la librería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47769">
+                <material>
+                  <mattext texttype="text/plain">la pastelería</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="81801">
+                <material>
+                  <mattext texttype="text/plain">la tienda de ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34705">
+                <material>
+                  <mattext texttype="text/plain">la gasolinera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11734">
+                <material>
+                  <mattext texttype="text/plain">la farmacia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30072">
+                <material>
+                  <mattext texttype="text/plain">la feria artesanal</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="41982">
+                <material>
+                  <mattext texttype="text/plain">la carnicería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72203">
+                <material>
+                  <mattext texttype="text/plain">el quiosco</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87633">
+                <material>
+                  <mattext texttype="text/plain">la panadería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67669">
+                <material>
+                  <mattext texttype="text/plain">el banco</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7414">
+                <material>
+                  <mattext texttype="text/plain">la heladería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18903">
+                <material>
+                  <mattext texttype="text/plain">la peluquería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71370">
+                <material>
+                  <mattext texttype="text/plain">la librería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="39272">
+                <material>
+                  <mattext texttype="text/plain">la joyería</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">50677</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">5133</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">30072</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">72203</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">7414</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

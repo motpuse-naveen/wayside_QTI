@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g06dd31e6a805013ac5f1c85723ba0e1e" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g6d9661abc6f822ceecb9696d4e6b8c09" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>73620,20517,58038,64427,99924,56667,72883,13608,53713,76127,69715,83534,41517,97466,17118,85789,85761,23559,5775,1878,59913,47613,68923,16343,69030</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb4f2ab4d9353ab8032956ee25313c729</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Look carefully at the following map. Pay attention to the different places around the neighborhood. Imagine you are standing on the green dot.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 60%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u2_ua_vq1_activity1_q1.jpg" alt="A map that has 3 streets going bottom to top and 3 streets going from right to left. A green dot is located at the bottom of the left-most street going bottom to top. The first column of blocks has four blocks with the following buildings, going from bottom to top: nothing, nothing, Farmacia (entire block), Oficina de correos (bottom ¼ of the block). The second column of blocks had four blocks with the following buildings, going from bottom to top: Tienda de ropa (entire block), Parque (entire block), nothing, Banco (bottom right corner of the block). The third column of blocks has three blocks (the top horizontal street stops and continues of the other side of the block) with the following buildings, going from bottom to top: Heladería (entire block), Feria artesanal (entire block), Plaza (bottom ¾ of the double block), Carnicería (upper left hand corner of the double block). The fourth column of blocks has three blocks (the bottom horizontal street ends before the block starts) with the following buildings, going from bottom to top: Escuela (bottom ¾ of the double block), Librería (top ¼ of the double block), nothing, Panadería (top ¼ of block)." width="495" height="567"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Choose directions from the dropdown menu to reach each location. You are currently at the green dot. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;1. feria artesanal&lt;/p&gt;
+&lt;p&gt;[RESPONSE1]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. banco&lt;/p&gt;
+&lt;p&gt;[RESPONSE2]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. carnicería&lt;/p&gt;
+&lt;p&gt;[RESPONSE3]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. librería&lt;/p&gt;
+&lt;p&gt;[RESPONSE4]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. plaza&lt;/p&gt;
+&lt;p&gt;[RESPONSE5]&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73620">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha, camina una cuadra y luego dobla a la izquierda hasta el final de la cuadra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20517">
+                <material>
+                  <mattext texttype="text/plain">Camina recto una cuadra, dobla a la derecha y sigue recto dos cuadras, luego dobla a la izquierda y camina media cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58038">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto dos cuadras, dobla a la derecha y camina una cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64427">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto una cuadra, dobla a la derecha y sigue recto una cuadra más. Está a la izquierda.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99924">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha y camina media cuadra.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="56667">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha, camina una cuadra y luego dobla a la izquierda hasta el final de la cuadra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72883">
+                <material>
+                  <mattext texttype="text/plain">Camina recto una cuadra, dobla a la derecha y sigue recto dos cuadras, luego dobla a la izquierda y camina media cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="13608">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto dos cuadras, dobla a la derecha y camina una cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53713">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto una cuadra, dobla a la derecha y sigue recto una cuadra más. Está a la izquierda.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76127">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha y camina media cuadra.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69715">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha, camina una cuadra y luego dobla a la izquierda hasta el final de la cuadra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83534">
+                <material>
+                  <mattext texttype="text/plain">Camina recto una cuadra, dobla a la derecha y sigue recto dos cuadras, luego dobla a la izquierda y camina media cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="41517">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto dos cuadras, dobla a la derecha y camina una cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97466">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto una cuadra, dobla a la derecha y sigue recto una cuadra más. Está a la izquierda.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17118">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha y camina media cuadra.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="85789">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha, camina una cuadra y luego dobla a la izquierda hasta el final de la cuadra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85761">
+                <material>
+                  <mattext texttype="text/plain">Camina recto una cuadra, dobla a la derecha y sigue recto dos cuadras, luego dobla a la izquierda y camina media cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="23559">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto dos cuadras, dobla a la derecha y camina una cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5775">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto una cuadra, dobla a la derecha y sigue recto una cuadra más. Está a la izquierda.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1878">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha y camina media cuadra.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59913">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha, camina una cuadra y luego dobla a la izquierda hasta el final de la cuadra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47613">
+                <material>
+                  <mattext texttype="text/plain">Camina recto una cuadra, dobla a la derecha y sigue recto dos cuadras, luego dobla a la izquierda y camina media cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68923">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto dos cuadras, dobla a la derecha y camina una cuadra más.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="16343">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto una cuadra, dobla a la derecha y sigue recto una cuadra más. Está a la izquierda.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69030">
+                <material>
+                  <mattext texttype="text/plain">Sigue recto tres cuadras, dobla a la derecha y camina media cuadra.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">64427</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">76127</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">69715</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">85761</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">68923</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

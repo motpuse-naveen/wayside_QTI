@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9ead2d795ba1a07bf755f1ec862c8071" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g97f0902e8d5f8a4e8040c6d8095026a7" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8775,1015,8274,6849,8319</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g62dbaa6316e36e12f59d935214076820</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Match the places where you can buy or get things with the phrases that describe what items you get there.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8775">
+            <material>
+              <mattext texttype="text/plain">1. banco</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="761">
+                <material>
+                  <mattext>Aquí puedes guardar el dinero.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6448">
+                <material>
+                  <mattext>Aquí pides helado de dulce de leche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1270">
+                <material>
+                  <mattext>Aquí compras un anillo de oro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7382">
+                <material>
+                  <mattext>Aquí consigues una revista para leer.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4389">
+                <material>
+                  <mattext>Aquí te compras una camiseta nueva.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1015">
+            <material>
+              <mattext texttype="text/plain">2. heladería</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="761">
+                <material>
+                  <mattext>Aquí puedes guardar el dinero.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6448">
+                <material>
+                  <mattext>Aquí pides helado de dulce de leche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1270">
+                <material>
+                  <mattext>Aquí compras un anillo de oro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7382">
+                <material>
+                  <mattext>Aquí consigues una revista para leer.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4389">
+                <material>
+                  <mattext>Aquí te compras una camiseta nueva.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8274">
+            <material>
+              <mattext texttype="text/plain">3. joyería</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="761">
+                <material>
+                  <mattext>Aquí puedes guardar el dinero.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6448">
+                <material>
+                  <mattext>Aquí pides helado de dulce de leche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1270">
+                <material>
+                  <mattext>Aquí compras un anillo de oro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7382">
+                <material>
+                  <mattext>Aquí consigues una revista para leer.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4389">
+                <material>
+                  <mattext>Aquí te compras una camiseta nueva.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6849">
+            <material>
+              <mattext texttype="text/plain">4. quiosco</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="761">
+                <material>
+                  <mattext>Aquí puedes guardar el dinero.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6448">
+                <material>
+                  <mattext>Aquí pides helado de dulce de leche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1270">
+                <material>
+                  <mattext>Aquí compras un anillo de oro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7382">
+                <material>
+                  <mattext>Aquí consigues una revista para leer.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4389">
+                <material>
+                  <mattext>Aquí te compras una camiseta nueva.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8319">
+            <material>
+              <mattext texttype="text/plain">5. tienda de ropa</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="761">
+                <material>
+                  <mattext>Aquí puedes guardar el dinero.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6448">
+                <material>
+                  <mattext>Aquí pides helado de dulce de leche.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1270">
+                <material>
+                  <mattext>Aquí compras un anillo de oro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7382">
+                <material>
+                  <mattext>Aquí consigues una revista para leer.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4389">
+                <material>
+                  <mattext>Aquí te compras una camiseta nueva.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8775">761</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1015">6448</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8274">1270</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6849">7382</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8319">4389</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

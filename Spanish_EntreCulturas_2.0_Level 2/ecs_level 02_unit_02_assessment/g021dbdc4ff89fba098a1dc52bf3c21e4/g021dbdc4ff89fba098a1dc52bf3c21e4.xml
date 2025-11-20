@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g021dbdc4ff89fba098a1dc52bf3c21e4" title="Comunicación 1 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g98d9b44ae76ff69ac1794ae0632b49c2" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>97289,94928,36430,63553,1562</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc22dc99756e94f119141da9e575aca9b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following dialog. A boy, Guido, is asking his friend, María, how to get to a certain place. Use the word bank to fill in the blanks with words or phrases that make sense.&lt;/p&gt;
+&lt;div&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 96%;"&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 21%; text-align: center;"&gt;participar en una marcha&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 37%; text-align: center;"&gt;cuadras&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 30%; text-align: center;"&gt;dónde queda&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 30%; text-align: center;"&gt;doblar&lt;/p&gt;
+&lt;p style="margin: 5px; padding: 5px; width: 30%; text-align: center;"&gt;barrio&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GUIDO:&lt;/strong&gt; Hola, María. ¿Cómo estás? Estoy buscando el centro cultural. ¿Sabes [RESPONSE] (1)?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MARÍA:&lt;/strong&gt; ¡Hola, Guido! Es fácil llegar. Tienes que [RESPONSE1](2) a la izquierda y caminar dos [RESPONSE2](3).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GUIDO:&lt;/strong&gt; ¿Es cerca de la librería?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MARÍA:&lt;/strong&gt; Sí, justo al lado de la librería “La Plata”. ¡En el [RESPONSE3](4), hay muchas librerías!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GUIDO:&lt;/strong&gt; ¡Qué bien! Me reúno con amigos para [RESPONSE4](5) en la plaza. ¿Quieres venir?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MARÍA:&lt;/strong&gt; Suena genial. Vamos.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="97289">
+                <material>
+                  <mattext texttype="text/plain">dónde queda</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="94928">
+                <material>
+                  <mattext texttype="text/plain">doblar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="36430">
+                <material>
+                  <mattext texttype="text/plain">cuadras</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="63553">
+                <material>
+                  <mattext texttype="text/plain">barrio</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1562">
+                <material>
+                  <mattext texttype="text/plain">participar en una marcha</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">97289</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">94928</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">36430</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">63553</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">1562</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g14e3f734ae36b79d80e5ad0465e8b191" title="Comunicación 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4938e9cebb7969f074affa54abfac832" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5959,3598,3007,7475,5027</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5017532b90232561158dfb9f2e2f3c7d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Match the following sentences with the option that best completes them.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5959">
+            <material>
+              <mattext texttype="text/plain">1. En Neuquén, _____ la Cordillera de los Andes.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9959">
+                <material>
+                  <mattext>se ve</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4494">
+                <material>
+                  <mattext>se venden</mattext>
+                </material>
+              </response_label>
+              <response_label ident="666">
+                <material>
+                  <mattext>se puede</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3615">
+                <material>
+                  <mattext>se dan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2766">
+                <material>
+                  <mattext>se pueden</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3598">
+            <material>
+              <mattext texttype="text/plain">2. En el mercado, _____ empanadas salteñas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9959">
+                <material>
+                  <mattext>se ve</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4494">
+                <material>
+                  <mattext>se venden</mattext>
+                </material>
+              </response_label>
+              <response_label ident="666">
+                <material>
+                  <mattext>se puede</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3615">
+                <material>
+                  <mattext>se dan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2766">
+                <material>
+                  <mattext>se pueden</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3007">
+            <material>
+              <mattext texttype="text/plain">3. En el hotel, _____ pagar con tarjeta.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9959">
+                <material>
+                  <mattext>se ve</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4494">
+                <material>
+                  <mattext>se venden</mattext>
+                </material>
+              </response_label>
+              <response_label ident="666">
+                <material>
+                  <mattext>se puede</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3615">
+                <material>
+                  <mattext>se dan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2766">
+                <material>
+                  <mattext>se pueden</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7475">
+            <material>
+              <mattext texttype="text/plain">4. En los cumpleaños, _____ muchos regalos.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9959">
+                <material>
+                  <mattext>se ve</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4494">
+                <material>
+                  <mattext>se venden</mattext>
+                </material>
+              </response_label>
+              <response_label ident="666">
+                <material>
+                  <mattext>se puede</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3615">
+                <material>
+                  <mattext>se dan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2766">
+                <material>
+                  <mattext>se pueden</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5027">
+            <material>
+              <mattext texttype="text/plain">5. En el museo, _____ admirar cuadros latinoamericanos.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9959">
+                <material>
+                  <mattext>se ve</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4494">
+                <material>
+                  <mattext>se venden</mattext>
+                </material>
+              </response_label>
+              <response_label ident="666">
+                <material>
+                  <mattext>se puede</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3615">
+                <material>
+                  <mattext>se dan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2766">
+                <material>
+                  <mattext>se pueden</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5959">9959</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3598">4494</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3007">666</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7475">3615</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5027">2766</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
