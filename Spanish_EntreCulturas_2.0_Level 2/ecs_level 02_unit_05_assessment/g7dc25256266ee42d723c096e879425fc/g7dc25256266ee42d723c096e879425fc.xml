@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7dc25256266ee42d723c096e879425fc" title="Comunicación 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2f1fa149c179c33a1db452504b002530" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7654,8087,7908,6971,5622</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g404df26f62eff02fd64229b63210f7b8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Choose the correct ending for each sentence.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7654">
+            <material>
+              <mattext texttype="text/plain">1. Una ventana que no está abierta está…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3705">
+                <material>
+                  <mattext>cerrada.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9991">
+                <material>
+                  <mattext>madera.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3526">
+                <material>
+                  <mattext>moderna.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1339">
+                <material>
+                  <mattext>piedra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9102">
+                <material>
+                  <mattext>vieja.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8087">
+            <material>
+              <mattext texttype="text/plain">2. Un material que se obtiene de los árboles es la…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3705">
+                <material>
+                  <mattext>cerrada.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9991">
+                <material>
+                  <mattext>madera.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3526">
+                <material>
+                  <mattext>moderna.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1339">
+                <material>
+                  <mattext>piedra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9102">
+                <material>
+                  <mattext>vieja.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7908">
+            <material>
+              <mattext texttype="text/plain">3. Una ciudad que no es antigua es…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3705">
+                <material>
+                  <mattext>cerrada.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9991">
+                <material>
+                  <mattext>madera.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3526">
+                <material>
+                  <mattext>moderna.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1339">
+                <material>
+                  <mattext>piedra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9102">
+                <material>
+                  <mattext>vieja.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6971">
+            <material>
+              <mattext texttype="text/plain">4. Un material que usaron los incas para construir edificios es la…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3705">
+                <material>
+                  <mattext>cerrada.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9991">
+                <material>
+                  <mattext>madera.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3526">
+                <material>
+                  <mattext>moderna.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1339">
+                <material>
+                  <mattext>piedra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9102">
+                <material>
+                  <mattext>vieja.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5622">
+            <material>
+              <mattext texttype="text/plain">5. Una ropa que no está nueva está…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3705">
+                <material>
+                  <mattext>cerrada.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9991">
+                <material>
+                  <mattext>madera.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3526">
+                <material>
+                  <mattext>moderna.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1339">
+                <material>
+                  <mattext>piedra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9102">
+                <material>
+                  <mattext>vieja.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7654">3705</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8087">9991</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7908">3526</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6971">1339</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5622">9102</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

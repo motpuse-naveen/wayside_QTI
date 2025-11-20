@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf5d4512fda8f5843fe3117997f3b3aae" title="Unit Assessments - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7fda607f5908960958aa33daa2d712be" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>44129,11038,50504,70690</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga768927e4f85ff2c1a237502b1ba02c6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the option that best completes each sentence.&lt;/p&gt;
+      
+            &lt;p&gt;1. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u5_ua_vq1_activity1_q1.jpg" alt="a woman turning off the lights before leaving the house" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+            &lt;p&gt;Siempre recuerdo ________ la luz antes de salir.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="44129">
+                <material>
+                  <mattext texttype="text/plain">encender</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11038">
+                <material>
+                  <mattext texttype="text/plain">abrir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50504">
+                <material>
+                  <mattext texttype="text/plain">cerrar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70690">
+                <material>
+                  <mattext texttype="text/plain">apagar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">70690</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd9e19df3f411602e64468084a8f1a525" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>63398,29513,72850,1353</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g64d510a86cc8284b8037d7e12110eaef</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u5_ua_vq1_activity1_q2.jpg" alt="a group of people at a protest" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+            &lt;p&gt;Nos unimos para ________ de los pueblos y la naturaleza.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="63398">
+                <material>
+                  <mattext texttype="text/plain">observar la población</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29513">
+                <material>
+                  <mattext texttype="text/plain">confiar en los derechos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72850">
+                <material>
+                  <mattext texttype="text/plain">defender los derechos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1353">
+                <material>
+                  <mattext texttype="text/plain">usar la población</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">72850</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd54381a7a27adb8d7a471df58835bda2" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>95329,59297,95514,74552</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0bf006a595c76ea49615f0034319615f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u5_ua_vq1_activity1_q3.jpg" alt="a woman driving a car" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+            &lt;p&gt;Siempre debemos ________ con precaución y de manera segura.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="95329">
+                <material>
+                  <mattext texttype="text/plain">construir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59297">
+                <material>
+                  <mattext texttype="text/plain">conducir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95514">
+                <material>
+                  <mattext texttype="text/plain">colaborar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74552">
+                <material>
+                  <mattext texttype="text/plain">contar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">59297</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb69ae68a18a9d44aec8fc1dd6d1c875f" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>12731,83100,63210,16182</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g92d72f2723e10cec90bd41f336b1f0dc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u5_ua_vq1_activity1_q4.jpg" alt="young girls dancing in traditional central american outfits"&gt;&lt;/p&gt;
+&lt;p&gt;________ las tradiciones ayuda a conocer mejor la historia de los pueblos.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="12731">
+                <material>
+                  <mattext texttype="text/plain">Destruir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83100">
+                <material>
+                  <mattext texttype="text/plain">Mantener</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63210">
+                <material>
+                  <mattext texttype="text/plain">Reducir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="16182">
+                <material>
+                  <mattext texttype="text/plain">Apagar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">83100</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge86267335e99bd323d0752c09ecf08e3" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>89383,98958,24149,11455</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g28a28b0b5c68f96c52e6bc643907ead3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u5_ua_vq1_activity1_q5.jpg" alt="a diverse group of students smiling together in a school hallway" style="width: 50%; border: 1px solid #808080;"&gt;&lt;/p&gt;
+
+            &lt;p&gt;Lo primero que tenemos que hacer para incluir a todos es ________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="89383">
+                <material>
+                  <mattext texttype="text/plain">apreciar la diversidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98958">
+                <material>
+                  <mattext texttype="text/plain">mantener las diferencias</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24149">
+                <material>
+                  <mattext texttype="text/plain">contar la diversidad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11455">
+                <material>
+                  <mattext texttype="text/plain">confiar en las diferencias</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">89383</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

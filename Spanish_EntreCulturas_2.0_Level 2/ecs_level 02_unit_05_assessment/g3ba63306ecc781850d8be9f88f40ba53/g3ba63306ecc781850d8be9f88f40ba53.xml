@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g3ba63306ecc781850d8be9f88f40ba53" title="Comunicación 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.1.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IM.1.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8260efe1b7afe7144f752911dcc67edc" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>462,9108,1183,5082,739</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6b7dd12c700137a6eb92ab112b91dcc3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;You will hear what different people say. Listen carefully to each audio and then match the name of each person with the sentence she/he would say.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_462">
+            <material>
+              <mattext texttype="text/html">1. Aurora &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 250px; margin-top: 10px;"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit5_Comunicacion-3_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7055">
+                <material>
+                  <mattext>Es frustrante ver tanta basura botada en el suelo del parque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="375">
+                <material>
+                  <mattext>Es necesario respetar la naturaleza y el medio ambiente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6958">
+                <material>
+                  <mattext>Es importante proteger los bosques y la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6565">
+                <material>
+                  <mattext>Es mejor ir por la vía para bicicletas porque es más seguro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2614">
+                <material>
+                  <mattext>No es necesario correr para llegar a tiempo para el partido.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9108">
+            <material>
+              <mattext texttype="text/html">2. Thiago &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 250px; margin-top: 10px;"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit5_Comunicacion-3_ac1_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7055">
+                <material>
+                  <mattext>Es frustrante ver tanta basura botada en el suelo del parque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="375">
+                <material>
+                  <mattext>Es necesario respetar la naturaleza y el medio ambiente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6958">
+                <material>
+                  <mattext>Es importante proteger los bosques y la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6565">
+                <material>
+                  <mattext>Es mejor ir por la vía para bicicletas porque es más seguro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2614">
+                <material>
+                  <mattext>No es necesario correr para llegar a tiempo para el partido.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1183">
+            <material>
+              <mattext texttype="text/html">3. Yeli &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 250px; margin-top: 10px;"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit5_Comunicacion-3_ac1_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7055">
+                <material>
+                  <mattext>Es frustrante ver tanta basura botada en el suelo del parque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="375">
+                <material>
+                  <mattext>Es necesario respetar la naturaleza y el medio ambiente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6958">
+                <material>
+                  <mattext>Es importante proteger los bosques y la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6565">
+                <material>
+                  <mattext>Es mejor ir por la vía para bicicletas porque es más seguro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2614">
+                <material>
+                  <mattext>No es necesario correr para llegar a tiempo para el partido.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5082">
+            <material>
+              <mattext texttype="text/html">4. Mate &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 250px; margin-top: 10px;"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit5_Comunicacion-3_ac1_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7055">
+                <material>
+                  <mattext>Es frustrante ver tanta basura botada en el suelo del parque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="375">
+                <material>
+                  <mattext>Es necesario respetar la naturaleza y el medio ambiente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6958">
+                <material>
+                  <mattext>Es importante proteger los bosques y la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6565">
+                <material>
+                  <mattext>Es mejor ir por la vía para bicicletas porque es más seguro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2614">
+                <material>
+                  <mattext>No es necesario correr para llegar a tiempo para el partido.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_739">
+            <material>
+              <mattext texttype="text/html">5. Flavia &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 250px; margin-top: 10px;"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit5_Comunicacion-3_ac1_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7055">
+                <material>
+                  <mattext>Es frustrante ver tanta basura botada en el suelo del parque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="375">
+                <material>
+                  <mattext>Es necesario respetar la naturaleza y el medio ambiente.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6958">
+                <material>
+                  <mattext>Es importante proteger los bosques y la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6565">
+                <material>
+                  <mattext>Es mejor ir por la vía para bicicletas porque es más seguro.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2614">
+                <material>
+                  <mattext>No es necesario correr para llegar a tiempo para el partido.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_462">7055</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9108">375</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1183">6958</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5082">6565</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_739">2614</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
