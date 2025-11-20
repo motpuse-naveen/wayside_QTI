@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd5c298149bc7373fc34d65e00a5f7610" title="Unit Assessment - Vocabulary Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g9bb6d6d5992654446034705581a803be" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>11250,57299,61051,61143,62874</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g651474a1b39ea90947d08e4908809cf8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the following pictures and complete the sentences with a word or phrase from the word bank that best describes each picture.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;pasar la aspiradora &amp;nbsp;&amp;nbsp;&amp;nbsp;pone nerviosa &amp;nbsp;&amp;nbsp;&amp;nbsp;diseñar &amp;nbsp;&amp;nbsp;&amp;nbsp;llevamos bien &amp;nbsp;&amp;nbsp;&amp;nbsp;guardería&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_ua_vq1_activity4_q1.jpg" alt="A young woman working on a tablet with color swatches on the wall"&gt;&lt;/p&gt;
+&lt;p&gt;Vanesa tiene que [RESPONSE] el nuevo logo de una empresa.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_ua_vq1_activity4_q2.jpg" alt="A young man vacuuming"&gt;&lt;/p&gt;
+&lt;p&gt;Los domingos, Héctor se levanta temprano para [RESPONSE1] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_ua_vq1_activity4_q3.jpg" alt="young children playing with toys in a nursery"&gt;&lt;/p&gt;
+&lt;p&gt;Maylis se divierte mucho jugando con sus amigos en la [RESPONSE2] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_ua_vq1_activity4_q4.jpg" alt="An anxious-looking, young woman with a pencil and booklet in her hands."&gt;&lt;/p&gt;
+&lt;p&gt;Adela estudia mucho pero siempre se [RESPONSE3] antes de un examen.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_ua_vq1_activity4_q5.jpg" alt="A family enjoying a meal together at a table"&gt;&lt;/p&gt;
+&lt;p&gt;En mi familia, nos queremos y hacemos cosas juntos, nos [RESPONSE4] .&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11250">
+                <material>
+                  <mattext texttype="text/plain">diseñar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57299">
+                <material>
+                  <mattext texttype="text/plain">pasar la aspiradora</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="61051">
+                <material>
+                  <mattext texttype="text/plain">guardería</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="61143">
+                <material>
+                  <mattext texttype="text/plain">pone nerviosa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62874">
+                <material>
+                  <mattext texttype="text/plain">llevamos bien</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">11250</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">57299</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">61051</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">61143</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">62874</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gc5d00347462162bf2df8fe79cc842f48" title="Comunicación 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g990ee397544ec52b59a25025259d3152" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>10972,87394,84189,50499,24285</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga7dc7ca7b758d59668e2118be7c16de7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to each sentence and fill in the missing words. Pay attention to the amount of words you need to complete.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. &lt;audio id="audioElement" style="margin-left: 11px; margin-bottom: -17px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_vq_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit6_Comunicacion-2_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                Ser voluntario te permite [RESPONSE] a experiencias nuevas.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2. &lt;audio id="audioElement" style="margin-left: 11px; margin-bottom: -17px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_vq_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit6_Comunicacion-2_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                Desde que trabajo en el refugio, pude [RESPONSE1] interesantes.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3. &lt;audio id="audioElement" style="margin-left: 11px; margin-bottom: -17px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_vq_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit6_Comunicacion-2_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                Me gusta ser [RESPONSE2] en un hospital y apoyar a la gente en momentos difíciles.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4. &lt;audio id="audioElement" style="margin-left: 11px; margin-bottom: -17px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_vq_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit6_Comunicacion-2_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                Gracias a mi trabajo en la guardería, tengo la [RESPONSE3] de entender a los niños.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5. &lt;audio id="audioElement" style="margin-left: 11px; margin-bottom: -17px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_com2_vq_ac2_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit6_Comunicacion-2_ac2_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                Voy a [RESPONSE4] el sitio web para el nuevo banco de alimentos.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="10972">
+                <material>
+                  <mattext texttype="text/plain">abrir la mente</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="87394">
+                <material>
+                  <mattext texttype="text/plain">formar amistades</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="84189">
+                <material>
+                  <mattext texttype="text/plain">voluntaria</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="50499">
+                <material>
+                  <mattext texttype="text/plain">habilidad</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="24285">
+                <material>
+                  <mattext texttype="text/plain">diseñar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">10972</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">87394</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">84189</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">50499</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">24285</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

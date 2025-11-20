@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga761c605615a41848bd0fcbaa3db18c5" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7c3d9148ec1260055276014de6cede64" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>17366,29181,71128,33025</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>geb8d9ea0bb3945621e336c10821b65dd</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following sentences and choose the option that completes them correctly.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_vgq_vq2_activity1_q1.jpg" alt="A woman holding a wooden crate full of produce in a vegetable garden"&gt;&lt;/p&gt;
+&lt;p&gt;Desde que tenemos __________, ya no compramos vegetales.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="17366">
+                <material>
+                  <mattext texttype="text/plain">los voluntarios</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29181">
+                <material>
+                  <mattext texttype="text/plain">la organización benéfica</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71128">
+                <material>
+                  <mattext texttype="text/plain">el refugio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33025">
+                <material>
+                  <mattext texttype="text/plain">el huerto urbano</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">33025</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g168158486678a317b18ae006f5ebc2bf" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>87965,66095,11388,17387</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g138a015344c5c3d02993bf1cd4cc2c50</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_vgq_vq2_activity1_q2.jpg" alt="Two women taking care of a dog at a rescue"&gt;&lt;/p&gt;
+&lt;p&gt;Ayer Juana y Elvira fueron al __________ para cuidar a los perritos.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="87965">
+                <material>
+                  <mattext texttype="text/plain">aporte</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66095">
+                <material>
+                  <mattext texttype="text/plain">refugio de animales</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11388">
+                <material>
+                  <mattext texttype="text/plain">hospital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17387">
+                <material>
+                  <mattext texttype="text/plain">banco de alimentos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">66095</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gec4f44d0d8306d7d1660f0c44ffbbd14" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>46084,8943,19247,81548</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g37586dd499e4004e8cc7b29a166a5767</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_vgq_vq2_activity1_q3.jpg" alt="A group of four adults wearing blue shirts boxing non-perishable food items"&gt;&lt;/p&gt;
+&lt;p&gt;Los sábados, Alexis ayuda en __________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="46084">
+                <material>
+                  <mattext texttype="text/plain">un banco de alimentos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8943">
+                <material>
+                  <mattext texttype="text/plain">un huerto urbano</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19247">
+                <material>
+                  <mattext texttype="text/plain">un refugio de animales</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81548">
+                <material>
+                  <mattext texttype="text/plain">una guardería</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">46084</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb18e55f94b8b4d513243abd08ffead8b" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>35659,71773,66122,76193</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge7477ce3f9adbb1a25ed7b930c4692c9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_vgq_vq2_activity1_q4.jpg" alt="A young man talking with his grandmother who is in a wheelchair."&gt;&lt;/p&gt;
+&lt;p&gt;Ricardo siempre visita a su abuela en __________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="35659">
+                <material>
+                  <mattext texttype="text/plain">la oficina de voluntarios</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71773">
+                <material>
+                  <mattext texttype="text/plain">la organización benéfica</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66122">
+                <material>
+                  <mattext texttype="text/plain">el banco de alimentos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76193">
+                <material>
+                  <mattext texttype="text/plain">la residencia de ancianos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">76193</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g2013baf9c67c139d785abe79007a3fdb" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>28121,17791,83099,98097</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4676b34739f26a04ca6ac5943e5a54df</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u6_vgq_vq2_activity1_q5.jpg" alt="A woman watching over 3 children playing with building blocks"&gt;&lt;/p&gt;
+&lt;p&gt;Mailén es voluntaria en __________ porque le gusta enseñar a los niños.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="28121">
+                <material>
+                  <mattext texttype="text/plain">un hospital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17791">
+                <material>
+                  <mattext texttype="text/plain">una oficina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83099">
+                <material>
+                  <mattext texttype="text/plain">una guardería</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98097">
+                <material>
+                  <mattext texttype="text/plain">un huerto urbano</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">83099</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

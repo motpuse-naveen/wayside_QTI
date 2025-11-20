@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9822693524e50ff1cfd5a2ad91996df7" title="Comunicación 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IM.2.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gcd8ab76bf1565425686c0ef205d69d68" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>34238,79159,457,29695,41272,36841,47561,2359,14912,3708</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb31737d445d73f28a12ab1f29baa2314</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Read the following passage in which a boy talks about what he has learned in class. Then, indicate whether each statement is true (&lt;i&gt;cierto&lt;/i&gt;) or false (&lt;i&gt;falso&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;La semana pasada, en la escuela, tuvimos una clase sobre Panamá. Hablamos sobre nuestro pueblo y nuestra herencia cultural. Nos explicaron que, debido a su ubicación, siempre hubo mucha inmigración en Panamá. Por eso, también hay una gran diversidad cultural. Aunque las personas tenemos distintas raíces, es importante respetar la cultura de todos y llevarnos bien. Además, debemos entender que discriminar está mal. ¡Tampoco hay que tener miedo de encontrarnos con personas que no son como nosotros! De hecho (&lt;i&gt;in fact&lt;/i&gt;), nos podemos enriquecer cuando nos animamos a romper barreras y unirnos a otras personas de nuestra comunidad con culturas y costumbres diferentes. Eso nos va a permitir conocer otros puntos de vista y establecer conexiones que nos van a ayudar a crecer como personas (&lt;i&gt;grow as people&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;1. Por su ubicación, pocas personas fueron a vivir a Panamá.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. En Panamá, hay personas de muchas culturas diferentes.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. No es necesario entenderse con personas diferentes.&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4. La discriminación sirve cuando tenemos miedo.&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5. Conocer distintas opiniones nos ayuda a crecer.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34238">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79159">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="457">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29695">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="41272">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36841">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47561">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3708">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2359">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14912">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">79159</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">457</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">36841</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">47561</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">2359</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

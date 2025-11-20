@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g46f5adee86eaff41f337049bb9088a1e" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g46622c33c5f11859d7520b0e67087007" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>2044,1360,2542,337,3777</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g71e2fd2901c0bb272c97b3b93468c3fc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match the beginning of the sentences with the endings to form correct sentences.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_2044">
+            <material>
+              <mattext texttype="text/plain">1. Yo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5010">
+                <material>
+                  <mattext>le escribí una carta a mi amigo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1462">
+                <material>
+                  <mattext>pidieron ayuda para hacer la tarea.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1964">
+                <material>
+                  <mattext>me devolviste el libro que te presté.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7998">
+                <material>
+                  <mattext>le hicimos un regalo al abuelo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2292">
+                <material>
+                  <mattext>se durmió antes de la cena.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1360">
+            <material>
+              <mattext texttype="text/plain">2. Clara y Miguel</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5010">
+                <material>
+                  <mattext>le escribí una carta a mi amigo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1462">
+                <material>
+                  <mattext>pidieron ayuda para hacer la tarea.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1964">
+                <material>
+                  <mattext>me devolviste el libro que te presté.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7998">
+                <material>
+                  <mattext>le hicimos un regalo al abuelo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2292">
+                <material>
+                  <mattext>se durmió antes de la cena.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2542">
+            <material>
+              <mattext texttype="text/plain">3. Ayer, tú</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5010">
+                <material>
+                  <mattext>le escribí una carta a mi amigo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1462">
+                <material>
+                  <mattext>pidieron ayuda para hacer la tarea.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1964">
+                <material>
+                  <mattext>me devolviste el libro que te presté.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7998">
+                <material>
+                  <mattext>le hicimos un regalo al abuelo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2292">
+                <material>
+                  <mattext>se durmió antes de la cena.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_337">
+            <material>
+              <mattext texttype="text/plain">4. Mi prima y yo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5010">
+                <material>
+                  <mattext>le escribí una carta a mi amigo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1462">
+                <material>
+                  <mattext>pidieron ayuda para hacer la tarea.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1964">
+                <material>
+                  <mattext>me devolviste el libro que te presté.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7998">
+                <material>
+                  <mattext>le hicimos un regalo al abuelo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2292">
+                <material>
+                  <mattext>se durmió antes de la cena.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3777">
+            <material>
+              <mattext texttype="text/plain">5. El bebé</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5010">
+                <material>
+                  <mattext>le escribí una carta a mi amigo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1462">
+                <material>
+                  <mattext>pidieron ayuda para hacer la tarea.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1964">
+                <material>
+                  <mattext>me devolviste el libro que te presté.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7998">
+                <material>
+                  <mattext>le hicimos un regalo al abuelo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2292">
+                <material>
+                  <mattext>se durmió antes de la cena.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2044">5010</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1360">1462</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2542">1964</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_337">7998</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3777">2292</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

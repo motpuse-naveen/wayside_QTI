@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gee5b7e2c9cc43cd456e89ec8a8e9b567" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IM.2.2</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gd81e36976aad2d25e29a270d0d9dec34" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>38772,32541,48282,59868</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g481e23cfd76c95e11ed87c3d23d1502d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read carefully the following passage and, based on what you read, choose the option that best completes each statement.&lt;/p&gt;
+
+
+        &lt;p&gt;Desde que Isabel se mudó a Boquete, le gusta tener una rutina. Cada día, se levanta temprano, hace la cama y arregla su habitación. Luego, mientras desayuna, repasa todo lo que va a hacer durante el día. Todas las mañanas, Isabel va al banco de alimentos y ayuda a quienes lo necesitan. Además, como ella es inmigrante, esta actividad le permite conocer gente y formar amistades. También está contenta porque aprende mucho sobre la cultura de Panamá. Cada país tiene su propia herencia y es importante respetarla y no discriminar. Por las tardes, Isabel va a la oficina. Está aprendiendo a programar y está muy orgullosa por todo lo que ya puede hacer. A menudo, por las noches, Isabel cocina e invita a sus amigos a cenar. ¡Siempre está muy ocupada, pero así es feliz!&lt;/p&gt;
+         
+         &lt;p&gt;1. Apenas se levanta, Isabel trata de ____________ su tiempo porque siempre está ocupada.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="38772">
+                <material>
+                  <mattext texttype="text/plain">organizar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32541">
+                <material>
+                  <mattext texttype="text/plain">inventar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48282">
+                <material>
+                  <mattext texttype="text/plain">excluir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59868">
+                <material>
+                  <mattext texttype="text/plain">la a y la b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">38772</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g2771e6c718d2e2437c58123d54bde6f8" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>96981,57518,49952,51677</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1c582cffb67a4f2f3503dc2b8ace5cb2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. A Isabel le gusta ____________ para que todas las personas tengan comida.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="96981">
+                <material>
+                  <mattext texttype="text/plain">reparar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57518">
+                <material>
+                  <mattext texttype="text/plain">opinar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49952">
+                <material>
+                  <mattext texttype="text/plain">colaborar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="51677">
+                <material>
+                  <mattext texttype="text/plain">mostrar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">49952</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7e9d16034d8cf60284b663832634948a" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>96009,86776,46062,11450</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb4f80dfbf91c0efc57937f397a0de28a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. Como Isabel es nueva en la ciudad, las actividades con otras personas la ayudan a ____________.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="96009">
+                <material>
+                  <mattext texttype="text/plain">conocer la cultura panameña</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86776">
+                <material>
+                  <mattext texttype="text/plain">aprender otro idioma</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46062">
+                <material>
+                  <mattext texttype="text/plain">hacer amistades</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11450">
+                <material>
+                  <mattext texttype="text/plain">la a y la c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">11450</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8421159936d75b0fd5a23a1bd03c8e12" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>41623,75862,40375,35956</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1bb2b27c4ab7450c0b630fd869581c2a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. Isabel nació en otro país y luego ____________ Panamá.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="41623">
+                <material>
+                  <mattext texttype="text/plain">fue a visitar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75862">
+                <material>
+                  <mattext texttype="text/plain">fue a estudiar a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40375">
+                <material>
+                  <mattext texttype="text/plain">fue a vivir a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35956">
+                <material>
+                  <mattext texttype="text/plain">fue a recorrer</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">40375</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g421a173248be0af72296e0c7902fd49c" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>68722,28769,10440,31588</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gfc055f63d4fcf5b28b0f87322e440535</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. Un aporte de Isabel a la comunidad donde vive es ____________.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="68722">
+                <material>
+                  <mattext texttype="text/plain">olvidar su propia herencia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28769">
+                <material>
+                  <mattext texttype="text/plain">ayudar en el banco de alimentos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="10440">
+                <material>
+                  <mattext texttype="text/plain">arreglar su habitación</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31588">
+                <material>
+                  <mattext texttype="text/plain">aprender a programar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">28769</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
