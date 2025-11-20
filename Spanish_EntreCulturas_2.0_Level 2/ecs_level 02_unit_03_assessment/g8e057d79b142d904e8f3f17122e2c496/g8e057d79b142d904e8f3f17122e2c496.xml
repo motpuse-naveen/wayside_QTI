@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g8e057d79b142d904e8f3f17122e2c496" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="geaf8a9086076e8e5dbe172d12ecf6587" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6449,4422,6064,6389,4154</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g517112cd1541e06afcf4c0481d8661be</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each image with the correct word.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6449">
+            <material>
+              <mattext texttype="text/html">1. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u3_vgq_vq2_activity1_q1.jpg" alt="a waiter carrying two plates" width="90%"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="776">
+                <material>
+                  <mattext>camarero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4263">
+                <material>
+                  <mattext>cubiertos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8056">
+                <material>
+                  <mattext>caliente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5493">
+                <material>
+                  <mattext>vaso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="310">
+                <material>
+                  <mattext>mariscos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4422">
+            <material>
+              <mattext texttype="text/html">2. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u3_vgq_vq2_activity1_q2.jpg" alt="silverware" width="90%"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="776">
+                <material>
+                  <mattext>camarero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4263">
+                <material>
+                  <mattext>cubiertos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8056">
+                <material>
+                  <mattext>caliente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5493">
+                <material>
+                  <mattext>vaso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="310">
+                <material>
+                  <mattext>mariscos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6064">
+            <material>
+              <mattext texttype="text/html">3. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u3_vgq_vq2_activity1_q3.jpg" alt="a cup of hot tea" width="90%"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="776">
+                <material>
+                  <mattext>camarero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4263">
+                <material>
+                  <mattext>cubiertos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8056">
+                <material>
+                  <mattext>caliente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5493">
+                <material>
+                  <mattext>vaso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="310">
+                <material>
+                  <mattext>mariscos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6389">
+            <material>
+              <mattext texttype="text/html">4. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u3_vgq_vq2_activity1_q4.jpg" alt="an empty glass" width="90%"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="776">
+                <material>
+                  <mattext>camarero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4263">
+                <material>
+                  <mattext>cubiertos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8056">
+                <material>
+                  <mattext>caliente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5493">
+                <material>
+                  <mattext>vaso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="310">
+                <material>
+                  <mattext>mariscos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4154">
+            <material>
+              <mattext texttype="text/html">5. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS2/ecs2_u3_vgq_vq2_activity1_q5.jpg" alt="cooked crustaceans" width="90%"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="776">
+                <material>
+                  <mattext>camarero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4263">
+                <material>
+                  <mattext>cubiertos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8056">
+                <material>
+                  <mattext>caliente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5493">
+                <material>
+                  <mattext>vaso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="310">
+                <material>
+                  <mattext>mariscos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6449">776</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4422">4263</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6064">8056</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6389">5493</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4154">310</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
