@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>el aguacate</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="El aguacate" mappedValue="0.5"/>
+			<mapEntry mapKey="el aguacate" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>las calabazas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Las calabazas" mappedValue="0.5"/>
+			<mapEntry mapKey="las calabazas" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>el champiñón</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="El champiñón" mappedValue="0.5"/>
+			<mapEntry mapKey="el champiñón" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>las peras</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Las peras" mappedValue="0.5"/>
+			<mapEntry mapKey="las peras" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>la cereza</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="La cereza" mappedValue="0.5"/>
+			<mapEntry mapKey="la cereza" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+	<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>los pimientos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="Los pimientos" mappedValue="0.5"/>
+			<mapEntry mapKey="los pimientos" mappedValue="1"/>
+		</mapping>
+	</responseDeclaration>
+
+	
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>textentry</title>
+        <description>This is a textentry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>textentry</keyword>
+        </keywords>
+  </metadata>
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+	<div>
+		<p>Look at the photos and write the name of each product. Be sure to include the appropriate definite article. Look at the models.
+		
+		
+	<!-- 	<!DOCTYPE html> -->
+<html>
+<style>
+table, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<table style="width:100%">
+
+   <tr>
+    <td><b>Modelo:</b></td>
+    <td><div style="max-width: 56%;"><img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_ex1.jpg" alt="an apple"/></div> <u>la manzana</u></td>
+    <td><div style="max-width: 90%;"><img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_ex2.jpg" alt="a bunch of grapes"/></div> <u>las uvas</u></td>
+ 
+  </tr>
+  
+</table>
+</body>
+</html> </p>
+
+		</div>
+		
+
+		<div>
+		<div>
+			<p><div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q1.jpg" alt="an avocado"/></div></p>
+            
+		<p>1. <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/></p></div>
+
+         <div>
+			<p><div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q2.jpg" alt="three pumpkins"/></div></p>
+            
+		<p>2. <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/></p></div>
+
+		<div>
+			<p><div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q3.jpg" alt="a mushroom"/></div></p>
+            
+		<p>3. <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/></p></div>
+
+
+		<div>
+			<p><div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q4.jpg" alt="a basket of pears"/></div></p>
+            
+		<p>4. <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/></p></div>
+
+
+		<div>
+			<p><div style="max-width: 30%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q5.jpg" alt="a cherry"/></div></p>
+            
+		<p>5. <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/></p></div>
+
+		<div>
+			<p><div style="max-width: 40%; margin-left: 160px;">
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u4_vgq_vq3_activity2_q6.jpg" alt="three bell peppers"/></div></p>
+            
+		<p>6. <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/></p></div>
+
+
+
+</div>
+
+		
+		
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

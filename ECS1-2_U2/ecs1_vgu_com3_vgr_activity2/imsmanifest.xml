@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	identifier="MANIFEST-85D76736-6D19-9DC0-7C0B-57C31A9FD391"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 http://www.imsglobal.org/xsd/qti/qtiv2p2/qtiv2p2_imscpv1p2_v1p0.xsd">
+	<metadata>
+        <schema>QTIv2.2</schema>
+        <schemaversion>1.0.0</schemaversion>
+        <title>Grammar (Observa 3): Expressing Activities
+</title>
+        <description>This is QTI template quiz</description>
+        <keywords>
+            <keyword>IMS</keyword>
+            <keyword>Course</keyword>
+            <keyword>Metadata</keyword>
+        </keywords>
+        <lom xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <general>
+                <title>
+                    <string>Grammar (Observa 3): Expressing Activities
+</string>
+                </title>
+                <description>
+                    <string>This is QTI template quiz</string>
+                </description>
+                <keyword>
+                    <string>IMS</string>
+                </keyword>
+                <keyword>
+                    <string>Course</string>
+                </keyword>
+                <keyword>
+                    <string>Metadata</string>
+                </keyword>
+            </general>
+        </lom>
+    </metadata>    
+	<organizations>
+        <organization identifier="org_001" structure="hierarchical">
+            <item identifier="RES-B38DF83F-A291-86DA-4EC3-B2CEBD1515D7" identifierref="mcq_001"/>
+         
+        </organization>
+    </organizations>
+      <resources>
+		<resource identifier="RES-B38DF83F-A291-86DA-4EC3-B2CEBD1515D7" type="imsqti_item_xmlv2p2" href="unit2_ac2_q1.xml">
+            <file href="unit2_ac2_q1.xml"/>
+				
+ 
+		</resource>
+
+		
+	</resources>
+</manifest>

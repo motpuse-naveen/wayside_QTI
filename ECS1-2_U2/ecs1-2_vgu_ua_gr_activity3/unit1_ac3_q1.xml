@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>tomamos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="tomamos" mappedValue="1"/>
+			<mapEntry mapKey="tomamos" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>nadamos</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="nadamos" mappedValue="1"/>
+			<mapEntry mapKey="nadamos" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>hablo</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="hablo" mappedValue="1"/>
+			<mapEntry mapKey="hablo" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>tocan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="tocan" mappedValue="1"/>
+			<mapEntry mapKey="tocan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>cantas</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="cantas" mappedValue="1"/>
+			<mapEntry mapKey="cantas" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>canta</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="canta" mappedValue="1"/>
+			<mapEntry mapKey="canta" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE6" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>toco</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="toco" mappedValue="1"/>
+			<mapEntry mapKey="toco" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+		<responseDeclaration identifier="RESPONSE7" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>bailan</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="bailan" mappedValue="1"/>
+			<mapEntry mapKey="bailan" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>text-entry</title>
+        <description>This is a text-entry QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>text-entry</keyword>
+        </keywords>
+    </metadata>
+
+
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+		<p>Read the following passage about what a group of friends do on Saturday. Fill in the blanks with the correct verb forms from the word bank.</p>
+		<div>
+        <p style=" border:1px solid black; display: ruby-text;">&nbsp;hablo&nbsp; &nbsp; tomamos&nbsp; &nbsp; tocan&nbsp; &nbsp; nadamos&nbsp;</p>
+		<p>Hola, me llamo Laura y estos son mis amigos: Anita, Pablo y Daniel.<br> 
+		Es sábado. Pablo, Daniel, Anita y yo <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/>el autobús para ir a la playa. Hace calor. <i>(It’s hot)</i> Pablo, Daniel, Anita y yo <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/>. Después del almuerzo, yo <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/> con Anita. Pablo y Daniel <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/>la guitarra.<br>
+	</p>
+<br>
+	<p style=" border:1px solid black; display: ruby-text;">cantas  canta  bailan  toco</p>
+		<p>
+		<b>Daniel:</b> ¿Tú <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/>Pablo?<br>
+		
+		<b>Pablo:</b> No. No canto.<br>
+
+		<b>Daniel:</b> Anita, ¿sabes si Laura <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/>?<br>
+
+		<b>Yo:</b> No, pero le gusta mucho bailar.<br>
+
+		<b>Daniel:</b> Bueno yo <textEntryInteraction responseIdentifier="RESPONSE6" expectedLength="15"/> la guitarra y canto, ¡y ustedes <textEntryInteraction responseIdentifier="RESPONSE7" expectedLength="15"/>!<br>
+
+	    <b>Pablo, Anita y yo:</b> ¡Noooo!</p>
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>

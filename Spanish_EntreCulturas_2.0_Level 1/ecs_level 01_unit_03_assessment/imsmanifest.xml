@@ -201,5 +201,8 @@
     <resource identifier="aaf011e3-dda8-4bd6-98b1-8ced27e2d6ed" type="webcontent" href="assessment_questions/ECS1_unit3_comunication-3_gr1_q1.txt">
       <file href="assessment_questions/ECS1_unit3_comunication-3_gr1_q1.txt"/>
     </resource>
+    <resource identifier="aaf011e3-dda8-4bd6-98b1-8ced27es2d6ed" type="webcontent" href="assessment_questions/ECS1_unit3_assessment_ac3_q1.txt">
+      <file href="assessment_questions/ECS1_unit3_assessment_ac3_q1.txt"/>
+    </resource>
   </resources>
 </manifest>

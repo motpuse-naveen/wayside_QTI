@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p0 imsqti_v2p0.xsd"
+    identifier="match" title="simple-choice4" adaptive="false" timeDependent="false">
+    <responseDeclaration identifier="RESPONSE" cardinality="multiple" baseType="directedPair">
+        <correctResponse>
+            <value>C S</value>
+            <value>D V</value>
+            <value>L M</value>
+            <value>P W</value>
+            <value>Q X</value>
+            <value>R T</value>
+        </correctResponse>
+        <mapping defaultValue="0">
+            <mapEntry mapKey="C M" mappedValue="1"/>
+            <mapEntry mapKey="D R" mappedValue="0.5"/>
+            <mapEntry mapKey="L T" mappedValue="0.5"/>
+            <mapEntry mapKey="P V" mappedValue="1"/>
+            <mapEntry mapKey="Q W" mappedValue="1"/>
+            <mapEntry mapKey="R X" mappedValue="1"/>
+        </mapping>
+    </responseDeclaration>
+    <metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>matching</title>
+        <description>This is a matching QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>matching</keyword>
+        </keywords>
+  </metadata>
+    <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+    <itemBody>
+    <P>In the first column, read what a buyer in the market is saying to the seller. Match each buyer's question or statement with the more logical answer/response from the seller.</P>
+        <matchInteraction responseIdentifier="RESPONSE" shuffle="true" maxAssociations="4">
+            
+            <simpleMatchSet>
+                <simpleAssociableChoice identifier="C" matchMax="1">¿Cuánto cuestan?</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="D" matchMax="1">¿Cuánto cuesta? </simpleAssociableChoice>
+                <simpleAssociableChoice identifier="L" matchMax="1">Póngame un kilo de tomates.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="P" matchMax="1">Quiero comprar esa fruta grande.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="Q" matchMax="1">¿Tiene chiles?</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="R" matchMax="1">¿Usted vende coliflor?</simpleAssociableChoice>
+            </simpleMatchSet>
+            <simpleMatchSet>
+                <simpleAssociableChoice identifier="M" matchMax="4">¿Para hacer salsa?</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="S" matchMax="4">Las fresas, $6.10 el kilo </simpleAssociableChoice>
+                <simpleAssociableChoice identifier="T" matchMax="4">No, pero tengo brócoli.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="V" matchMax="4">La espinaca, $3.50 el manojo (<i>bunch</i>)</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="W" matchMax="4">¡Sí! Esta papaya es deliciosa.</simpleAssociableChoice>
+                <simpleAssociableChoice identifier="X" matchMax="4">Sí, pero son demasiado picantes.</simpleAssociableChoice>
+            </simpleMatchSet>
+            </matchInteraction>
+    </itemBody>
+    <responseProcessing template="http://www.imsglobal.org/question/qti_v2p0/rptemplates/map_response"/>
+</assessmentItem>

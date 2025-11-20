@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2  http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2p2.xsd"
+	identifier="textEntry" title="Textentries" adaptive="false" timeDependent="false">
+	<responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>f</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="F" mappedValue="1"/>
+			<mapEntry mapKey="f" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE1" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>c</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="C" mappedValue="1"/>
+			<mapEntry mapKey="c" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE2" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>e</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="E" mappedValue="1"/>
+			<mapEntry mapKey="e" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE3" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>b</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="B" mappedValue="1"/>
+			<mapEntry mapKey="b" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+
+	<responseDeclaration identifier="RESPONSE4" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>d</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="D" mappedValue="1"/>
+			<mapEntry mapKey="d" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+	<responseDeclaration identifier="RESPONSE5" cardinality="single" baseType="string">
+		<correctResponse>
+			<value>a</value>
+		</correctResponse>
+		<mapping defaultValue="0">
+			<mapEntry mapKey="A" mappedValue="1"/>
+			<mapEntry mapKey="a" mappedValue="0.5"/>
+		</mapping>
+	</responseDeclaration>
+
+	<metadata>
+        <schema>QTI Item</schema>
+        <schemaversion>2.2.0</schemaversion>
+        <title>textentryimg</title>
+        <description>This is a textentryimg QTI quiz</description>
+        <keywords>
+            <keyword>QTI</keyword>
+            <keyword>Quiz</keyword>
+            <keyword>textentryimg</keyword>
+        </keywords>
+  </metadata>
+	<outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+	<itemBody>
+	<div class="promt">
+		<p>Look at the pictures and listen to the audio. Then read the sentences you hear and fill in the blank with the letter from the picture. The first one is done for you.
+		</p>
+
+		</div>
+		<p>
+            <img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/ecs1_u2_vgq_vq3_activity1.jpg" alt="a. a pen  b. a laptop  c. a school bus  d. a dining hall with two long tables  e. school uniforms, shoes, and a backpack  f. a backpack  "/>
+            </p>
+
+
+                <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q1.mp3" type="audio/mpeg" />
+                </audio></p>
+
+                 <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q2.mp3" type="audio/mpeg" />
+                </audio></p>
+
+                 <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q3.mp3" type="audio/mpeg" />
+                </audio></p>
+
+                 <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q4.mp3" type="audio/mpeg" />
+                </audio></p>
+
+                 <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q5.mp3" type="audio/mpeg" />
+                </audio></p>
+
+                 <p><audio id="audioElement" controls="controls">
+                <source src="audio/unit2_ac1_q6.mp3" type="audio/mpeg" />
+                </audio></p>
+
+
+
+
+                  
+
+            
+		<div>
+		<p><div>1. María tiene libros en <textEntryInteraction responseIdentifier="RESPONSE" expectedLength="15"/> .</div>
+		<div>2. Los estudiantes toman <textEntryInteraction responseIdentifier="RESPONSE1" expectedLength="15"/> para regresar a la casa.</div>
+		<div>3. En mi colegio llevamos <textEntryInteraction responseIdentifier="RESPONSE2" expectedLength="15"/> .</div>
+		<div>4. Isabel escribe en <textEntryInteraction responseIdentifier="RESPONSE3" expectedLength="15"/> .</div>
+		<div>4. Los niños comen el almuerzo en <textEntryInteraction responseIdentifier="RESPONSE4" expectedLength="15"/> de la escuela.</div>
+		<div>5. Raúl escribe con <textEntryInteraction responseIdentifier="RESPONSE5" expectedLength="15"/> .</div>
+
+	</p>
+			
+		</div>
+	</itemBody>
+	<responseProcessing
+		template="http://www.imsglobal.org/question/qti_v2p2/rptemplates/map_response"/>
+</assessmentItem>
