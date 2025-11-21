@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g4e07b446d2d51c26402ea21e5afd0fcb" title="Comunicación 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gf5248b2281adf97f7dc32b19c11d995b" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>23444,44442,70033,13297,64608</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5c7a8ba5ab7c8abb6cd3f75d239e6f67</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to the following dialogue between Emilia and Felipe about their plans for the future.&lt;br&gt;&lt;br&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+  &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit6_Comunicacion 1_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;              
+&lt;p&gt;Now listen to this dialogue again and complete the missing verbs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; &lt;span&gt;Felipe&lt;/span&gt;, me pone triste que los jóvenes no [RESPONSE] un buen futuro.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; ¡Pero qué dices!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; Sí, hay mucho desempleo y la gente se siente perdida.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; Eso es temporal. A mí me encanta que mis sueños se [RESPONSE1] cada vez más claros.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; ¿Qué quieres decir?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; Yo quiero ser abogado. Seré perseverante para conseguir mi meta.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; Me enfada que todos [RESPONSE2] qué van a estudiar menos yo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; No te enfades. Mejor piensa qué te gusta.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; A veces pienso que quiero ser periodista o ingeniera.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; ¡Me encanta que [RESPONSE3] opciones! ¿Cuál te gusta más?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; Ay, no sé… tengo que pensar. Seguramente las dos profesiones tienen ventajas y desventajas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FELIPE:&lt;/strong&gt; Me emociona que [RESPONSE4] en nuestro futuro.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMILIA:&lt;/strong&gt; A mí también. ¡Qué divertido!&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="23444">
+                <material>
+                  <mattext texttype="text/plain">tengamos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="44442">
+                <material>
+                  <mattext texttype="text/plain">vuelvan</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70033">
+                <material>
+                  <mattext texttype="text/plain">sepan</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="13297">
+                <material>
+                  <mattext texttype="text/plain">des</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64608">
+                <material>
+                  <mattext texttype="text/plain">pensemos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">23444</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">44442</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">70033</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">13297</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">64608</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gfb05a12d3f05375b9a664ad9916ff259" title="Comunicación 1 - Vocabulary Activity 02 ">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g45144934ededdfbb199bd02ba6b4cfc0" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>63890,29432,56519,86978,73775</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g258f80e14794155fc1bee89eeabe5caf</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Complete the following paragraph by writing in the appropriate word from the word bank.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;aceptó el reto&amp;nbsp;&amp;nbsp;&amp;nbsp;respetuosos&amp;nbsp;&amp;nbsp;&amp;nbsp;ingeniosa&amp;nbsp;&amp;nbsp;&amp;nbsp;aspiración&amp;nbsp;&amp;nbsp;&amp;nbsp;ventaja&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;En nuestra clase, todos tenemos una [RESPONSE] especial que nos motiva a aprender. Ayer, Ana nos sorprendió con una historia inspiradora sobre cómo [RESPONSE1] de crear un proyecto original para la feria escolar. Aunque al principio dudaba de sus habilidades, pronto se dio cuenta de que tenía una gran [RESPONSE2]: su creatividad y curiosidad. Ana decidió investigar sobre qué trabajos serán útiles en el futuro. Entonces, tuvo la [RESPONSE3] idea de crear una red para que cada persona le enseñe una habilidad a otra persona, así todos se capacitan. Trabajó mucho para perfeccionar su proyecto. Al final, aprendió muchísimo, pero también descubrió que, con perseverancia y apoyo, se puede alcanzar cualquier meta. Su dedicación y esfuerzo nos enseñaron a todos una lección: es fundamental que seamos [RESPONSE4] cuando interactuamos con otras personas. Ahora, gracias a Ana, muchos de nosotros también nos sentimos inspirados a enfrentarnos a nuevos desafíos con una actitud positiva y una mente abierta.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="63890">
+                <material>
+                  <mattext texttype="text/plain">aspiración</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="29432">
+                <material>
+                  <mattext texttype="text/plain">aceptó el reto</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="56519">
+                <material>
+                  <mattext texttype="text/plain">ventaja</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86978">
+                <material>
+                  <mattext texttype="text/plain">ingeniosa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73775">
+                <material>
+                  <mattext texttype="text/plain">respetuosos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">63890</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">29432</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">56519</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">86978</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">73775</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g99b23560ec66dd3ba37430f9eee58e98" title="Unit Assessment - Vocabulary Activity 02 ">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g31619553d60e62e73a341f78cbfc2dd4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>44126,58337,49865</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga82589e55350a434a87ef0ef453d4856</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following passage carefully about Agustín and Laura’s friendship and their day at the beach. Then, complete the activity below.&lt;/p&gt;
+&lt;p&gt;Laura y Agustín se cayeron bien desde el primer día de clases en la escuela primaria. Desde entonces, tienen una gran amistad. El sábado, decidieron pasar un día en Piriápolis, un hermoso balneario uruguayo. Cuando llegaron a la playa, Laura, siempre dispuesta a nuevas experiencias, se inscribió en una clase de surf. Agustín, aunque no era tan entusiasta con los deportes acuáticos, decidió acompañarla porque siempre ha sido un amigo amable. La clase, que tuvo lugar en la Playa Hermosa, resultó muy divertida. Después de varias caídas y chapuzones, ambos lograron ponerse de pie sobre las olas. A la tarde subieron al Cerro San Antonio, donde disfrutaron de las vistas de la ciudad y hablaron sobre sus planes futuros. Laura, siempre pensando en el bien común, sugirió que el próximo verano se unieran a un programa de voluntariado en Piriápolis para ayudar a preservar el entorno natural del lugar. Agustín estuvo de acuerdo. Al finalizar el día, ambos se dieron cuenta de lo importante que es tener amistades con quienes hacer planes y que te hagan crecer como persona.&lt;/p&gt;
+&lt;p&gt;Read each question and choose the correct answer for it.&lt;/p&gt;
+&lt;p&gt;1. ¿Cómo fue el inicio de la amistad entre Laura y Agustín?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="44126">
+                <material>
+                  <mattext texttype="text/plain">Les costó encontrar algo en común.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58337">
+                <material>
+                  <mattext texttype="text/plain">Se hicieron amigos enseguida.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49865">
+                <material>
+                  <mattext texttype="text/plain">Se hicieron amigos porque eran vecinos.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">58337</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g12d9bff5bb9a8db02df75e23ca9155c3" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>99196,81822,31558</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0f65efe585f9a2d76e9c747113722cdc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. ¿Qué hizo Laura cuando llegaron a la playa?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="99196">
+                <material>
+                  <mattext texttype="text/plain">Dictó una clase.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81822">
+                <material>
+                  <mattext texttype="text/plain">Canceló una clase.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31558">
+                <material>
+                  <mattext texttype="text/plain">Se anotó en una clase.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">31558</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8f3396436ad6cc428b646bd05388d055" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>49468,81993,64166</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga4283bd03f02e64a6f122a95cf6b94ad</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. ¿Por qué Agustín también fue a la clase?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="49468">
+                <material>
+                  <mattext texttype="text/plain">Porque era atento con su amiga.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81993">
+                <material>
+                  <mattext texttype="text/plain">Porque estaba acostumbrado.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64166">
+                <material>
+                  <mattext texttype="text/plain">Porque le gustaban los deportes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">49468</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd480ac1de047445d72ec450260b73da8" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>88451,62732,19527</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc3c50d3d7b3755891a68cbb29336dcf5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. ¿Dónde se hizo la clase de surf?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="88451">
+                <material>
+                  <mattext texttype="text/plain">En San Antonio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62732">
+                <material>
+                  <mattext texttype="text/plain">En Playa Hermosa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19527">
+                <material>
+                  <mattext texttype="text/plain">En Chapuzones</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">62732</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb3ef377d3cfc7c756d4eaa7b602581eb" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65610,63450,75521</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8af2e44494536d197abfaec691db8d30</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. ¿Por qué Laura sugirió hacer un voluntariado?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="65610">
+                <material>
+                  <mattext texttype="text/plain">Porque le interesa el entorno natural.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63450">
+                <material>
+                  <mattext texttype="text/plain">Porque le interesa volver a Piriápolis.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75521">
+                <material>
+                  <mattext texttype="text/plain">Porque le interesa el bienestar de las personas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">75521</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

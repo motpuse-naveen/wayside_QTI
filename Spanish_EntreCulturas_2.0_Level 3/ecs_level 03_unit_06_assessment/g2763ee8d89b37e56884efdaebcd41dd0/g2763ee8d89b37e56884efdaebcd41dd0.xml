@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2763ee8d89b37e56884efdaebcd41dd0" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g38355c2e71e430316739aee7608ee6af" title="matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9014,2425,1541,383,5271</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g31c48e44c2fee90db47b60f276e47657</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each definition with the correct word or phrase.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_9014">
+            <material>
+              <mattext texttype="text/plain">1. inconveniente u obstáculo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65">
+                <material>
+                  <mattext>desventaja</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9968">
+                <material>
+                  <mattext>prejuicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1532">
+                <material>
+                  <mattext>persona refugiada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext>dar igual</mattext>
+                </material>
+              </response_label>
+              <response_label ident="731">
+                <material>
+                  <mattext>altruismo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2425">
+            <material>
+              <mattext texttype="text/plain">2. opinión sobre alguien sin conocerlo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65">
+                <material>
+                  <mattext>desventaja</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9968">
+                <material>
+                  <mattext>prejuicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1532">
+                <material>
+                  <mattext>persona refugiada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext>dar igual</mattext>
+                </material>
+              </response_label>
+              <response_label ident="731">
+                <material>
+                  <mattext>altruismo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1541">
+            <material>
+              <mattext texttype="text/plain">3. una persona que dejó su país en busca de una vida más segura</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65">
+                <material>
+                  <mattext>desventaja</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9968">
+                <material>
+                  <mattext>prejuicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1532">
+                <material>
+                  <mattext>persona refugiada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext>dar igual</mattext>
+                </material>
+              </response_label>
+              <response_label ident="731">
+                <material>
+                  <mattext>altruismo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_383">
+            <material>
+              <mattext texttype="text/plain">4. no tener preferencia por una cosa u otra</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65">
+                <material>
+                  <mattext>desventaja</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9968">
+                <material>
+                  <mattext>prejuicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1532">
+                <material>
+                  <mattext>persona refugiada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext>dar igual</mattext>
+                </material>
+              </response_label>
+              <response_label ident="731">
+                <material>
+                  <mattext>altruismo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5271">
+            <material>
+              <mattext texttype="text/plain">5. hacer algo bueno por alguien sin esperar nada a cambio</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65">
+                <material>
+                  <mattext>desventaja</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9968">
+                <material>
+                  <mattext>prejuicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1532">
+                <material>
+                  <mattext>persona refugiada</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7173">
+                <material>
+                  <mattext>dar igual</mattext>
+                </material>
+              </response_label>
+              <response_label ident="731">
+                <material>
+                  <mattext>altruismo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9014">65</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2425">9968</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1541">1532</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_383">7173</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5271">731</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

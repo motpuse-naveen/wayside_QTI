@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g5f3689cf2efa5194cbb0d9b4d5d06b6f" title="Comunicación 2 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbf18f629d769b54e1680c839ee7e55e4" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>13647,55782,87421,7718,55044</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcadf3b87a2eb01631d6086e8a817613f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Read the following dialogue between Nicolás and Vanesa, where some pronouns are missing. Complete the dialogue by writing in the correct pronoun form the word bank.&lt;/span&gt;&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;&amp;nbsp;los que &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;las que &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; que &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; la que &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;quienes&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; ¡Feliz día de la amistad, Vane!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VANESA:&lt;/strong&gt; Gracias. Me gusta esta costumbre de Uruguay.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; Sí, el 20 de julio festejamos la amistad. Todos [RESPONSE1] tenemos buenos amigos somos afortunados.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VANESA:&lt;/strong&gt; Exactamente. La persona [RESPONSE2] sabe tener amigos, nunca está sola. ¿Recuerdas cuando me ayudaste con mis exámenes el año pasado?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; Claro que sí. Fue un momento complicado, pero me alegra haber podido darte una mano. Eso es lo que hacen los amigos, ¿no?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VANESA:&lt;/strong&gt; Totalmente. Los amigos son con [RESPONSE3] compartimos nuestras alegrías y tristezas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; Tienes razón. Es importante cuidar las amistades.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VANESA:&lt;/strong&gt; Sí, para mí, mis amigas son esenciales. Son [RESPONSE4] siempre están a mi lado, en lo bueno y en lo malo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; Exacto. Es una relación en [RESPONSE5] se requiere cariño constante.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;VANESA:&lt;/strong&gt; Me alegra que pensemos igual.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NICOLÁS:&lt;/strong&gt; Claro que sí. En especial hoy que festejamos la amistad.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="13647">
+                <material>
+                  <mattext texttype="text/plain">los que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55782">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="87421">
+                <material>
+                  <mattext texttype="text/plain">quienes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7718">
+                <material>
+                  <mattext texttype="text/plain">las que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55044">
+                <material>
+                  <mattext texttype="text/plain">la que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">13647</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">55782</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">87421</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">7718</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">55044</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
