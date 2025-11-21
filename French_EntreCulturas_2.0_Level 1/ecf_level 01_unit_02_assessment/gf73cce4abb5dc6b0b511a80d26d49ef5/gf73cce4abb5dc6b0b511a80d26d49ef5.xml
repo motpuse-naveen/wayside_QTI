@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf73cce4abb5dc6b0b511a80d26d49ef5" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.7.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge9974fa922bec4dc8aba814f54de6d34" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>366,6470,1278,4469,9713</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g14c34652ed6f13995439ea73d9b3c0b0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the sentence that best matches each image.&lt;/p&gt;
+&lt;div&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img style="border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_ua_gq1_activity1_q1.jpg" alt="a pile of several scissors" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img style="border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_ua_gq1_activity1_q2.jpg" alt="a hand holding a cell phone and writing on a chart with dates and post-it notes" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img style="border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_ua_gq1_activity1_q3.jpg" alt="two small children outside with simple images marked on the ground with chalk" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img style="border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_ua_gq1_activity1_q4.jpg" alt="an empty school basketball court" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;e. &lt;img style="border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_ua_gq1_activity1_q5.jpg" alt="a watch with the large hand on the ten and the small hand on the two" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_366">
+            <material>
+              <mattext texttype="text/plain">1. Je travaille avec un agenda scolaire et un portable.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5741">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6658">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7797">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9103">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8034">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6470">
+            <material>
+              <mattext texttype="text/plain">2. Il y a soixante paires de ciseaux dans la salle de classe.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5741">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6658">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7797">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9103">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8034">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1278">
+            <material>
+              <mattext texttype="text/plain">3. Il est treize heures cinquante.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5741">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6658">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7797">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9103">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8034">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4469">
+            <material>
+              <mattext texttype="text/plain">4. Nous dessinons dans la cour.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5741">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6658">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7797">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9103">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8034">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9713">
+            <material>
+              <mattext texttype="text/plain">5. Il n’y a pas de cours d’EPS dans le gymnase.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5741">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6658">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7797">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9103">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8034">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_366">5741</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6470">6658</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1278">7797</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4469">9103</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9713">8034</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g504adaf1aaf6373e117e296a7b156e9e" title="Communiquons 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.1.3</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4be0eea4197d2ea68382e14ffa9bcb23" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9607,6220,5357,2030,4672</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0b907745714d314bc01107e48e66adda</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to two students discussing what subjects and activities they like and dislike and choose the appropriate word to complete each sentence.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                      &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                  &lt;/audio&gt;&lt;/p&gt;&lt;/div&gt;
+          &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_vocab_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;        
+                  </mattext>
+          </material>
+          <response_lid ident="response_9607">
+            <material>
+              <mattext texttype="text/plain">1. Khalil pense que _____________ est facile mais l’espagnol est difficile.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7405">
+                <material>
+                  <mattext>l’histoire-géo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1562">
+                <material>
+                  <mattext>français</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1899">
+                <material>
+                  <mattext>l’informatique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1870">
+                <material>
+                  <mattext>la physique-chimie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2346">
+                <material>
+                  <mattext>l’EPS</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6220">
+            <material>
+              <mattext texttype="text/plain">2. Axel trouve son cours de _______________ fascinant.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7405">
+                <material>
+                  <mattext>l’histoire-géo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1562">
+                <material>
+                  <mattext>français</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1899">
+                <material>
+                  <mattext>l’informatique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1870">
+                <material>
+                  <mattext>la physique-chimie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2346">
+                <material>
+                  <mattext>l’EPS</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5357">
+            <material>
+              <mattext texttype="text/plain">3. Pour Khalil, les maths et _____    sont des cours faciles.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7405">
+                <material>
+                  <mattext>l’histoire-géo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1562">
+                <material>
+                  <mattext>français</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1899">
+                <material>
+                  <mattext>l’informatique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1870">
+                <material>
+                  <mattext>la physique-chimie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2346">
+                <material>
+                  <mattext>l’EPS</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2030">
+            <material>
+              <mattext texttype="text/plain">4. Axel pense que _____________, c'est difficile.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7405">
+                <material>
+                  <mattext>l’histoire-géo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1562">
+                <material>
+                  <mattext>français</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1899">
+                <material>
+                  <mattext>l’informatique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1870">
+                <material>
+                  <mattext>la physique-chimie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2346">
+                <material>
+                  <mattext>l’EPS</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4672">
+            <material>
+              <mattext texttype="text/plain">5. Axel est sportif. Il aime _____________ .</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7405">
+                <material>
+                  <mattext>l’histoire-géo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1562">
+                <material>
+                  <mattext>français</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1899">
+                <material>
+                  <mattext>l’informatique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1870">
+                <material>
+                  <mattext>la physique-chimie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2346">
+                <material>
+                  <mattext>l’EPS</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9607">7405</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6220">1562</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5357">1899</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2030">1870</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4672">2346</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

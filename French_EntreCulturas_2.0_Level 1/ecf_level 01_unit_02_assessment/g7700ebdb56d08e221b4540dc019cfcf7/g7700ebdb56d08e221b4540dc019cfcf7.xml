@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7700ebdb56d08e221b4540dc019cfcf7" title="Communiquons 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.5.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.7.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2152b3ad6c42dd5f7a22e0ddff919cf5" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>70931,91829,54272,70624,25528</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga55a29c4f181e7865b039999f8b273e7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the pictures and write what there is or is not (using &lt;i&gt;&lt;strong&gt;il y a&lt;/strong&gt;&lt;/i&gt; or &lt;i&gt;&lt;strong&gt;il n’y a pas&lt;/strong&gt;&lt;/i&gt;) in your backpack to complete the sentences. Use indefinite articles (&lt;i&gt;&lt;strong&gt;un, une, des, de, d’&lt;/strong&gt;&lt;/i&gt;) in your response; do not use numbers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modèle:&lt;/strong&gt; You see: &lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_ex.jpg" alt="item that has been crossed out with numbers, computation symbols and a small screen displaying digital numbers"&gt;&lt;/p&gt;
+&lt;p&gt;You read: Dans mon sac à dos, ________________________________________.&lt;/p&gt;
+&lt;p&gt;You write: il n’y a pas de calculatrice&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;1&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_q1.jpg" alt="two writing instruments, one blue, one red, made of metal with silver parts on the clickable top and the bottom writing tip"&gt;&lt;/p&gt;
+&lt;p&gt;Dans mon sac à dos, [RESPONSE1] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_q2.jpg" alt="a crossed shelf of blue hardcover books titled “Collins French Dictionary”"&gt;&lt;/p&gt;
+&lt;p&gt;Dans mon sac à dos, [RESPONSE2] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_q3.jpg" alt="two hands holding an electronic touch-screen device without a separate keyboard"&gt;&lt;/p&gt;
+&lt;p&gt;Dans mon sac à dos, [RESPONSE3] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_q4.jpg" alt="a crossed out open item made of bound paper that have lines for writing"&gt;&lt;/p&gt;
+&lt;p&gt;Dans mon sac à dos, [RESPONSE4] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u2_vgq1_gq2_activity1_q5.jpg" alt="a brown hardcover item with small gold frames for titles made of printed and bound paper"&gt;&lt;/p&gt;
+&lt;p&gt;Dans mon sac à dos, [RESPONSE5] .&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70931">
+                <material>
+                  <mattext texttype="text/plain">il y a des stylos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="91829">
+                <material>
+                  <mattext texttype="text/plain">il n’y a pas de dictionnaire</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="54272">
+                <material>
+                  <mattext texttype="text/plain">il y a une tablette</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70624">
+                <material>
+                  <mattext texttype="text/plain">il n’y a pas de cahier</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="25528">
+                <material>
+                  <mattext texttype="text/plain">il y a un livre</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">70931</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">91829</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">54272</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">70624</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">25528</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
