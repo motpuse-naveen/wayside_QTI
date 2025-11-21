@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g1e78a91b9e44cd04d892312a2a5ea4df" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4fcdfdf3c4739679aa685bef227c3f58" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>22854,28634,73436,39049</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc3cac3c6f08fad9e1fe4b7227ef21af5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following dialogue between two close friends, Valentina and Eli. Then, choose the correct answer for each question about the feelings and the acts of both girls.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Valentina:&lt;/strong&gt; Oye, Eli, me han dicho que te has apuntado en el club de atletismo. Me parece una idea genial. Sin duda eso va a mejorar tu calidad de vida.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Eli:&lt;/strong&gt; Sí, quiero darle un cambio a mi vida. Muchas veces me siento cansada y he pensado en hacer más actividad física, comer mejor, dormir más..., pero son muchas cosas nuevas y me cuesta trabajo mantenerme motivada.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Valentina:&lt;/strong&gt; Te recomiendo que vengas conmigo a una clase de meditación, eso te ayudará a lograr enfocarte en lo positivo y mejorar tu bienestar emocional. Ese es el primer paso para sentirse bien.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Eli:&lt;/strong&gt; Gracias por el consejo. Creo que iré contigo, siempre será más fácil teniendo el apoyo de una amiga.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;1. Según la conversación, ¿qué piensa Valentina de la calidad de vida de Eli?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="22854">
+                <material>
+                  <mattext texttype="text/plain">Que es muy mala</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28634">
+                <material>
+                  <mattext texttype="text/plain">Que puede ser mejor</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73436">
+                <material>
+                  <mattext texttype="text/plain">Que es excelente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="39049">
+                <material>
+                  <mattext texttype="text/plain">No opina sobre eso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">28634</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge21a9c917a7b933d1ecf28e9eadf48d4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>92794,33029,77610,99202</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g962a6b3960dc348104c4e3bffa0f5a42</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. ¿Qué es lo que Eli quiere hacer?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="92794">
+                <material>
+                  <mattext texttype="text/plain">Adoptar hábitos más saludables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33029">
+                <material>
+                  <mattext texttype="text/plain">Comer menos y hacer más ejercicio</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77610">
+                <material>
+                  <mattext texttype="text/plain">Tener una vida en la que trabaje menos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99202">
+                <material>
+                  <mattext texttype="text/plain">Dormir hasta tarde en las mañanas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">92794</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc23b5f4cbb049ce8142e24b445c7d2cb" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7171,11971,24547,36032</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4f2301260951a9167f117c1e21402495</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. ¿Por qué Eli no logra mantenerse motivada?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="7171">
+                <material>
+                  <mattext texttype="text/plain">Porque le gusta comer mucho todos los días</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11971">
+                <material>
+                  <mattext texttype="text/plain">Porque todos los días trabaja mucho y solo piensa en eso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24547">
+                <material>
+                  <mattext texttype="text/plain">Porque quiere hacer muchos cambios al mismo tiempo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36032">
+                <material>
+                  <mattext texttype="text/plain">Porque dedica demasiado tiempo a dormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">24547</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g29e3002ddda7c0a87984f6a50cfdc06a" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>96067,74727,47589,16418</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g17fc7c7c4bae7b62a79c3d99a303387d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. &lt;span&gt;¿Qué actividad dice Valentina que puede ayudar a Eli a sentirse mejor emocionalmente?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="96067">
+                <material>
+                  <mattext texttype="text/plain">meditar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74727">
+                <material>
+                  <mattext texttype="text/plain">dormir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47589">
+                <material>
+                  <mattext texttype="text/plain">relajarse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="16418">
+                <material>
+                  <mattext texttype="text/plain">a y c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">96067</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc7f47ccfff98bf88c52438236bafad1d" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>89804,7672,92070,49476</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1dc76cd76e8ca5322689b78b0b34825f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. ¿Por qué decide Eli ir a la clase de meditación?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="89804">
+                <material>
+                  <mattext texttype="text/plain">Porque le gusta hacer lo mismo que hace Valentina</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7672">
+                <material>
+                  <mattext texttype="text/plain">Porque sabe que Valentina la va a apoyar para lograr su meta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92070">
+                <material>
+                  <mattext texttype="text/plain">Porque piensa que ir con su amiga Valentina puede ser divertido</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49476">
+                <material>
+                  <mattext texttype="text/plain">Porque es más fácil meditar que hacer ejercicio</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">7672</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

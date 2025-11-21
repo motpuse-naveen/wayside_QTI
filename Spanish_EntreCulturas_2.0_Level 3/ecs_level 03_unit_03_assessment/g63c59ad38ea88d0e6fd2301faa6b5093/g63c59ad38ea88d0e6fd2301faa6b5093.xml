@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g63c59ad38ea88d0e6fd2301faa6b5093" title="Comunicación 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g9b09140f1217ee9029952271519f8af7" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>76524,98322,30203,43283,13590</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g99694fe79ec75b1e62f87a16e6af01db</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Carefully read each sentence. Then, in the second sentence of each pair, replace the italicized words with a vocabulary word or phrase from the word bank.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 91%; text-align: center; padding: 1%;"&gt;sistema sanitario &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;cita &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;red familiar&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;longevas &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; prioridad&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. Hablé por teléfono con el médico y &lt;i&gt;me dijo que va a atenderme&lt;/i&gt; el viernes a las diez de la mañana.&lt;br&gt;&amp;nbsp; &amp;nbsp; Hablé por teléfono con el médico y me dio una [RESPONSE] para el viernes a las diez de la mañana.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2. No voy a salir con los amigos, este fin de semana &lt;i&gt;para mí es más importante&lt;/i&gt; estudiar para el examen.&lt;br&gt;&amp;nbsp; &amp;nbsp; No voy a salir con los amigos, este fin de semana le doy [RESPONSE1] a estudiar para el examen.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3. Cuando &lt;i&gt;el conjunto de hospitales, consultorios y profesionales de la salud&lt;/i&gt; funciona bien, la salud de la comunidad es mejor.&lt;br&gt;&amp;nbsp; &amp;nbsp; Cuando el [RESPONSE2]funciona bien, la salud de la comunidad es mejor.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4. En mi familia, todos nuestros antepasados fueron personas que &lt;i&gt;vivieron durante mucho tiempo, hasta tener muchos años.&lt;/i&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; En mi familia, todos nuestros antepasados fueron personas muy [RESPONSE3].&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5. El apoyo de &lt;i&gt;las personas de nuestra familia&lt;/i&gt; es importante para mantener una buena calidad de vida.&lt;br&gt;&amp;nbsp; &amp;nbsp; El apoyo de nuestra [RESPONSE4] es importante para mantener una buena calidad de vida.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="76524">
+                <material>
+                  <mattext texttype="text/plain">cita</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="98322">
+                <material>
+                  <mattext texttype="text/plain">prioridad</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="30203">
+                <material>
+                  <mattext texttype="text/plain">sistema sanitario</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="43283">
+                <material>
+                  <mattext texttype="text/plain">longevas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="13590">
+                <material>
+                  <mattext texttype="text/plain">red familiar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">76524</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">98322</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">30203</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">43283</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">13590</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

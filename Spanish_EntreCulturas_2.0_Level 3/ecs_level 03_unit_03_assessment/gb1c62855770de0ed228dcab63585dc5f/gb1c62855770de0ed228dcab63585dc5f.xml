@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb1c62855770de0ed228dcab63585dc5f" title="Comunicación 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g816e2a3810655b6ae86796fd6ee91b72" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5874,7456,4732,201,2254</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8080093f7dc60050cff5b65081b18293</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Take a close look at each photo and choose the sentence that best describes it.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5874">
+            <material>
+              <mattext texttype="text/html">1 .&amp;nbsp;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u3_vgq3_vq1_activity1_q1.jpg" alt="A woman at a produce stand buying a watermelon" style="width: 88%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2980">
+                <material>
+                  <mattext>Me gustan mucho las ferias del agricultor de Costa Rica.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1064">
+                <material>
+                  <mattext>Ayer estuvimos en la fiesta de la señora Vargas. ¿Sabías que es centenaria?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
+                <material>
+                  <mattext>La doctora me recomienda comer más frutas y verduras.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6243">
+                <material>
+                  <mattext>Luisa Jiménez es ayudante de una doctora en un polideportivo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5626">
+                <material>
+                  <mattext>Mi doctora usó la telemedicina para controlar si estoy mejor.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7456">
+            <material>
+              <mattext texttype="text/html">2 .&amp;nbsp;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u3_vgq3_vq1_activity1_q2.jpg" alt="An elderly lady holding a birthday cake with the number 100 on top." style="width: 88%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2980">
+                <material>
+                  <mattext>Me gustan mucho las ferias del agricultor de Costa Rica.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1064">
+                <material>
+                  <mattext>Ayer estuvimos en la fiesta de la señora Vargas. ¿Sabías que es centenaria?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
+                <material>
+                  <mattext>La doctora me recomienda comer más frutas y verduras.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6243">
+                <material>
+                  <mattext>Luisa Jiménez es ayudante de una doctora en un polideportivo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5626">
+                <material>
+                  <mattext>Mi doctora usó la telemedicina para controlar si estoy mejor.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4732">
+            <material>
+              <mattext texttype="text/html">3 .&amp;nbsp;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u3_vgq3_vq1_activity1_q3.jpg" alt="A doctor talking with a patient at a table" style="width: 88%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2980">
+                <material>
+                  <mattext>Me gustan mucho las ferias del agricultor de Costa Rica.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1064">
+                <material>
+                  <mattext>Ayer estuvimos en la fiesta de la señora Vargas. ¿Sabías que es centenaria?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
+                <material>
+                  <mattext>La doctora me recomienda comer más frutas y verduras.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6243">
+                <material>
+                  <mattext>Luisa Jiménez es ayudante de una doctora en un polideportivo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5626">
+                <material>
+                  <mattext>Mi doctora usó la telemedicina para controlar si estoy mejor.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_201">
+            <material>
+              <mattext texttype="text/html">4 .&amp;nbsp;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u3_vgq3_vq1_activity1_q4.jpg" alt="A woman helping a young man out at a fitness center" style="width: 88%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2980">
+                <material>
+                  <mattext>Me gustan mucho las ferias del agricultor de Costa Rica.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1064">
+                <material>
+                  <mattext>Ayer estuvimos en la fiesta de la señora Vargas. ¿Sabías que es centenaria?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
+                <material>
+                  <mattext>La doctora me recomienda comer más frutas y verduras.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6243">
+                <material>
+                  <mattext>Luisa Jiménez es ayudante de una doctora en un polideportivo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5626">
+                <material>
+                  <mattext>Mi doctora usó la telemedicina para controlar si estoy mejor.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2254">
+            <material>
+              <mattext texttype="text/html">5 .&amp;nbsp;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u3_vgq3_vq1_activity1_q5.jpg" alt="A mother and daughter talking to a doctor on a computer through telemed." style="width: 88%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2980">
+                <material>
+                  <mattext>Me gustan mucho las ferias del agricultor de Costa Rica.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1064">
+                <material>
+                  <mattext>Ayer estuvimos en la fiesta de la señora Vargas. ¿Sabías que es centenaria?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
+                <material>
+                  <mattext>La doctora me recomienda comer más frutas y verduras.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6243">
+                <material>
+                  <mattext>Luisa Jiménez es ayudante de una doctora en un polideportivo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5626">
+                <material>
+                  <mattext>Mi doctora usó la telemedicina para controlar si estoy mejor.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5874">2980</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7456">1064</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4732">1797</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_201">6243</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2254">5626</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

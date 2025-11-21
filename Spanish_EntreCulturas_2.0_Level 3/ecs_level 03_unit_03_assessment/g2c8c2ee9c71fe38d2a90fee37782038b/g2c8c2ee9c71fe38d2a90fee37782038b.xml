@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2c8c2ee9c71fe38d2a90fee37782038b" title="Comunicación 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g00dd86c24256a15f6feff72a8699e9b8" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7802,6128,4095,9160,3521</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g94c8052b875e4da3edeecc703bebc61b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the sentences and match each one with the most appropriate response. Pay attention to the pronouns!&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7802">
+            <material>
+              <mattext texttype="text/plain">1. Mami, ¿qué hago para entender esta tarea?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7005">
+                <material>
+                  <mattext>Enfócate en ella.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5463">
+                <material>
+                  <mattext>Pruébela.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7365">
+                <material>
+                  <mattext>Sí, hagámoslo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7088">
+                <material>
+                  <mattext>Tranquilícense.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Póngalos ahí.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6128">
+            <material>
+              <mattext texttype="text/plain">2. ¿Cree usted que me gustará esa fruta?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7005">
+                <material>
+                  <mattext>Enfócate en ella.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5463">
+                <material>
+                  <mattext>Pruébela.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7365">
+                <material>
+                  <mattext>Sí, hagámoslo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7088">
+                <material>
+                  <mattext>Tranquilícense.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Póngalos ahí.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4095">
+            <material>
+              <mattext texttype="text/plain">3. ¿Creamos un programa de yoga?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7005">
+                <material>
+                  <mattext>Enfócate en ella.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5463">
+                <material>
+                  <mattext>Pruébela.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7365">
+                <material>
+                  <mattext>Sí, hagámoslo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7088">
+                <material>
+                  <mattext>Tranquilícense.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Póngalos ahí.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9160">
+            <material>
+              <mattext texttype="text/plain">4. ¡Estamos muy nerviosos por el examen!</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7005">
+                <material>
+                  <mattext>Enfócate en ella.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5463">
+                <material>
+                  <mattext>Pruébela.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7365">
+                <material>
+                  <mattext>Sí, hagámoslo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7088">
+                <material>
+                  <mattext>Tranquilícense.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Póngalos ahí.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3521">
+            <material>
+              <mattext texttype="text/plain">5. ¿Dónde dejo estos libros?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7005">
+                <material>
+                  <mattext>Enfócate en ella.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5463">
+                <material>
+                  <mattext>Pruébela.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7365">
+                <material>
+                  <mattext>Sí, hagámoslo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7088">
+                <material>
+                  <mattext>Tranquilícense.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Póngalos ahí.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7802">7005</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6128">5463</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4095">7365</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9160">7088</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3521">3233</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
