@@ -45,7 +45,7 @@
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to the following passage about Lautaro’s routine. Based on what you hear, choose the option that best completes each statement.&lt;/p&gt;
            &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
-        &lt;source src="https://canvas.instructure.com/assessment_questions/303834685/files/257442216/download?verifier=asr0WLuqsijBLT2gNiZKTvCUgqXEQZW9mMSP3N73" type="audio/mpeg"&gt;
+        &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit2_ua_vo_ac3.mp3?canvas_download=1" type="audio/mpeg"&gt;
         &lt;/audio&gt;&lt;/p&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS2_unit2_ua_vo_ac3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;        
         &lt;p&gt;1. Lautaro camina ____________.&lt;/p&gt;&lt;/div&gt;</mattext>
