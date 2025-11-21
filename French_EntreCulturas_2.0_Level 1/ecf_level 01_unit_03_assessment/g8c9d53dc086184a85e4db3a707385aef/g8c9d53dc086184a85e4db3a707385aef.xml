@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g8c9d53dc086184a85e4db3a707385aef" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g96529d7e6ccfcf6b1154442cb2bae1a9" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4103,3254,3732</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7843025a8bc836a777350841e2fdb85c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the statement that corresponds to each image.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4103">
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;1. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u3_vgq_vq2_activity2_q1.jpg" alt="two climbers with gears climbing  a mountain" style="width: 85%; border: 1px solid #808080;"&gt;&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8861">
+                <material>
+                  <mattext>L’alpinisme est un sport dangereux. Les alpinistes sont très courageux.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5372">
+                <material>
+                  <mattext>Nous avons deux chiens, Maya est grande et Milou est petit.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5953">
+                <material>
+                  <mattext>Je prépare des cartes d’anniversaire avec ma cousine. Elle est très créative.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3254">
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;2. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u3_vgq_vq2_activity2_q2.jpg" alt="two happy dogs, one big and one small" style="width: 85%; border: 1px solid #808080;"&gt;&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8861">
+                <material>
+                  <mattext>L’alpinisme est un sport dangereux. Les alpinistes sont très courageux.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5372">
+                <material>
+                  <mattext>Nous avons deux chiens, Maya est grande et Milou est petit.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5953">
+                <material>
+                  <mattext>Je prépare des cartes d’anniversaire avec ma cousine. Elle est très créative.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3732">
+            <material>
+              <mattext texttype="text/html">&lt;p&gt;3. &lt;/p&gt;&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u3_vgq_vq2_activity2_q3.jpg" alt="two people doing paper handcrafts" style="width: 85%; border: 1px solid #808080;"&gt;&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8861">
+                <material>
+                  <mattext>L’alpinisme est un sport dangereux. Les alpinistes sont très courageux.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5372">
+                <material>
+                  <mattext>Nous avons deux chiens, Maya est grande et Milou est petit.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5953">
+                <material>
+                  <mattext>Je prépare des cartes d’anniversaire avec ma cousine. Elle est très créative.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4103">8861</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3254">5372</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3732">5953</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

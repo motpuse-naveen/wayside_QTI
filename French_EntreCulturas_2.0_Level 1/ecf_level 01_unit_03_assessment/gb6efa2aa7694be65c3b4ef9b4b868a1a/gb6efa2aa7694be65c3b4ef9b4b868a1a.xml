@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb6efa2aa7694be65c3b4ef9b4b868a1a" title="Communiquons 3 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+        <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g620b75a06d9a8580fddfe11537092a8e" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>64761,55837,16845,35814,96473,96290,99368,20775,6067,2189</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gaaf57691d03949125b5ca09701dc6156</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Rearrange the terms provided to form a question.&lt;/p&gt;
+&lt;p&gt;1. dans votre garage - combien de – est-ce qu’il y a - voitures -&lt;br&gt;[RESPONSE] ?&lt;/p&gt;
+&lt;p&gt;2. lire - quoi - tu aimes - &lt;br&gt;[RESPONSE1] ?&lt;/p&gt;
+&lt;p&gt;3. vous aimez - qu’est-ce que - à la télé - regarder - &lt;br&gt;[RESPONSE2] ?&lt;/p&gt;
+&lt;p&gt;4. il y a - combien de - dans ta chambre – livres - &lt;br&gt;[RESPONSE3] ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64761">
+                <material>
+                  <mattext texttype="text/plain">Combien de voitures est-ce qu’il y a dans votre garage ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55837">
+                <material>
+                  <mattext texttype="text/plain">combien de voitures est-ce qu’il y a dans votre garage ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6067">
+                <material>
+                  <mattext texttype="text/plain">Dans votre garage, combien de voitures est-ce qu'il y a ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2189">
+                <material>
+                  <mattext texttype="text/plain">dans votre garage, combien de voitures est-ce qu'il y a ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="16845">
+                <material>
+                  <mattext texttype="text/plain">Tu aimes lire quoi</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35814">
+                <material>
+                  <mattext texttype="text/plain">tu aimes lire quoi</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96473">
+                <material>
+                  <mattext texttype="text/plain">Qu’est-ce que vous aimez regarder à la télé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96290">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que vous aimez regarder à la télé ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="99368">
+                <material>
+                  <mattext texttype="text/plain">Il y a combien de livres dans ta chambre</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20775">
+                <material>
+                  <mattext texttype="text/plain">il y a combien de livres dans ta chambre ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">64761</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">16845</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">96473</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">99368</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,14 @@
+Speaker 1
+Grand-mère, on continue notre jeu de bingo ?
+
+Speaker 2
+Oui, bonne idée ! Je commence. Voici le numéro : 75 !
+
+Speaker 1
+Ah, très bien, je l’ai ! Á moi ! Maintenant, 62 !
+
+Speaker 2
+Je n’ai pas ce numéro, c’est dommage ! Et maintenant 90 !
+
+Speaker 1
+Bingo !

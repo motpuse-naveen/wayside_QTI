@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g9e08e3feab5e8319085d2e859fbc85b0" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+        <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELD.K12.ELL.SI.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g22c1a5a60d9a3c083525ae0678a83e02" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>11920,69307,53318,28793,57347,95744,69454,93457,48396,31,27326,5856,96957,23379,60706</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8e00a9423c34431d17175413a07335bc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the term that best completes the question.&lt;/p&gt;
+&lt;div class="prompt"&gt;
+&lt;p&gt;1. Salut Rehan, tu travailles dans ton appartement ce week-end ? Tu fais [RESPONSE1] ? Je peux t’aider ?&lt;/p&gt;
+&lt;p&gt;2. Tu vas étudier au Canada cette année. Tu vas habiter [RESPONSE2] ?&lt;/p&gt;
+&lt;p&gt;3. Vous avez [RESPONSE3] de salles de bains ? Nous avons une salle de bains au rez-de-chaussée et une au premier étage.&lt;/p&gt;
+4. [RESPONSE4] &lt;span style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;"&gt;est-ce que tu visites la nouvelle maison ? À 14h30 ?&lt;/span&gt;&lt;br&gt;
+&lt;p&gt;5. Tu préfères habiter [RESPONSE5], en ville ou à la campagne ?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11920">
+                <material>
+                  <mattext texttype="text/plain">comment</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69307">
+                <material>
+                  <mattext texttype="text/plain">quoi</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53318">
+                <material>
+                  <mattext texttype="text/plain">pourquoi</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="28793">
+                <material>
+                  <mattext texttype="text/plain">avec qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57347">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95744">
+                <material>
+                  <mattext texttype="text/plain">avec quoi</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69454">
+                <material>
+                  <mattext texttype="text/plain">comment</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93457">
+                <material>
+                  <mattext texttype="text/plain">combien</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48396">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="31">
+                <material>
+                  <mattext texttype="text/plain">À quelle heure</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27326">
+                <material>
+                  <mattext texttype="text/plain">Avec qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5856">
+                <material>
+                  <mattext texttype="text/plain">Pourquoi</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96957">
+                <material>
+                  <mattext texttype="text/plain">quand</mattext>
+                </material>
+              </response_label>
+              <response_label ident="23379">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60706">
+                <material>
+                  <mattext texttype="text/plain">avec qui</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">69307</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">28793</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">93457</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">31</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">23379</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
