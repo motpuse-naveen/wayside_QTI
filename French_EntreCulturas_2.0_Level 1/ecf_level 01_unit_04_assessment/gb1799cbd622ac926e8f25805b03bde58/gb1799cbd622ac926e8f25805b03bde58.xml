@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb1799cbd622ac926e8f25805b03bde58" title="Communiquons 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ga51d69ce419a216be65f5e5e63e91978" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4134,8577,6120,4158,7971,1971</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g37caf93f0a6f3be7a8acb6ce0f0c3df2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Based on the same reading passage, match each statement with its logical conclusion.&lt;/p&gt;
+&lt;p&gt;Claudette : Nathalie, tu es au régime ? Pourquoi cela ?&lt;/p&gt;
+&lt;p&gt;Nathalie : J’aime être en bonne santé. Je suis gourmande, alors je prépare des desserts avec des fruits.&lt;/p&gt;
+&lt;p&gt;Nicolas : Moi aussi je suis gourmand ! J’aime beaucoup cuisiner !&lt;/p&gt;
+&lt;p&gt;Claudette : Ah oui ? Cuisiner et déguster aussi ! Moi, je suis allergique aux légumes. Je préfère partager mes haricots et mon brocoli avec notre chien, Coco !&lt;/p&gt;
+&lt;p&gt;Nathalie: Claudette ! Tu n’es pas allergique, tu gaspilles de la nourriture &lt;i&gt;(food)&lt;/i&gt; !&lt;/p&gt;
+&lt;p&gt;Claudette: Absolument pas ! Coco et moi, nous recyclons !&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4134">
+            <material>
+              <mattext texttype="text/plain">1. Nathalie mange des desserts avec des fruits…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8577">
+            <material>
+              <mattext texttype="text/plain">2. Claudette n’est pas en bonne santé…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6120">
+            <material>
+              <mattext texttype="text/plain">3. Nicolas aime déguster ses plats…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4158">
+            <material>
+              <mattext texttype="text/html">4. Claudette dit (&lt;i&gt;says&lt;/i&gt;) qu’elle recycle…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7971">
+            <material>
+              <mattext texttype="text/plain">5. Comme dîner, Claudette…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1971">
+            <material>
+              <mattext texttype="text/plain">6. Nathalie prépare une tarte aux pommes…</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="923">
+                <material>
+                  <mattext>pour être en bonne santé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8688">
+                <material>
+                  <mattext>parce qu’elle ne mange pas de légumes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1065">
+                <material>
+                  <mattext>et cuisiner.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6904">
+                <material>
+                  <mattext>quand elle partage son brocoli avec Coco.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5826">
+                <material>
+                  <mattext>prend du poulet rôti mais pas de brocoli.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1509">
+                <material>
+                  <mattext>parce qu’elle aime les desserts avec des fruits.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4134">923</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8577">8688</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6120">1065</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4158">6904</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7971">5826</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1971">1509</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

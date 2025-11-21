@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb8337a4e73baa0d6663770b08d3eaf45" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.7.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.NH.1.3</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4e4345768aea90483094d29dc08d75b0" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>71932,63157,9947,77703</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc38b087fe2eb9bb902f5e2fe53eeca5a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;Listen to the statements about food, then select the number that you hear in each sentence.
+&lt;br&gt;
+&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="https://canvas.instructure.com/assessment_questions/298036639/files/252823644/download?verifier=DdI8xHH81n8JTi3AkCgWO3ZiIsjvww2SSf6BPyib" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+                </mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="71932">
+                <material>
+                  <mattext texttype="text/plain">839</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63157">
+                <material>
+                  <mattext texttype="text/plain">809</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9947">
+                <material>
+                  <mattext texttype="text/plain">389</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77703">
+                <material>
+                  <mattext texttype="text/plain">829</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">71932</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g642e256525861704dd23effbcf6be5e4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>26235,71833,7938,41000</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf88a11dc3221e1dfc1f4614050286873</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="https://canvas.instructure.com/assessment_questions/298037929/files/252824852/download?verifier=MTD2MQ3IHgkGj7VflpGpFj8IFsp0WOjp4uJS9YYc" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+                </mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="26235">
+                <material>
+                  <mattext texttype="text/plain">107</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71833">
+                <material>
+                  <mattext texttype="text/plain">167</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7938">
+                <material>
+                  <mattext texttype="text/plain">177</mattext>
+                </material>
+              </response_label>
+              <response_label ident="41000">
+                <material>
+                  <mattext texttype="text/plain">117</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">7938</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g78dfb7f05c6a0978a6fef276bec4fbc2" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>60947,99173,61864,60384</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcec2dd49e3cd615eece840631b096163</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="https://canvas.instructure.com/assessment_questions/298038111/files/252824983/download?verifier=nIdWemEuvNqYWKfIy1VhPU3ws9CEnjwEOYdLhG8f" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+                </mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="60947">
+                <material>
+                  <mattext texttype="text/plain">454</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99173">
+                <material>
+                  <mattext texttype="text/plain">504</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61864">
+                <material>
+                  <mattext texttype="text/plain">514</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60384">
+                <material>
+                  <mattext texttype="text/plain">544</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">60384</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g15845d8a59a2c076ff78abdeef730049" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>58521,64149,84107,84616</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7aea5dca463e02f427c67ac2ccfa8a8c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="https://canvas.instructure.com/assessment_questions/298038162/files/252825136/download?verifier=KmDgmdASj7sFAmueiR6zmqgZAJHS5bcWHL2Vq77o" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+                </mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="58521">
+                <material>
+                  <mattext texttype="text/plain">28</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64149">
+                <material>
+                  <mattext texttype="text/plain">208</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84107">
+                <material>
+                  <mattext texttype="text/plain">108</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84616">
+                <material>
+                  <mattext texttype="text/plain">128</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">64149</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

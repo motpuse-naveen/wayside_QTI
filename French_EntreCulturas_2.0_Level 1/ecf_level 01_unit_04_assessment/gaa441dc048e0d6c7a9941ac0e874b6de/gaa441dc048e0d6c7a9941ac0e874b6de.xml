@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gaa441dc048e0d6c7a9941ac0e874b6de" title="Unit Assessment-Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.1.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2ac53ce1f5b95e65fd274494acba97b9" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>292,9031,4772,360,6148,5910</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g16b6a1c97673eb3099b0fc2af8f8b2cf</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the conversation and match the statement in column A with the statement in Column B based on what you hear.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;&lt;/div&gt;
+         &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_assessment_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
+                </mattext>
+          </material>
+          <response_lid ident="response_292">
+            <material>
+              <mattext texttype="text/plain">Guillaume ne prend pas de croissants.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9031">
+            <material>
+              <mattext texttype="text/plain">Guillaume aime la quiche.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4772">
+            <material>
+              <mattext texttype="text/plain">Fatima boit de l’eau.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_360">
+            <material>
+              <mattext texttype="text/plain">Guillaume finit son repas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6148">
+            <material>
+              <mattext texttype="text/plain">Fatima cuisine bien le poulet rôti.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5910">
+            <material>
+              <mattext texttype="text/plain">Guillaume mange des bananes et des mangues.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6175">
+                <material>
+                  <mattext>Il est au régime.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5708">
+                <material>
+                  <mattext>Il aime aussi prendre une soupe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5983">
+                <material>
+                  <mattext>Elle prend aussi du thé.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1122">
+                <material>
+                  <mattext>Il n’aime pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9422">
+                <material>
+                  <mattext>Elle aime préparer ses repas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3233">
+                <material>
+                  <mattext>Il recycle les fruits qu’il ne mange pas.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_292">6175</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9031">5708</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4772">5983</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_360">1122</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6148">9422</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5910">3233</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g3591f21f7ef450c05ff30ffa3019dc36" title="Unit Assessment-Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8e22e7871e36f4e96746999db78a4cc8" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>8.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>2148,2193,5215,7931,6143,4870,6854,2245</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8f6f484a2b3ca897e8c6ac4bbe5dab26</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the most logical conjugated verb or expression from the drop down to fill in the blanks of each sentence&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_2148">
+            <material>
+              <mattext texttype="text/plain">1. Louis ne prend pas de lait. Il ______________ aux produits laitiers.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2193">
+            <material>
+              <mattext texttype="text/plain">2. Il ______________ parce qu’il mange de bons aliments et il fait du sport.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5215">
+            <material>
+              <mattext texttype="text/plain">3. Louise ___________ et adore les bons plats et les bons desserts.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7931">
+            <material>
+              <mattext texttype="text/plain">4. Sabine ________________ toujours ses repas avec ses amies.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6143">
+            <material>
+              <mattext texttype="text/plain">5. Quand Claude __________________, il boit de l’eau.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4870">
+            <material>
+              <mattext texttype="text/plain">6. L’enfant _________________ son déjeuner parce qu’il n’aime pas les pâtes.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6854">
+            <material>
+              <mattext texttype="text/plain">7. Mon chat ne mange pas. Il ________________________ ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2245">
+            <material>
+              <mattext texttype="text/plain">8. Je _______________ les aliments que je ne mange pas.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4929">
+                <material>
+                  <mattext>est allergique</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2897">
+                <material>
+                  <mattext>est en bonne santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9521">
+                <material>
+                  <mattext>est gourmande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3087">
+                <material>
+                  <mattext>partage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5937">
+                <material>
+                  <mattext>a soif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4433">
+                <material>
+                  <mattext>gaspille</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2531">
+                <material>
+                  <mattext>n’a plus de faim</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5597">
+                <material>
+                  <mattext>recycle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2148">4929</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2193">2897</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5215">9521</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7931">3087</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6143">5937</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4870">4433</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6854">2531</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2245">5597</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">12.50</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
