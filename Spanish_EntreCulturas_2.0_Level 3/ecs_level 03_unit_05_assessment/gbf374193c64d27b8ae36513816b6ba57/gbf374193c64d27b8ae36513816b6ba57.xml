@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbf374193c64d27b8ae36513816b6ba57" title="Unit Assessment - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8a7c7174da3cd7c40c3f077356100b16" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>80472,98412,62030,89806</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4bce9f189790833e344950ab4ec350f8</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read what Sarah wrote about her concerns about her little brother’s use of the internet and social media. Then, based on the text, choose the best answer to the questions below.&lt;/p&gt;
+
+        &lt;p&gt;Esta tarde le estoy enseñando a mi hermano pequeño cómo usar las redes sociales con seguridad. Pienso mucho en él y tengo miedo que alguien lo acose o haga algo que lo dañe. Sé que internet y las redes sociales pueden ser maravillosos para comunicarse y entretenerse. ¡Y también para estudiar! Pero hay que ser cuidadoso porque a veces se puede entrar en páginas que tienen información falsa. También hay que ser cuidadoso con personas que no respetan a los demás. Yo le enseño a mi hermano a comprobar que los sitios a donde accede son sitios confiables. También le digo que si está en una red social y alguien cuenta chismes de otras personas, que salga de la red. Es importante hablar con los niños y ayudarlos para que estén capacitados y tengan un comportamiento seguro. Así pueden aprovechar mejor las oportunidades que nos dan las redes sociales.&lt;/p&gt;
+    
+            &lt;p&gt;1. Según el texto, ¿qué le preocupa a Sarah?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="80472">
+                <material>
+                  <mattext texttype="text/plain">El ciberacoso en las redes sociales</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98412">
+                <material>
+                  <mattext texttype="text/plain">Que las redes son demasiado aburridas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62030">
+                <material>
+                  <mattext texttype="text/plain">Que su hermano se caiga y se haga daño</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89806">
+                <material>
+                  <mattext texttype="text/plain">La c y la b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">80472</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb20726f1b70638f21e9322d59dccf41c" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>78827,22858,66154,37985</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf78b1720edb4ab1ac871bfd0d5887af2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. ¿Por qué dice Sarah que hay que tener cuidado cuando se navega en internet?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="78827">
+                <material>
+                  <mattext texttype="text/plain">Porque algunas personas no respetan a las demás</mattext>
+                </material>
+              </response_label>
+              <response_label ident="22858">
+                <material>
+                  <mattext texttype="text/plain">Porque todas las redes sociales siempre son seguras</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66154">
+                <material>
+                  <mattext texttype="text/plain">Porque hay páginas que tienen información falsa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37985">
+                <material>
+                  <mattext texttype="text/plain">La a y la c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">37985</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gdcb21bbc1accdc9b7be2814a2d38cfbf" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>89692,4151,19996,52392</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g104e117c1ec0f6d5a7f9cde790bf7df6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. ¿Qué le recomienda Sarah a su hermano si alguien habla mal de otra persona cuando él está en una red social?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="89692">
+                <material>
+                  <mattext texttype="text/plain">Que hable con esa persona</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4151">
+                <material>
+                  <mattext texttype="text/plain">Que cierre la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19996">
+                <material>
+                  <mattext texttype="text/plain">Que tenga miedo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52392">
+                <material>
+                  <mattext texttype="text/plain">Que mande contenidos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4151</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3c63365df49e70eac6be6d6139c30379" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>69764,24124,22064,74055</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gedfd2d1d6016b42d2f7f2f1178642011</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. ¿Qué significa la expresión “sitios confiables”?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="69764">
+                <material>
+                  <mattext texttype="text/plain">Sitios que tienen información falsa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24124">
+                <material>
+                  <mattext texttype="text/plain">Sitios divertidos y muy entretenidos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="22064">
+                <material>
+                  <mattext texttype="text/plain">Sitios seguros y en los que se puede creer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74055">
+                <material>
+                  <mattext texttype="text/plain">La a y la b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">22064</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3a5126a0516e227404c32e514263ce16" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>51014,97146,24908,24921</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcdcd7e87c71d4db17ff26c0e0fdf755b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. ¿Qué dice Sarah sobre los niños y las redes sociales?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="51014">
+                <material>
+                  <mattext texttype="text/plain">Que los niños pueden aprender ellos solos a usar correctamente las redes sociales</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97146">
+                <material>
+                  <mattext texttype="text/plain">Que hay que enseñarles a los niños cómo usar las redes sociales de forma segura</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24908">
+                <material>
+                  <mattext texttype="text/plain">Que los niños no deben usar las redes sociales porque son muy peligrosas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24921">
+                <material>
+                  <mattext texttype="text/plain">Que los niños no deben hablar con desconocidos en las redes sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">97146</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

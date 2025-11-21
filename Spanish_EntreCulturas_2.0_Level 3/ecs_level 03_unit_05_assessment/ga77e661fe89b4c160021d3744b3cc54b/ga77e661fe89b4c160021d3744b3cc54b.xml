@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga77e661fe89b4c160021d3744b3cc54b" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g5012d46567a39d6e83d35f7fede6f57a" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7569,3342,9279,9327,3244</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g357bafb8f5249c205b46ecdf18b81cdf</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Match each word with its corresponding description.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7569">
+            <material>
+              <mattext texttype="text/plain">1. denunciar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3583">
+                <material>
+                  <mattext>decirle a alguien con autoridad que una persona rompió una regla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1144">
+                <material>
+                  <mattext>se dice cuando una cosa o una máquina hace el trabajo que se espera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6944">
+                <material>
+                  <mattext>poner toda la atención o el interés en algún tema concreto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6084">
+                <material>
+                  <mattext>que hace que las personas quieran hacer o crear algo o mejorar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3872">
+                <material>
+                  <mattext>que tiene las características o los elementos más modernos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3342">
+            <material>
+              <mattext texttype="text/plain">2. funcionar</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3583">
+                <material>
+                  <mattext>decirle a alguien con autoridad que una persona rompió una regla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1144">
+                <material>
+                  <mattext>se dice cuando una cosa o una máquina hace el trabajo que se espera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6944">
+                <material>
+                  <mattext>poner toda la atención o el interés en algún tema concreto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6084">
+                <material>
+                  <mattext>que hace que las personas quieran hacer o crear algo o mejorar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3872">
+                <material>
+                  <mattext>que tiene las características o los elementos más modernos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9279">
+            <material>
+              <mattext texttype="text/plain">3. centrarse</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3583">
+                <material>
+                  <mattext>decirle a alguien con autoridad que una persona rompió una regla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1144">
+                <material>
+                  <mattext>se dice cuando una cosa o una máquina hace el trabajo que se espera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6944">
+                <material>
+                  <mattext>poner toda la atención o el interés en algún tema concreto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6084">
+                <material>
+                  <mattext>que hace que las personas quieran hacer o crear algo o mejorar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3872">
+                <material>
+                  <mattext>que tiene las características o los elementos más modernos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9327">
+            <material>
+              <mattext texttype="text/plain">4. inspirador</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3583">
+                <material>
+                  <mattext>decirle a alguien con autoridad que una persona rompió una regla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1144">
+                <material>
+                  <mattext>se dice cuando una cosa o una máquina hace el trabajo que se espera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6944">
+                <material>
+                  <mattext>poner toda la atención o el interés en algún tema concreto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6084">
+                <material>
+                  <mattext>que hace que las personas quieran hacer o crear algo o mejorar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3872">
+                <material>
+                  <mattext>que tiene las características o los elementos más modernos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3244">
+            <material>
+              <mattext texttype="text/plain">5. actualizado</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3583">
+                <material>
+                  <mattext>decirle a alguien con autoridad que una persona rompió una regla</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1144">
+                <material>
+                  <mattext>se dice cuando una cosa o una máquina hace el trabajo que se espera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6944">
+                <material>
+                  <mattext>poner toda la atención o el interés en algún tema concreto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6084">
+                <material>
+                  <mattext>que hace que las personas quieran hacer o crear algo o mejorar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3872">
+                <material>
+                  <mattext>que tiene las características o los elementos más modernos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7569">3583</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3342">1144</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9279">6944</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9327">6084</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3244">3872</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

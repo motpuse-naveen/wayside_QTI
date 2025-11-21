@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0eb636da9db3964d8b0a68d9f950f580" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2584214c82ec28be9e2a05a36073fb24" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>35661,56365,70496,84516,20502</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge1ec720c8809376c620a23ace4b75b27</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following sentences and then change the verb to its future form.&lt;/p&gt;
+&lt;p&gt;Modelo: Luis &lt;i&gt;escribe&lt;/i&gt; un mensaje en su celular. → Luis &lt;u&gt;&lt;i&gt;escribirá&lt;/i&gt;&lt;/u&gt; un mensaje en su celular&lt;/p&gt;
+&lt;p&gt;1. Ustedes &lt;i&gt;quieren&lt;/i&gt; probar todos los platos típicos de Bolivia.&lt;/p&gt;
+&lt;p&gt;Ustedes [RESPONSE] probar todos los platos típicos de Bolivia.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Mía y yo &lt;i&gt;pensamos&lt;/i&gt; una manera de solucionar este problema.&lt;/p&gt;
+&lt;p&gt;Mía y yo [RESPONSE1] una manera de solucionar este problema.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. Hoy &lt;i&gt;salgo&lt;/i&gt; de la universidad a las 2:00 de la tarde.&lt;/p&gt;
+&lt;p&gt;Hoy [RESPONSE2] de la universidad a las 2:00 de la tarde.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. ¿Usted &lt;i&gt;vuelve&lt;/i&gt; a leer ese libro de viajes otra vez?&lt;/p&gt;
+&lt;p&gt;¿Usted [RESPONSE3] a leer ese libro de viajes otra vez?&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. ¿Me &lt;i&gt;dices&lt;/i&gt; cuál es tu opinión sobre la computadora nueva?&lt;/p&gt;
+&lt;p&gt;¿Me [RESPONSE4] cuál es tu opinión sobre la computadora nueva?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="35661">
+                <material>
+                  <mattext texttype="text/plain">querrán</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="56365">
+                <material>
+                  <mattext texttype="text/plain">pensaremos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70496">
+                <material>
+                  <mattext texttype="text/plain">saldré</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="84516">
+                <material>
+                  <mattext texttype="text/plain">volverá</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20502">
+                <material>
+                  <mattext texttype="text/plain">dirás</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">35661</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">56365</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">70496</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">84516</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">20502</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

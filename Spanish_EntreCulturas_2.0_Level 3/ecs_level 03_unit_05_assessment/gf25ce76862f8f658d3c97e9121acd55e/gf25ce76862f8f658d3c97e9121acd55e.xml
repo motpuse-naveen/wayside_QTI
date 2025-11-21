@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf25ce76862f8f658d3c97e9121acd55e" title="Comunicación 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g651d503281745d7700a1031d16608c17" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>971,2196,6533,7890,7500</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g41e58ef936bf3e328c51d005bf088c14</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the phrases in the first column and match them with the appropriate options to create correct sentences.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_971">
+            <material>
+              <mattext texttype="text/plain">1. Si tú me ayudas a escribir el informe, yo</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="973">
+                <material>
+                  <mattext>podré terminarlo esta tarde.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2372">
+                <material>
+                  <mattext>la apagará ahora mismo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="172">
+                <material>
+                  <mattext>será más fácil llevarnos bien.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6746">
+                <material>
+                  <mattext>querrán venir con nosotros.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5651">
+                <material>
+                  <mattext>te enojarás muchísimo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2196">
+            <material>
+              <mattext texttype="text/plain">2. Si usted no utiliza la computadora, Pedro</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="973">
+                <material>
+                  <mattext>podré terminarlo esta tarde.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2372">
+                <material>
+                  <mattext>la apagará ahora mismo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="172">
+                <material>
+                  <mattext>será más fácil llevarnos bien.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6746">
+                <material>
+                  <mattext>querrán venir con nosotros.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5651">
+                <material>
+                  <mattext>te enojarás muchísimo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6533">
+            <material>
+              <mattext texttype="text/plain">3. Si respetamos a los demás</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="973">
+                <material>
+                  <mattext>podré terminarlo esta tarde.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2372">
+                <material>
+                  <mattext>la apagará ahora mismo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="172">
+                <material>
+                  <mattext>será más fácil llevarnos bien.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6746">
+                <material>
+                  <mattext>querrán venir con nosotros.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5651">
+                <material>
+                  <mattext>te enojarás muchísimo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7890">
+            <material>
+              <mattext texttype="text/plain">4. Si le dices a tus hermanas que vamos al cine, ellas</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="973">
+                <material>
+                  <mattext>podré terminarlo esta tarde.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2372">
+                <material>
+                  <mattext>la apagará ahora mismo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="172">
+                <material>
+                  <mattext>será más fácil llevarnos bien.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6746">
+                <material>
+                  <mattext>querrán venir con nosotros.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5651">
+                <material>
+                  <mattext>te enojarás muchísimo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7500">
+            <material>
+              <mattext texttype="text/plain">5. Si te digo lo que pienso sobre tu blog, tú</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="973">
+                <material>
+                  <mattext>podré terminarlo esta tarde.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2372">
+                <material>
+                  <mattext>la apagará ahora mismo.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="172">
+                <material>
+                  <mattext>será más fácil llevarnos bien.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6746">
+                <material>
+                  <mattext>querrán venir con nosotros.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5651">
+                <material>
+                  <mattext>te enojarás muchísimo.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_971">973</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2196">2372</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6533">172</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7890">6746</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7500">5651</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

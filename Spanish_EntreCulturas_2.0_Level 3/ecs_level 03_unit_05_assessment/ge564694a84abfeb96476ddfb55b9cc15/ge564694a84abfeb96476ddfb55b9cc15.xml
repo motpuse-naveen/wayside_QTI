@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ge564694a84abfeb96476ddfb55b9cc15" title="Comunicación 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7d0b55432c602ccdeed0060bd7c48937" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>3483,1481,3107,8617,2616</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g194f15a489405f5f5c26de9b61703e50</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to each audio and then choose the activity that corresponds to what each person is doing.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_3483">
+            <material>
+              <mattext texttype="text/html">&lt;audio id="audioElement" controls="controls" style="margin-left: -17px; max-width: 100%; width: 300px;"&gt;&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;
+              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit5_Comunicacion 1_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+              &lt;p&gt;1. ________&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1514">
+                <material>
+                  <mattext>publicar en internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="644">
+                <material>
+                  <mattext>cerrar la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7901">
+                <material>
+                  <mattext>hacer una solicitud de amistad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="546">
+                <material>
+                  <mattext>actuar contra el ciberacoso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6543">
+                <material>
+                  <mattext>comprobar datos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1481">
+            <material>
+              <mattext texttype="text/html">&lt;audio id="audioElement" controls="controls" style="margin-left: -17px; max-width: 100%; width: 300px;"&gt;&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;
+              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit5_Comunicacion 1_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+              &lt;p&gt;2. ________&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1514">
+                <material>
+                  <mattext>publicar en internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="644">
+                <material>
+                  <mattext>cerrar la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7901">
+                <material>
+                  <mattext>hacer una solicitud de amistad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="546">
+                <material>
+                  <mattext>actuar contra el ciberacoso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6543">
+                <material>
+                  <mattext>comprobar datos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3107">
+            <material>
+              <mattext texttype="text/html">&lt;audio id="audioElement" controls="controls" style="margin-left: -17px; max-width: 100%; width: 300px;"&gt;&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;
+              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit5_Comunicacion 1_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+              &lt;p&gt;3. ________&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1514">
+                <material>
+                  <mattext>publicar en internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="644">
+                <material>
+                  <mattext>cerrar la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7901">
+                <material>
+                  <mattext>hacer una solicitud de amistad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="546">
+                <material>
+                  <mattext>actuar contra el ciberacoso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6543">
+                <material>
+                  <mattext>comprobar datos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8617">
+            <material>
+              <mattext texttype="text/html">&lt;audio id="audioElement" controls="controls" style="margin-left: -17px; max-width: 100%; width: 300px;"&gt;&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;
+              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit5_Comunicacion 1_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+              &lt;p&gt;4. ________&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1514">
+                <material>
+                  <mattext>publicar en internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="644">
+                <material>
+                  <mattext>cerrar la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7901">
+                <material>
+                  <mattext>hacer una solicitud de amistad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="546">
+                <material>
+                  <mattext>actuar contra el ciberacoso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6543">
+                <material>
+                  <mattext>comprobar datos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2616">
+            <material>
+              <mattext texttype="text/html">&lt;audio id="audioElement" controls="controls" style="margin-left: -17px; max-width: 100%; width: 300px;"&gt;&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;&lt;/audio&gt;
+              &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit5_Comunicacion 1_ac2_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+              &lt;p&gt;5. ________&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1514">
+                <material>
+                  <mattext>publicar en internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="644">
+                <material>
+                  <mattext>cerrar la sesión</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7901">
+                <material>
+                  <mattext>hacer una solicitud de amistad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="546">
+                <material>
+                  <mattext>actuar contra el ciberacoso</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6543">
+                <material>
+                  <mattext>comprobar datos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3483">1514</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1481">644</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3107">7901</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8617">546</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2616">6543</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

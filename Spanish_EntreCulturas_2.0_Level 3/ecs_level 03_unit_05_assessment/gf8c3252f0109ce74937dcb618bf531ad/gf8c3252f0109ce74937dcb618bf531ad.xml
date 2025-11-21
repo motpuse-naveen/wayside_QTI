@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf8c3252f0109ce74937dcb618bf531ad" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g3358352339779fbee2f31d2a6349f289" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>81399,12186,51650,4101</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7e1c9541ac9c33c9019b5d55046acf02</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the image, and then choose the option that best completes each sentence.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u5_ua_gq1_activity1_q1.jpg" alt="a laptop, tablet, and phone stacked on top of a table." width="40%" height="40%"&gt;&lt;/p&gt;
+&lt;p&gt;¿De quién son __________ que están sobre la mesa?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="81399">
+                <material>
+                  <mattext texttype="text/plain">las computadoras</mattext>
+                </material>
+              </response_label>
+              <response_label ident="12186">
+                <material>
+                  <mattext texttype="text/plain">los teléfonos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="51650">
+                <material>
+                  <mattext texttype="text/plain">los dispositivos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4101">
+                <material>
+                  <mattext texttype="text/plain">los contenidos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">51650</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g68efc0c7d4c8ef9c00fc1a6ae9b01354" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>59550,32993,8126,99654</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g49e3c3c2b86345518adbdb479618fe7d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u5_ua_gq1_activity1_q2.jpg" alt="A cell phone downloading an application" width="40%" height="40%"&gt;&lt;/p&gt;
+&lt;p&gt;Estoy __________ una aplicación nueva para escuchar música en el celular.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="59550">
+                <material>
+                  <mattext texttype="text/plain">etiquetando</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32993">
+                <material>
+                  <mattext texttype="text/plain">mirando</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8126">
+                <material>
+                  <mattext texttype="text/plain">descargando</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99654">
+                <material>
+                  <mattext texttype="text/plain">publicando</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">8126</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g8d2ed107f4f474f24f4ea67c17e98e9b" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>27300,36591,94876,83322</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g18071cd114131bcd3996719370297517</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u5_ua_gq1_activity1_q3.jpg" alt="a young woman working on a laptop" width="40%" height="40%"&gt;&lt;/p&gt;
+&lt;p&gt;Paula __________ la computadora para planear un viaje a Bolivia.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="27300">
+                <material>
+                  <mattext texttype="text/plain">utiliza</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36591">
+                <material>
+                  <mattext texttype="text/plain">fomenta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="94876">
+                <material>
+                  <mattext texttype="text/plain">cuenta</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83322">
+                <material>
+                  <mattext texttype="text/plain">funciona</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">27300</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd85215f44df087271c8cf1f1dcb6c58d" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>31449,31185,87549,4920</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7c7aee3099a7512749011f39f1afd6b5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u5_ua_gq1_activity1_q4.jpg" alt="A person drawing on a tablet with a stylus." width="40%" height="40%"&gt;&lt;/p&gt;
+&lt;p&gt;La diseñadora usa __________ digitales para dibujar y hacer diseños.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="31449">
+                <material>
+                  <mattext texttype="text/plain">resultados</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31185">
+                <material>
+                  <mattext texttype="text/plain">etiquetas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87549">
+                <material>
+                  <mattext texttype="text/plain">lazos</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4920">
+                <material>
+                  <mattext texttype="text/plain">herramientas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4920</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbd3da11becf8013b5445d8275620a6b6" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>69347,24807,55256,78450</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4d7ea7cf0d9e6a4ba054279bd5580373</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u5_ua_gq1_activity1_q5.jpg" alt="a box with a plus sign in the upper left hand corner that says @kikediez, @monika01, @isa2002, @juanjosLP, and @odracir-18" width="40%" height="40%"&gt;&lt;/p&gt;
+&lt;p&gt;Voy a __________ a mis amigos en la foto de la graduación.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="69347">
+                <material>
+                  <mattext texttype="text/plain">publicar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24807">
+                <material>
+                  <mattext texttype="text/plain">etiquetar</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55256">
+                <material>
+                  <mattext texttype="text/plain">influir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78450">
+                <material>
+                  <mattext texttype="text/plain">funcionar</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">24807</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

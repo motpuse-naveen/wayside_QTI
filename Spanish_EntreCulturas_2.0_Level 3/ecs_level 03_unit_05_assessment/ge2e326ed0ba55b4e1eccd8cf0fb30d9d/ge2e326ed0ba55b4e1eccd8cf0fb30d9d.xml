@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ge2e326ed0ba55b4e1eccd8cf0fb30d9d" title="Comunicación 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gfd55a15ecc390b62d239ce906d412ac4" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>91275,73402,207,86266,11166,45371,21218,70477,58217,93678</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb9e6fd357e0eb222ba9fb3a008f82292</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Read the following paragraph carefully. Then decide if the sentences below are true (&lt;i&gt;cierto&lt;/i&gt;) or false (&lt;i&gt;falso&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;Roxana es una experta en nuevas tecnologías y trabaja como voluntaria para ayudar a las personas a entender y usar computadoras y teléfonos móviles. Lo que más le gusta de su trabajo es hacer llegar los conocimientos sobre tecnología a las personas mayores. Cree que en el mundo actual es muy importante saber manejar la tecnología. Por eso se siente feliz cuando ve que con su ayuda muchas personas consiguen comunicarse con sus familias con más facilidad. Está segura de que la tecnología es una buena manera de fortalecer los lazos entre personas de diferentes edades.&lt;/p&gt;
+&lt;p&gt;1. Roxana capacita a las personas para usar nuevas tecnologías.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. Roxana les da computadoras y teléfonos móviles a las personas mayores.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. A Roxana le encanta difundir conocimientos sobre tecnología.&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4. Gracias a Roxana muchas personas aprenden a manejar la tecnología sin problemas.&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5. Roxana cree que la tecnología hace que las personas mayores y los jóvenes se relacionen menos.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="91275">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73402">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="207">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86266">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11166">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45371">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="21218">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70477">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="58217">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93678">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">91275</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">86266</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">11166</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">21218</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">93678</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
