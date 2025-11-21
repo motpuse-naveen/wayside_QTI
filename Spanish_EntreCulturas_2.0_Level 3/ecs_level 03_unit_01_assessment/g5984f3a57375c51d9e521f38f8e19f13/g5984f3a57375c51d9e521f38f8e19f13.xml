@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g5984f3a57375c51d9e521f38f8e19f13" title="Unit Assessment - Vocabulary Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g168bc3dee9c6f53d96bd61cbc161b092" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>67919,69835,94040,4301,95235</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8d0ebaf5a6223898e7c5c9b55200e9aa</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Read each sentence and replace the italicized words with a vocabulary word from the word bank. Pay attention! &lt;/span&gt;&lt;span&gt;There is one word that you will not use.&lt;/span&gt;&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;superar el obstáculo &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;sueño &amp;nbsp; &amp;nbsp;&amp;nbsp; la esperanza &amp;nbsp; &amp;nbsp;&amp;nbsp; rescatar&lt;br&gt;&amp;nbsp;&amp;nbsp;amor&amp;nbsp; &amp;nbsp; &amp;nbsp;solidaridad&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. Cuando estoy lejos de mis hermanos siempre pienso en ellos con &lt;i&gt;un sentimiento de cariño.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Cuando estoy lejos de mis hermanos siempre pienso en ellos con [RESPONSE] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2. Después de la inundación, todo el grupo demostró &lt;i&gt;su sentimiento de unidad y su deseo de trabajar por un bien común.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Después de la inundación, todo el grupo demostró su [RESPONSE1] .&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3. Nuestro equipo juega cada vez mejor, tengo &lt;i&gt;la confianza y la ilusión&lt;/i&gt; de que vamos a ganar este partido.&lt;/p&gt;
+&lt;p&gt;Nuestro equipo juega cada vez mejor, tengo [RESPONSE2] de que vamos a ganar este partido.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4. ¡Sé que con trabajo y la ayuda de toda la comunidad podemos &lt;i&gt;salir con éxito de este momento difícil!&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;¡Sé que con trabajo y la ayuda de toda la comunidad podemos [RESPONSE3] !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5. Voy a estudiar ciencias químicas porque &lt;i&gt;deseo con ilusión&lt;/i&gt; trabajar en un laboratorio.&lt;/p&gt;
+&lt;p&gt;Voy a estudiar ciencias químicas porque [RESPONSE4] trabajar en un laboratorio.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="67919">
+                <material>
+                  <mattext texttype="text/plain">amor</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69835">
+                <material>
+                  <mattext texttype="text/plain">solidaridad</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="94040">
+                <material>
+                  <mattext texttype="text/plain">la esperanza</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4301">
+                <material>
+                  <mattext texttype="text/plain">superar el obstáculo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="95235">
+                <material>
+                  <mattext texttype="text/plain">sueño</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">67919</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">69835</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">94040</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">4301</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">95235</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
