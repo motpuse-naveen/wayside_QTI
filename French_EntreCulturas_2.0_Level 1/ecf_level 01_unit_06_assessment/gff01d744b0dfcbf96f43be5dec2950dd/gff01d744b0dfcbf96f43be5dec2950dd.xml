@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gff01d744b0dfcbf96f43be5dec2950dd" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g87269c3e8da0165f59ec53c71bb56315" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>75612,83462,54305,64806,30045,96795,91355,32005,57297,38100,62601,60114,55824,33896,47873</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1a41c2ba3cae694fcb71f50efc442e57</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the correct form of the verb.&lt;/p&gt;
+&lt;p&gt;1. Dans le rayon fromagerie du supermarché, on [RESPONSE1] du bon fromage français.&lt;/p&gt;
+&lt;p&gt;2. Je [RESPONSE2] trouver mon dessert préféré à la pâtisserie “Au Bon Moulin”.&lt;/p&gt;
+&lt;p&gt;3. Dans les grands magasins, les vendeurs [RESPONSE3] de préférence être bilingues.&lt;/p&gt;
+&lt;p&gt;4. Notre magasin de vêtements va fermer. On [RESPONSE4] toute la collection en ligne en juillet.&lt;/p&gt;
+&lt;p&gt;5. Les paiements [RESPONSE5] aux commandes, c’est normal.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="75612">
+                <material>
+                  <mattext texttype="text/plain">acheter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83462">
+                <material>
+                  <mattext texttype="text/plain">achète</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54305">
+                <material>
+                  <mattext texttype="text/plain">achètes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64806">
+                <material>
+                  <mattext texttype="text/plain">peut</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30045">
+                <material>
+                  <mattext texttype="text/plain">peux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96795">
+                <material>
+                  <mattext texttype="text/plain">peuvent</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="91355">
+                <material>
+                  <mattext texttype="text/plain">doit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32005">
+                <material>
+                  <mattext texttype="text/plain">doivent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57297">
+                <material>
+                  <mattext texttype="text/plain">devons</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="38100">
+                <material>
+                  <mattext texttype="text/plain">vend</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62601">
+                <material>
+                  <mattext texttype="text/plain">vends</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60114">
+                <material>
+                  <mattext texttype="text/plain">vendre</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55824">
+                <material>
+                  <mattext texttype="text/plain">correspond</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33896">
+                <material>
+                  <mattext texttype="text/plain">correspondons</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47873">
+                <material>
+                  <mattext texttype="text/plain">correspondent</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">83462</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">30045</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">32005</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">38100</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">47873</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
