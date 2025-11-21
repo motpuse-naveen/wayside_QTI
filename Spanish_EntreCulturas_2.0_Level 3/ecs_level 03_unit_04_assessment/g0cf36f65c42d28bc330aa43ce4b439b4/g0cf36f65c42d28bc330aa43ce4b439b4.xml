@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0cf36f65c42d28bc330aa43ce4b439b4" title="Comunicación 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gfe0e21a3d45410ad5b03db98b6dd5ef3" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>87890,19374,93764,72268,64360,83068,49967,26561,28221,64248</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gf1e06e7805a29c09bedf9b257f4d3196</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Read carefully the following passage where Luciana shares her ideas to be more environmentally friendly. Then, indicate whether each statement is true (&lt;i&gt;cierto&lt;/i&gt;) or false (&lt;i&gt;falso&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;Desde siempre me ha interesado la ecología. He leído mucho sobre qué podemos hacer para tener vidas más sostenibles y trato de poner en práctica algunas medidas. Por ejemplo, nunca uso el vaso de plástico que me dan en las cafeterías porque siempre llevo mi taza de café. Me fijo mucho qué cosas compro y trato de gastar solo en artículos que realmente necesito. Cuando voy a hacer compras, siempre elijo mercados que prefieren vender productos sin envases y llevo mis recipientes y mis botellas para guardar las cosas que compro. Este tipo de lugares respetan y protegen el medioambiente Me gusta contarle a la gente estas cosas porque pienso que quizás puedo transmitirles algo de mi entusiasmo y que ellos también van a poner en práctica algunas medidas.&lt;/p&gt;
+&lt;p&gt;1. Luciana rechaza los vasos de plástico.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. Luciana reutiliza su propia taza de café.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. A Luciana no le interesa su consumo.&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4. Luciana no conoce los mercados de basura cero.&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5. A Luciana le gusta concientizar a la gente.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="87890">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19374">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="93764">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72268">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64360">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83068">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="49967">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26561">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="28221">
+                <material>
+                  <mattext texttype="text/plain">cierto</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64248">
+                <material>
+                  <mattext texttype="text/plain">falso</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">87890</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">93764</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">83068</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">26561</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">28221</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

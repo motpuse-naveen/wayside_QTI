@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2e85c3b8c3ba1b931d37f2e7f21da604" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2855862ac088f17b8e653afc1c3775d6" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65061,66723,14258,34490,46854</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0d4671f06aa633cc0de8bb171f9d6303</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to the following dialogue between Matías and Sofía, who are two friends trying to achieve a more ecofriendly city. Then, complete the activity.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ua_gr_ac2_q.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                        &lt;/audio&gt;&lt;/p&gt;
+  &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit4_assessment_ac2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                      
+&lt;p&gt;Now, listen to the dialogue again and complete the missingverbs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matías:&lt;/strong&gt; Hola, Sofía. En media hora, tenemos la reunión con los representantes del gobierno de la ciudad. ¿Has pensando alguna idea?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sofía:&lt;/strong&gt; Sí, muchas. Primero quiero exigirles que [RESPONSE1] más ciclovías. La gente necesita poder moverse en bicicleta con seguridad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matías:&lt;/strong&gt; Estoy de acuerdo. Yo quiero pedirles que [RESPONSE2] el servicio de metro. Es necesario que pase con más frecuencia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sofía:&lt;/strong&gt; También necesitamos que las personas [RESPONSE3] . Por ejemplo, ellas deberían cuidar más los espacios verdes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matías:&lt;/strong&gt; Sí. Además, mucha gente bota basura en la calle y eso está mal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sofía:&lt;/strong&gt; Podemos pedirle al gobierno que [RESPONSE4] buenas prácticas para cuidar el medioambiente, como reducir el consumo de agua o apagar los aparatos eléctricos que no se están usando.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matías:&lt;/strong&gt; ¿Crees que eso puede ayudar?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sofía:&lt;/strong&gt; Yo creo que sí.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matías:&lt;/strong&gt; Bueno, ojalá que nos [RESPONSE5] .&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65061">
+                <material>
+                  <mattext texttype="text/plain">construyan</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="66723">
+                <material>
+                  <mattext texttype="text/plain">mejoren</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="14258">
+                <material>
+                  <mattext texttype="text/plain">colaboren</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34490">
+                <material>
+                  <mattext texttype="text/plain">fomente</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="46854">
+                <material>
+                  <mattext texttype="text/plain">escuchen</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">65061</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">66723</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">14258</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">34490</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">46854</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

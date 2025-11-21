@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb77321e6a46164e0a0ebbfcb7f1e9e5f" title="Comunicación 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ga725f43af70d350fbe1050307c37ab7a" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>59148,79858,51993,59502,1452</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g71ebf235dcc8d2b518e0e5089b4e260b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Look at pictures and read the sentences. &lt;/span&gt;&lt;span&gt;Then, write in the vocabulary word that best completes it from the word bank. &lt;span&gt;There are two options that you will not use.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;&amp;nbsp; la deforestación&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;vivienda sostenible&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;zona peatonal&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;transporte público eléctrico&lt;br&gt;arte urbano&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;el vertedero&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;espacio verde&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Modelo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_ex.jpg" alt="a tram going through a city"&gt;&lt;/p&gt;
+&lt;p&gt;En Medellín, &lt;i&gt;&lt;u&gt;el tranvía&lt;/u&gt;&lt;/i&gt; es muy moderno y cómodo.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_q1.jpg" alt="A sunny day with a lot of people walking around a city"&gt;&lt;/p&gt;
+&lt;p&gt;Los días soleados, mis amigas y yo salimos a caminar por la [RESPONSE1].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_q2.jpg" alt="A small, mobile home"&gt;&lt;/p&gt;
+&lt;p&gt;Valery se mudó a una casa que ahorra recursos porque su sueño siempre ha sido vivir en una [RESPONSE3].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_q3.jpg" alt="A community green space with a sidewalk going through it."&gt;&lt;/p&gt;
+&lt;p&gt;Los vecinos aún están pensando un nombre para el nuevo [RESPONSE5] que han creado en la comunidad.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_q4.jpg" alt="A city bus at a bus charging station."&gt;&lt;/p&gt;
+&lt;p&gt;El [RESPONSE7] ayuda a mejorar la calidad del aire en las grandes ciudades.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_vgq2_vq1_activity2_q5.jpg" alt="A long wall of urban art"&gt;&lt;/p&gt;
+&lt;p&gt;En muchos lugares, el [RESPONSE9] es una manera de expresión que nos hace pensar.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59148">
+                <material>
+                  <mattext texttype="text/plain">zona peatonal</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="79858">
+                <material>
+                  <mattext texttype="text/plain">vivienda sostenible</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="51993">
+                <material>
+                  <mattext texttype="text/plain">espacio verde</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE7">
+            <material>
+              <mattext>RESPONSE7</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59502">
+                <material>
+                  <mattext texttype="text/plain">transporte público eléctrico</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE9">
+            <material>
+              <mattext>RESPONSE9</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1452">
+                <material>
+                  <mattext texttype="text/plain">arte urbano</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">59148</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">79858</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">51993</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE7">59502</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE9">1452</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

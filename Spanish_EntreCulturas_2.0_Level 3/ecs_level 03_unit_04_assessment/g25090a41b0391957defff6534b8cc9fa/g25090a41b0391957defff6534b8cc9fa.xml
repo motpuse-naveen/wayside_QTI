@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g25090a41b0391957defff6534b8cc9fa" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7d58b550d173fa5ce59527759ca53790" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20579,4072,65912,69386</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g572bd30e510ed216c14ac74e062519ec</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the following pictures and select the option with the word or phrase that best completes each sentence.&lt;/p&gt;
+     
+     &lt;p&gt;1. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_ua_gq1_activity1_q1.jpg" alt="A woman shopping in a zero waste grocery store." style="width: 40%; border: 1px solid #808080;"&gt;
+
+             &lt;p&gt;Los sábados, Marta hace las compras en un __________ cerca de su casa.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="20579">
+                <material>
+                  <mattext texttype="text/plain">espacio verde</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4072">
+                <material>
+                  <mattext texttype="text/plain">mercado de basura cero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="65912">
+                <material>
+                  <mattext texttype="text/plain">vertedero</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69386">
+                <material>
+                  <mattext texttype="text/plain">parque infantil</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">4072</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g4a433b3bd33b8a277298f6ac4e90c156" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>19121,44493,53364,30303</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb45e1d3a0b945336dcc871eb8272c2e7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_ua_gq1_activity1_q2.jpg" alt="A child wearing a helmet and backpack riding a bicycle in the bike lane." style="width: 40%; border: 1px solid #808080;"&gt;
+
+             &lt;p&gt;Cuando voy a la escuela en bicicleta, uso la _________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="19121">
+                <material>
+                  <mattext texttype="text/plain">ciclovía</mattext>
+                </material>
+              </response_label>
+              <response_label ident="44493">
+                <material>
+                  <mattext texttype="text/plain">energía renovable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53364">
+                <material>
+                  <mattext texttype="text/plain">huella ecológica</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30303">
+                <material>
+                  <mattext texttype="text/plain">zona peatonal</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">19121</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gf319d9853dcf3775772ba3c9d07b2440" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>68638,91865,72970,24606</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge4af53a9f0d03c01334f5eb0d0081513</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_ua_gq1_activity1_q3.jpg" alt="A group of friends going through a table full of clothing." style="width: 40%; border: 1px solid #808080;"&gt;
+
+             &lt;p&gt;Carolina y sus amigas se juntaron a __________ que ya no usan.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="68638">
+                <material>
+                  <mattext texttype="text/plain">planificar la ciudad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="91865">
+                <material>
+                  <mattext texttype="text/plain">priorizar a los peatones</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72970">
+                <material>
+                  <mattext texttype="text/plain">intercambiar la ropa</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24606">
+                <material>
+                  <mattext texttype="text/plain">restaurar los ecosistemas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">72970</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g05d72a2590137876b8c94b53a7ee55c4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20379,46436,74214,70985</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb130a130dd7beb79db966422b14cd99b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_ua_gq1_activity1_q4.jpg" alt="a landfill full of plastic bottles" style="width: 40%; border: 1px solid #808080;"&gt;
+
+             &lt;p&gt;En las afueras de la ciudad, hay __________ con miles de botellas de plástico.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="20379">
+                <material>
+                  <mattext texttype="text/plain">un tranvía</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46436">
+                <material>
+                  <mattext texttype="text/plain">un parque infantil</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74214">
+                <material>
+                  <mattext texttype="text/plain">una supermanzana</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70985">
+                <material>
+                  <mattext texttype="text/plain">un vertedero</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">70985</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc534cc6a1557f2583749a3aa63678685" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>43729,37554,27721,81659</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge24fa49948f7e7e2b46641ca5d8eb1ad</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u4_ua_gq1_activity1_q5.jpg" alt="a girl planting seeds into biodegradable pots." style="width: 40%; border: 1px solid #808080;"&gt;
+
+             &lt;p&gt;Esta maceta es ___________ porque es natural y dentro de un tiempo se va a deshacer en la tierra.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="43729">
+                <material>
+                  <mattext texttype="text/plain">un envase</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37554">
+                <material>
+                  <mattext texttype="text/plain">biodegradable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27721">
+                <material>
+                  <mattext texttype="text/plain">un residuo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81659">
+                <material>
+                  <mattext texttype="text/plain">sintética</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">37554</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

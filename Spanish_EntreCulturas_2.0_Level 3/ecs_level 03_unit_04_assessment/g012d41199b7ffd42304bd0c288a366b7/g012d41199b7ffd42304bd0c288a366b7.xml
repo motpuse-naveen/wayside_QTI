@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g012d41199b7ffd42304bd0c288a366b7" title="Unit Assessment - Vocabulary Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7ee3a4b8435f486838d2deea55ee328a" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>82869,48321,25965,55423,3874</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g38743e25948bdea209b900a06e1e1e8d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Read the following sentences and replace the italicized words with a vocabulary expression from the word.&amp;nbsp; Pay attention! There are two expressions that you will not use.&lt;/span&gt;&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp; &amp;nbsp;usuario &amp;nbsp; iniciativa &amp;nbsp; ecoamigables&amp;nbsp; &amp;nbsp;espacios verdes &amp;nbsp; &amp;nbsp;supermanzana &amp;nbsp; deforestación &amp;nbsp;vertederos&lt;/div&gt;
+&lt;p&gt;1. Me gusta vivir en la capital porque tiene muchos &lt;i&gt;parques, árboles y terrenos llenos de plantas.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Me gusta vivir en la capital porque tiene muchos [RESPONSE1] .&lt;/p&gt;
+&lt;p&gt;2. Mi papá no utiliza el carro para ir al trabajo. Él es una &lt;i&gt;persona que utiliza&lt;/i&gt; autobuses y trenes.&lt;/p&gt;
+&lt;p&gt;Mi papá no utiliza el carro para ir al trabajo. Él es un [RESPONSE2] de autobuses y trenes.&lt;/p&gt;
+&lt;p&gt;3. Debido a la &lt;i&gt;destrucción de árboles,&lt;/i&gt; los animales pierden sus hogares en el bosque.&lt;/p&gt;
+&lt;p&gt;Debido a la [RESPONSE3] , los animales pierden sus hogares en el bosque.&lt;/p&gt;
+&lt;p&gt;4. Benito siempre usa productos &lt;i&gt;que se fabricaron respetando el medioambiente y que pueden reciclarse.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Benito siempre usa productos [RESPONSE4] .&lt;/p&gt;
+&lt;p&gt;5. La &lt;i&gt;propuesta&lt;/i&gt; para reducir la contaminación ayuda a tener un aire más limpio.&lt;/p&gt;
+&lt;p&gt;La [RESPONSE5] para reducir la contaminación ayuda a tener un aire más limpio.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="82869">
+                <material>
+                  <mattext texttype="text/plain">espacios verdes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="48321">
+                <material>
+                  <mattext texttype="text/plain">usuario</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="25965">
+                <material>
+                  <mattext texttype="text/plain">deforestación</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55423">
+                <material>
+                  <mattext texttype="text/plain">ecoamigable</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3874">
+                <material>
+                  <mattext texttype="text/plain">iniciativa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">82869</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">48321</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">25965</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">55423</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">3874</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

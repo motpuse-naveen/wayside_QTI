@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g81a4d13737042dcfc03bc3f9f561f8d2" title="Comunicación 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g9b2e7429b952088ad237726f130acf29" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>45525,95271,60204,98024,53875</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g74b66d45013689d69958caf8ed70175f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen carefully to the following dialogue between two friends, Salomé and Jerónimo. Then, complete the sentence with the verbs you hear.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com3_gr_ac1_q.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                        &lt;/audio&gt;&lt;/p&gt;
+  &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS3_unit4_Comunicacion 3_ac1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                      
+&lt;p&gt;Now, complete the dialogue with the correct verbs you hear.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; Hola, amigo. Tenemos que preparar el material para la próxima reunión.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jerónimo: &lt;/strong&gt;Estuve pensando en hacer unos carteles bien grandes con mensajes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; ¿Te parece buena idea?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jerónimo:&lt;/strong&gt; No sé. No estoy seguro de que [RESPONSE1] convencer a todos, pero ¡vamos a intentarlo!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; ¿Crees que es posible que la gente nos [RESPONSE2] esta vez?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jerónimo:&lt;/strong&gt; ¡Claro! No perdamos la esperanza.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; Aunque no creo que [RESPONSE3] fácil, podemos pedir a todas las personas que vayan a la reunión que sustituyan las bolsas de plástico por bolsas de tela.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jerónimo:&lt;/strong&gt; Buena idea. ¿Es posible que les [RESPONSE4] cómo usar los restos de comida para crear abono?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; ¡Sí! Es una tarea fácil que tiene un gran impacto.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jerónimo:&lt;/strong&gt; No creo que nos [RESPONSE5] el tiempo para mucho más.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salomé:&lt;/strong&gt; No, pero con estas ideas, ya podemos conseguir un gran cambio.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="45525">
+                <material>
+                  <mattext texttype="text/plain">logremos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="95271">
+                <material>
+                  <mattext texttype="text/plain">escuche</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="60204">
+                <material>
+                  <mattext texttype="text/plain">sea</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="98024">
+                <material>
+                  <mattext texttype="text/plain">expliquemos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="53875">
+                <material>
+                  <mattext texttype="text/plain">alcance</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">45525</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">95271</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">60204</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">98024</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">53875</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

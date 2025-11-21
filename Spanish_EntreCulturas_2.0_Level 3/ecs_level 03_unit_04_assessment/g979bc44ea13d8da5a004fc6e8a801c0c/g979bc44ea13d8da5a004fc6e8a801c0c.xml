@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g979bc44ea13d8da5a004fc6e8a801c0c" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbb1ddb076d2b5cdda6aebbf8051378de" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>50690,76500,29280,71669</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3fc36aa728d4b2c8c698d8b7ec7918ce</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read carefully the following passage about Tamara telling about what her family does to help the environment.&lt;/p&gt;
+
+      &lt;p&gt;Vivo en una pequeña comunidad, cerca de Buenaventura, donde muchos sabemos que el futuro de nuestro planeta es importante y tratamos de que nuestras acciones nunca pongan la Tierra en peligro. Aunque mi hermano tiene solo ocho años, ya entiende qué acciones son malas para la Tierra y el medioambiente. Él intenta disminuir la cantidad de plástico que usa y también recicla algunos materiales. Todos tratamos de reducir la huella ecológica, o impacto que nuestras acciones tienen en el medioambiente. En casa siempre cerramos el grifo mientras nos cepillamos los dientes. También apagamos las luces si no estamos en una habitación. Todos podemos ayudar para reducir el impacto ambiental. Mi papá, por ejemplo, los domingos ayuda a recolectar los residuos que las personas botan en la playa o en el parque. Cuando vuelve a casa, se queja de toda la basura que generan las personas y lo malo que eso es para el medioambiente. ¡Es una pena que las personas no entiendan que todos tenemos que ayudar a que el planeta sea un lugar mejor! Si ponemos a la Tierra en peligro, nos ponemos en peligro nosotros. Mi mamá también se preocupa y forma parte del consejo comunitario. Este grupo desea reducir los plásticos de un solo uso dentro de nuestra comunidad. El supermercado ya le ha hecho caso y no usa más bolsas ni recipientes de plástico.&lt;/p&gt;
+      
+      &lt;p&gt;Based on what you have just read, choose the option that best completes each statement.&lt;/p&gt;
+
+      &lt;p&gt;1. ¿Qué significa que el hermano intenta disminuir la cantidad de plástico que usa?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="50690">
+                <material>
+                  <mattext texttype="text/plain">Prioriza las cosas que están hechas de plástico.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76500">
+                <material>
+                  <mattext texttype="text/plain">Usa menos cosas hechas de plástico.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29280">
+                <material>
+                  <mattext texttype="text/plain">Hace arte y otras cosas con los plásticos usados.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71669">
+                <material>
+                  <mattext texttype="text/plain">La a y la c.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">76500</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g14d2b77ee541e6d9686dccd28af1c64f" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>23105,71243,37995,56880</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g11070ab4367f08d902f4564d036458f9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. ¿Qué hace la familia de Tamara para no malgastar recursos?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="23105">
+                <material>
+                  <mattext texttype="text/plain">Usan energía renovable para tener luz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71243">
+                <material>
+                  <mattext texttype="text/plain">Se cepillan los dientes sin usar agua.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37995">
+                <material>
+                  <mattext texttype="text/plain">Van a la playa y al parque a buscar cosas.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56880">
+                <material>
+                  <mattext texttype="text/plain">Ahorran agua y apagan las luces.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">56880</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g467dd7e67d3f20932798639a479574d4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>98191,83506,63316,56156</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2ba8422b7431cacab3adc82411829d3f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. ¿Qué hace el papá los domingos?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="98191">
+                <material>
+                  <mattext texttype="text/plain">Trabaja clasificando residuos en un centro de reciclaje.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83506">
+                <material>
+                  <mattext texttype="text/plain">Habla del impacto ambiental a los niños de la comunidad.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63316">
+                <material>
+                  <mattext texttype="text/plain">Ayuda a limpiar la basura que la gente deja en la naturaleza.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56156">
+                <material>
+                  <mattext texttype="text/plain">La a y la b.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">63316</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g84215bf295ef0ded09a4a4d0700332ab" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>59217,10511,25236,68668</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g39d6e6933a1b01eb436f215c48660a27</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. Según el texto, ¿por qué Tamara cree que es una pena que las personas no ayuden a mantener la Tierra en buen estado.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="59217">
+                <material>
+                  <mattext texttype="text/plain">Porque lo que le ocurre a la Tierra nos afecta a todos.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="10511">
+                <material>
+                  <mattext texttype="text/plain">Porque no podemos hacer nada para cambiar el planeta.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="25236">
+                <material>
+                  <mattext texttype="text/plain">Porque ella es la única de su comunidad que cuida la Tierra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68668">
+                <material>
+                  <mattext texttype="text/plain">Porque la Tierra se puede ver sucia desde el espacio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">59217</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gf7b09e14cc7c82f431fcf721dae22706" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20269,75412,21990,78530</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2447d8fae96ff7afc8488b03ed23b4b2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. ¿Qué idea(s) importante(s) del texto puedes identificar?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="20269">
+                <material>
+                  <mattext texttype="text/plain">Los adultos tienen el deber de cuidar la Tierra.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75412">
+                <material>
+                  <mattext texttype="text/plain">Hay muchas formas de cuidar el medioambiente</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21990">
+                <material>
+                  <mattext texttype="text/plain">Todos podemos ayudar a que la Tierra sea mejor.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78530">
+                <material>
+                  <mattext texttype="text/plain">La b y la c.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">78530</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
