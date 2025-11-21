@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gf4cad58ca6a82d3c2036cca0f7fcdb38" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g985ab49c93a45c0413dd0173c6598126" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>43644,98971,65992,73971</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga4edd043479c6661ccccbaaccc22c956</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the description of these four students’ habits. Then, choose the correct answer to each question.&lt;/p&gt;
+&lt;p&gt;Jérémie, Élie, Luc et Destinée ont leurs bonnes et mauvaises habitudes. Jérémie accède tous les jours à la plate-forme de la classe et prend souvent des notes. Parfois, il attend le dernier moment pour faire ses devoirs. Élie fait partie d'une équipe de basket et participe à un club de lecture une fois par semaine. Elle doit être régulièrement énergique, mais elle regarde souvent son portable et dort tard. Luc a de bonnes habitudes et il participe à une activité périscolaire de temps en temps. Il dort rarement tard, mais utilise son portable en classe de temps en temps. Destinée étudie tout le temps des fiches de révision et accède souvent à la plate-forme de la classe. Destinée partage parfois des ressources en ligne avec ses amis mais elle attend toujours le dernier moment pour étudier.&lt;/p&gt;
+&lt;p&gt;1. Quelle habitude Jérémie pratique-t-il tous les jours ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="43644">
+                <material>
+                  <mattext texttype="text/plain">Il fait une pause.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98971">
+                <material>
+                  <mattext texttype="text/plain">Il accède à la plate-forme de la classe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="65992">
+                <material>
+                  <mattext texttype="text/plain">Il participe à un club.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73971">
+                <material>
+                  <mattext texttype="text/plain">Il dort tard.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">98971</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ge12bd89222d74e5dc80467bdb883b58c" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>21484,76311,17955,5850</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5c5835813d245812fc5457f26ff6c7bb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. Quelle mauvaise habitude Élie a-t-elle ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="21484">
+                <material>
+                  <mattext texttype="text/plain">Elle utilise son portable en classe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76311">
+                <material>
+                  <mattext texttype="text/plain">Elle regarde souvent son portable.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17955">
+                <material>
+                  <mattext texttype="text/plain">Elle attend le dernier moment pour étudier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5850">
+                <material>
+                  <mattext texttype="text/plain">Elle ne prend jamais de notes.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">76311</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g3455035fb7a024be5de4214f4ad699d4" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>47023,78090,34841,84525</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g736305712d7e16fd835108284154fc29</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. À quelle fréquence Luc participe-t-il à une activité périscolaire ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="47023">
+                <material>
+                  <mattext texttype="text/plain">Tous les jours</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78090">
+                <material>
+                  <mattext texttype="text/plain">Une fois par semaine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34841">
+                <material>
+                  <mattext texttype="text/plain">De temps en temps</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84525">
+                <material>
+                  <mattext texttype="text/plain">Rarement</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">34841</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gfdffd1b814ee565fdf3c924d9ab1a091" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>22240,78612,84268,38409</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g731c7b786a7252550e45c858e39b6eb1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. Quelle est l'une des mauvaises habitudes de Destinée ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="22240">
+                <material>
+                  <mattext texttype="text/plain">Elle partage des ressources en ligne avec ses amis.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78612">
+                <material>
+                  <mattext texttype="text/plain">Elle fait souvent une pause.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84268">
+                <material>
+                  <mattext texttype="text/plain">Elle étudie des fiches de révision tout le temps.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38409">
+                <material>
+                  <mattext texttype="text/plain">Elle attend toujours le dernier moment pour étudier.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">38409</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbf8e596f8d83fcfbd07d7175308f2fce" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>2691,99588,20534,39365</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g315c1af8691444d124733ae4a7c9e154</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. Qui fait partie d'une équipe ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2691">
+                <material>
+                  <mattext texttype="text/plain">Jérémie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99588">
+                <material>
+                  <mattext texttype="text/plain">Élie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20534">
+                <material>
+                  <mattext texttype="text/plain">Luc</mattext>
+                </material>
+              </response_label>
+              <response_label ident="39365">
+                <material>
+                  <mattext texttype="text/plain">Destinée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">99588</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g074d8f34d748b91ea852abf78a571cfc" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65901,69097,21370,46611</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3ea5c7d21962a95276b914ca7ec092e7</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;6. Quelle est une bonne habitude de Luc ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="65901">
+                <material>
+                  <mattext texttype="text/plain">Il dort rarement tard.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69097">
+                <material>
+                  <mattext texttype="text/plain">Il utilise son portable en classe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21370">
+                <material>
+                  <mattext texttype="text/plain">Il partage des ressources en ligne.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46611">
+                <material>
+                  <mattext texttype="text/plain">Il participe à un club.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">65901</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

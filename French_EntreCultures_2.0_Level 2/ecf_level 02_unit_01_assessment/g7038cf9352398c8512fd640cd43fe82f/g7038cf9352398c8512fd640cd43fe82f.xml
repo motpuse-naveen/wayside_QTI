@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7038cf9352398c8512fd640cd43fe82f" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.IL.2.4</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>MA.K12.MTR.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1e2d04e79542d9eb77359d43a6a71c9a" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>82233,64798,66806,71277,56156,75470,45049,76182,46371,29585</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g03e9ec03c7a83c73dff59964c79091c5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Look at these students’ weekly activities and then indicate whether each statement is true &lt;strong&gt;&lt;i&gt;(vrai)&lt;/i&gt;&lt;/strong&gt; or false &lt;strong&gt;&lt;i&gt;(faux)&lt;/i&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;table style="border-collapse: collapse; width: 97.8368%; height: 222px;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td style="width: 16.6495%; height: 28px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: center; height: 28px;"&gt;lundi&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: center; height: 28px;"&gt;mardi&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: center; height: 28px;"&gt;mercredi&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: center; height: 28px;"&gt;jeudi&lt;/td&gt;
+&lt;td style="width: 16.6521%; text-align: center; height: 28px;"&gt;vendredi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td style="width: 16.6495%; height: 28px;"&gt;Samuel&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 28px;"&gt;lire deux livres&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 28px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 28px;"&gt;regarder un film&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 28px;"&gt;regarder un film&lt;/td&gt;
+&lt;td style="width: 16.6521%; text-align: left; height: 28px;"&gt;faire du vélo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 52px;"&gt;
+&lt;td style="width: 16.6495%; height: 52px;"&gt;Mirlande&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;participer au club de dessin&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;accéder à la plate-forme&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;participer au club d'échecs&lt;/td&gt;
+&lt;td style="width: 16.6521%; text-align: left; height: 52px;"&gt;lire un livre&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 52px;"&gt;
+&lt;td style="width: 16.6495%; height: 52px;"&gt;Benoît&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;faire du vélo&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;regarder un film&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;faire du vélo&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6521%; text-align: left; height: 52px;"&gt;accéder à la plate-forme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 52px;"&gt;
+&lt;td style="width: 16.6495%; height: 52px;"&gt;Léonie&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;accéder à la plate-forme&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;&lt;/td&gt;
+&lt;td style="width: 16.6495%; text-align: left; height: 52px;"&gt;participer au club de dessin&lt;/td&gt;
+&lt;td style="width: 16.6521%; text-align: left; height: 52px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;p&gt;1. Léonie participe à plus de clubs que Mirlande.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. Benoît fait du vélo plus souvent que Samuel.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. Samuel lit plus de livres que Mirlande.&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4. Léonie accède à la plate-forme moins souvent que Mirlande.&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5. Samuel regarde des films plus que Benoît.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="82233">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64798">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="66806">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="71277">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="56156">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75470">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="45049">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76182">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="46371">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29585">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">64798</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">66806</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">56156</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">76182</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">46371</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

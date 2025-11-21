@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g51e16257c48d442da30c7f09c203d6e6" title="Unit Assessment - Grammar Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gab0bac6c488a44d7838f85b7779326ce" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>22813,9,81930,19925,50645,99709,5046,3854,8048</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5b2d9b909f3016c4099e597bbb71cac6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Using the key, write out what the people mentioned like to do based on the emoji provided.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_ex01.jpg" alt="thumbs up emoji with text “like”, thumbs up and plus sign emojis with text “prefer”, heart emoji with text “adore or love”, thumbs down emoji with text “not like”, thumbs down and plus sign emojis with “text not prefer”, and thumbs down and heart emojis with text “not love”." width="739" height="166"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 152px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_ex02.jpg" alt="thumbs down emoji and woman dancing emoji" width="221" height="76"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modèle:&lt;/strong&gt; You see: Mon cousin et moi, nous:&lt;/p&gt;
+&lt;p&gt;You write: Mon cousin et moi, nous n’aimons pas danser.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;Robert : &lt;img style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem; width: 157px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_q1.jpg" alt="a heart and an airplane emoji " width="80" height="70"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE].&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;Samir et Marcus : &lt;img style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem; width: 183px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_q2.jpg" alt="a thumbs up emoji, a plus sign emoji and a person cycling emoji" width="86" height="58"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE1].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;Marie-Claude et toi, vous : &lt;img style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem; width: 134px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_q3.jpg" alt="a thumbs down emoji and a keyboard emoji" width="80" height="67"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE2].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;Toi : &lt;img style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem; width: 163px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_q4.jpg" alt="a thumbs down emoji, a plus sign emoji and an open book emoji" width="84" height="55"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;[RESPONSE3].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;Moi : &lt;img style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem; width: 130px; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u1_ua_vq1_activity4_q5.jpg" alt="a thumbs up emoji and a shopping cart emoji" width="80" height="65"&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE4].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="22813">
+                <material>
+                  <mattext texttype="text/plain">Robert adore voyager</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9">
+                <material>
+                  <mattext texttype="text/plain">Samir et Marcus préfèrent faire du vélo</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="81930">
+                <material>
+                  <mattext texttype="text/plain">Marie-Claude et toi, vous n’aimez pas jouer du piano</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="19925">
+                <material>
+                  <mattext texttype="text/plain">Tu ne préfères pas lire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50645">
+                <material>
+                  <mattext texttype="text/plain">Tu ne préfères pas étudier</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5046">
+                <material>
+                  <mattext texttype="text/plain">tu ne préfères pas lire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3854">
+                <material>
+                  <mattext texttype="text/plain">tu ne préfères pas étudier</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="99709">
+                <material>
+                  <mattext texttype="text/plain">J'aime faire du shopping</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8048">
+                <material>
+                  <mattext texttype="text/plain">j'aime faire du shopping</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">22813</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">9</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">81930</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">19925</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">99709</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

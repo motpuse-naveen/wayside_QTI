@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd88f7034a70c6459eaa0462bd4afb3e2" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2b23b7d4f5c7663d2e7270c5ec316c28" title="matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6562,8597,2710,3421,5849</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g89738a0430bf8a2e0274b2410ea9b81f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the descriptions of the people below and select the adjective that best describes them.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6562">
+            <material>
+              <mattext texttype="text/plain">1. Les proviseures adjointes n’aiment pas que les élèves utilisent leurs portables en classe.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7192">
+                <material>
+                  <mattext>sérieuses</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4349">
+                <material>
+                  <mattext>attentif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7527">
+                <material>
+                  <mattext>travailleuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1069">
+                <material>
+                  <mattext>dynamiques</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2117">
+                <material>
+                  <mattext>créative</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8597">
+            <material>
+              <mattext texttype="text/plain">2. Le surveillant regarde bien les élèves dans le couloir.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7192">
+                <material>
+                  <mattext>sérieuses</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4349">
+                <material>
+                  <mattext>attentif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7527">
+                <material>
+                  <mattext>travailleuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1069">
+                <material>
+                  <mattext>dynamiques</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2117">
+                <material>
+                  <mattext>créative</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2710">
+            <material>
+              <mattext texttype="text/plain">3. Djemela étudie tous les soirs.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7192">
+                <material>
+                  <mattext>sérieuses</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4349">
+                <material>
+                  <mattext>attentif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7527">
+                <material>
+                  <mattext>travailleuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1069">
+                <material>
+                  <mattext>dynamiques</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2117">
+                <material>
+                  <mattext>créative</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3421">
+            <material>
+              <mattext texttype="text/plain">4. Bertrand et moi, nous sommes très énergiques.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7192">
+                <material>
+                  <mattext>sérieuses</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4349">
+                <material>
+                  <mattext>attentif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7527">
+                <material>
+                  <mattext>travailleuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1069">
+                <material>
+                  <mattext>dynamiques</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2117">
+                <material>
+                  <mattext>créative</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5849">
+            <material>
+              <mattext texttype="text/plain">5. Ma grand-mère peut dessiner et peindre.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7192">
+                <material>
+                  <mattext>sérieuses</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4349">
+                <material>
+                  <mattext>attentif</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7527">
+                <material>
+                  <mattext>travailleuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1069">
+                <material>
+                  <mattext>dynamiques</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2117">
+                <material>
+                  <mattext>créative</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6562">7192</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8597">4349</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2710">7527</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3421">1069</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5849">2117</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
