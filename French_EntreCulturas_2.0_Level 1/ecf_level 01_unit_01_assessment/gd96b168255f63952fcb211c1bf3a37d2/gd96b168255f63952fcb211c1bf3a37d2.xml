@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd96b168255f63952fcb211c1bf3a37d2" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2e5eb9508dcb6edc00f0658b39bb4cae" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6622,2725,8467,158</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g17d3204744200787ef5e995e9c610073</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each question and choose the correct response from the dropdown.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6622">
+            <material>
+              <mattext texttype="text/plain">1. Tu aimes lire en français et en espagnol ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62">
+                <material>
+                  <mattext>Oui, pas de problème, je suis bilingue !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4835">
+                <material>
+                  <mattext>Moi aussi, je joue de la guitare.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3134">
+                <material>
+                  <mattext>Non, je ne suis pas sportif.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9221">
+                <material>
+                  <mattext>Moi aussi. J’aime passer du temps avec nos amis.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2725">
+            <material>
+              <mattext texttype="text/plain">2. J’adore la musique. Et toi ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62">
+                <material>
+                  <mattext>Oui, pas de problème, je suis bilingue !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4835">
+                <material>
+                  <mattext>Moi aussi, je joue de la guitare.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3134">
+                <material>
+                  <mattext>Non, je ne suis pas sportif.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9221">
+                <material>
+                  <mattext>Moi aussi. J’aime passer du temps avec nos amis.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8467">
+            <material>
+              <mattext texttype="text/plain">3. Tu aimes le basket et le hockey ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62">
+                <material>
+                  <mattext>Oui, pas de problème, je suis bilingue !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4835">
+                <material>
+                  <mattext>Moi aussi, je joue de la guitare.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3134">
+                <material>
+                  <mattext>Non, je ne suis pas sportif.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9221">
+                <material>
+                  <mattext>Moi aussi. J’aime passer du temps avec nos amis.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_158">
+            <material>
+              <mattext texttype="text/plain">4. J’aime être avec Zichen et Oscar. Et toi ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62">
+                <material>
+                  <mattext>Oui, pas de problème, je suis bilingue !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4835">
+                <material>
+                  <mattext>Moi aussi, je joue de la guitare.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3134">
+                <material>
+                  <mattext>Non, je ne suis pas sportif.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9221">
+                <material>
+                  <mattext>Moi aussi. J’aime passer du temps avec nos amis.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6622">62</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2725">4835</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8467">3134</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_158">9221</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

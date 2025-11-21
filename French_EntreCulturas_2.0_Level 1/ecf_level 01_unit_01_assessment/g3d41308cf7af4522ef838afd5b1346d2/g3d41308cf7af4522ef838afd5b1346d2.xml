@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g3d41308cf7af4522ef838afd5b1346d2" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2c710e3e7136b69b3e5b1f75232bd8bf" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>705,6149,2181,6397,6960</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd1a5ddd4b0131815e2072131c1fe5029</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each question and choose the logical answer from the dropdown.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_705">
+            <material>
+              <mattext texttype="text/plain">1. Quand est ton anniversaire ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9635">
+                <material>
+                  <mattext>C’est le 19 juin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7314">
+                <material>
+                  <mattext>Parce que je suis allergique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5331">
+                <material>
+                  <mattext>À Cannes, en France.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7529">
+                <material>
+                  <mattext>Oui, j’adore la quiche lorraine.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8939">
+                <material>
+                  <mattext>Je suis Tobias et j’ai 14 ans.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6149">
+            <material>
+              <mattext texttype="text/plain">2. Pourquoi est-ce que tu n’aimes pas le chocolat ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9635">
+                <material>
+                  <mattext>C’est le 19 juin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7314">
+                <material>
+                  <mattext>Parce que je suis allergique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5331">
+                <material>
+                  <mattext>À Cannes, en France.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7529">
+                <material>
+                  <mattext>Oui, j’adore la quiche lorraine.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8939">
+                <material>
+                  <mattext>Je suis Tobias et j’ai 14 ans.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2181">
+            <material>
+              <mattext texttype="text/plain">3. Où sommes-nous ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9635">
+                <material>
+                  <mattext>C’est le 19 juin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7314">
+                <material>
+                  <mattext>Parce que je suis allergique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5331">
+                <material>
+                  <mattext>À Cannes, en France.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7529">
+                <material>
+                  <mattext>Oui, j’adore la quiche lorraine.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8939">
+                <material>
+                  <mattext>Je suis Tobias et j’ai 14 ans.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6397">
+            <material>
+              <mattext texttype="text/plain">4. Est-ce que tu aimes manger des plats français ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9635">
+                <material>
+                  <mattext>C’est le 19 juin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7314">
+                <material>
+                  <mattext>Parce que je suis allergique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5331">
+                <material>
+                  <mattext>À Cannes, en France.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7529">
+                <material>
+                  <mattext>Oui, j’adore la quiche lorraine.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8939">
+                <material>
+                  <mattext>Je suis Tobias et j’ai 14 ans.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6960">
+            <material>
+              <mattext texttype="text/plain">5. Qui es-tu ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9635">
+                <material>
+                  <mattext>C’est le 19 juin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7314">
+                <material>
+                  <mattext>Parce que je suis allergique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5331">
+                <material>
+                  <mattext>À Cannes, en France.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7529">
+                <material>
+                  <mattext>Oui, j’adore la quiche lorraine.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8939">
+                <material>
+                  <mattext>Je suis Tobias et j’ai 14 ans.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_705">9635</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6149">7314</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2181">5331</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6397">7529</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6960">8939</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

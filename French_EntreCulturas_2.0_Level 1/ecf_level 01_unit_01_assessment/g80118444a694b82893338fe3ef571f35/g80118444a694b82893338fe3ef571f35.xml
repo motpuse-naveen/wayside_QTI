@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g80118444a694b82893338fe3ef571f35" title="Communiquons 2 - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NM.2.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.NM.2.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1712190791ce9b49dcb3030d7db2f683" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>92420,59563,63372,25079,58573,64388</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9c21b8be865c11e919a84c0563c5a074</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the conversation between Jérôme and Maya, then choose whether each statement is true (&lt;strong&gt;&lt;i&gt;vrai&lt;/i&gt;&lt;/strong&gt;) or false (&lt;strong&gt;&lt;i&gt;faux&lt;/i&gt;&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Jérôme : Maya, est-ce que tu aimes le football ?&lt;/p&gt;
+&lt;p&gt;Maya : Oui, j’adore Mbappé, il est formidable !&lt;/p&gt;
+&lt;p&gt;Jérôme : Est-ce que tu aimes regarder des vidéos sur internet ?&lt;/p&gt;
+&lt;p&gt;Maya : J’aime regarder des vidéos de football. Le foot, c’est mon sport favori.&lt;/p&gt;
+&lt;p&gt;Jérôme : Est-ce que tu aimes passer du temps avec des amis ?&lt;/p&gt;
+&lt;p&gt;Maya : Le week-end, j’adore aller au cinéma avec des amis. Je suis aussi très sportive. J’aime écouter de la musique mais je n’aime pas chanter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class="prompt"&gt;
+&lt;p&gt;1. Maya aime le football.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. Le week-end, Maya aime lire.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. Elle est chanteuse.&lt;/p&gt;
+[RESPONSE3]&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="92420">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59563">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="63372">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="25079">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="58573">
+                <material>
+                  <mattext texttype="text/plain">vrai</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64388">
+                <material>
+                  <mattext texttype="text/plain">faux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">92420</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">25079</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">64388</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
