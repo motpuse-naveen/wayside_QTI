@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g341d1905db9f548275d1fb72afd08870" title="Communiquons 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.5.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.NH.9.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g11d3c51f08007d309c9e3d07d955f243" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>17705,97669,86458,27110,64413,4373,92180,6553,70558,52627,425,2767,2778,1662,7152,7945,2399,7972,6824,9290</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g791e1ac0ee4ee0c6191306b6b9beecca</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at each image and write a sentence to describe the weather.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_vq3_activity2_q1.jpg" alt="a hand holding an open red umbrella under water falling"&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_vq3_activity2_q2.jpg" alt="a person outside wearing a sleeveless top and a baseball cap and with a towel around the neck. The person holds a thermometer that displays a high temperature and is wiping at her brow with her eyes closed."&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE1]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_vq3_activity2_q3.jpg" alt="a child dressed in heavy winter clothing, boots, hat and gloves stands outside in a field of thick snow that has also blanketed the shrubs behind him."&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE2]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_vq3_activity2_q4.jpg" alt="a young girl holds enormous yellow sunglasses up to her eyes as she looks up with the sun beaming down"&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE3]&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_vq3_activity2_q5.jpg" alt="a man is inside in a winter jacket, a scarf wrapped around his neck several times and a winter knit hat. He has his arms crossed tightly over his chest and his hands tucked into his armpits. His eyes are wide and his mouth open in an O shape. "&gt;&lt;/p&gt;
+&lt;p&gt;[RESPONSE4]&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="17705">
+                <material>
+                  <mattext texttype="text/plain">Il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97669">
+                <material>
+                  <mattext texttype="text/plain">Il pleut</mattext>
+                </material>
+              </response_label>
+              <response_label ident="425">
+                <material>
+                  <mattext texttype="text/plain">il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2767">
+                <material>
+                  <mattext texttype="text/plain">il pleut</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86458">
+                <material>
+                  <mattext texttype="text/plain">Il fait chaud.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27110">
+                <material>
+                  <mattext texttype="text/plain">Il fait chaud</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2778">
+                <material>
+                  <mattext texttype="text/plain">il fait chaud.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1662">
+                <material>
+                  <mattext texttype="text/plain">il fait chaud</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64413">
+                <material>
+                  <mattext texttype="text/plain">Il neige.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4373">
+                <material>
+                  <mattext texttype="text/plain">Il neige</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7152">
+                <material>
+                  <mattext texttype="text/plain">il neige.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7945">
+                <material>
+                  <mattext texttype="text/plain">il neige</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="92180">
+                <material>
+                  <mattext texttype="text/plain">Il y a du soleil.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6553">
+                <material>
+                  <mattext texttype="text/plain">Il y a du soleil</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2399">
+                <material>
+                  <mattext texttype="text/plain">il y a du soleil.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7972">
+                <material>
+                  <mattext texttype="text/plain">il y a du soleil</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70558">
+                <material>
+                  <mattext texttype="text/plain">Il fait froid.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52627">
+                <material>
+                  <mattext texttype="text/plain">Il fait froid</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6824">
+                <material>
+                  <mattext texttype="text/plain">il fait froid.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9290">
+                <material>
+                  <mattext texttype="text/plain">il fait froid</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">17705</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">86458</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">64413</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">92180</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">70558</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

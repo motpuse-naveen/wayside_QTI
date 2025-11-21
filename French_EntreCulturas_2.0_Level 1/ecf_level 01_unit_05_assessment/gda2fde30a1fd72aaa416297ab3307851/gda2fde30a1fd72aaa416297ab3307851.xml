@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gda2fde30a1fd72aaa416297ab3307851" title="Communiquons 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.1.5</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8652e8d82444fd915c10bf7686c1ab53" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5775,4375,9045,1611,7969</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge1abbbfb5234ea8bacf4d3a498e45b18</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen as Clément discusses his weekend plans and then select the activities in the order in which he mentions them.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                      &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                  &lt;/audio&gt;&lt;/p&gt;&lt;/div&gt;
+        &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit5_comunication-2_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
+                  </mattext>
+          </material>
+          <response_lid ident="response_5775">
+            <material>
+              <mattext texttype="text/plain">1. _______</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="984">
+                <material>
+                  <mattext>envoyer des e-mails</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1328">
+                <material>
+                  <mattext>jouer à des jeux vidéo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1085">
+                <material>
+                  <mattext>bavarder avec des amis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3406">
+                <material>
+                  <mattext>rendre visite à un ami</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2911">
+                <material>
+                  <mattext>aller à un concert</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4375">
+            <material>
+              <mattext texttype="text/plain">2. _______</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="984">
+                <material>
+                  <mattext>envoyer des e-mails</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1328">
+                <material>
+                  <mattext>jouer à des jeux vidéo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1085">
+                <material>
+                  <mattext>bavarder avec des amis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3406">
+                <material>
+                  <mattext>rendre visite à un ami</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2911">
+                <material>
+                  <mattext>aller à un concert</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9045">
+            <material>
+              <mattext texttype="text/plain">3. _______</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="984">
+                <material>
+                  <mattext>envoyer des e-mails</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1328">
+                <material>
+                  <mattext>jouer à des jeux vidéo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1085">
+                <material>
+                  <mattext>bavarder avec des amis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3406">
+                <material>
+                  <mattext>rendre visite à un ami</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2911">
+                <material>
+                  <mattext>aller à un concert</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1611">
+            <material>
+              <mattext texttype="text/plain">4. _______</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="984">
+                <material>
+                  <mattext>envoyer des e-mails</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1328">
+                <material>
+                  <mattext>jouer à des jeux vidéo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1085">
+                <material>
+                  <mattext>bavarder avec des amis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3406">
+                <material>
+                  <mattext>rendre visite à un ami</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2911">
+                <material>
+                  <mattext>aller à un concert</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7969">
+            <material>
+              <mattext texttype="text/plain">5. _______</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="984">
+                <material>
+                  <mattext>envoyer des e-mails</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1328">
+                <material>
+                  <mattext>jouer à des jeux vidéo</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1085">
+                <material>
+                  <mattext>bavarder avec des amis</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3406">
+                <material>
+                  <mattext>rendre visite à un ami</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2911">
+                <material>
+                  <mattext>aller à un concert</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5775">984</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4375">1328</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9045">1085</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1611">3406</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7969">2911</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

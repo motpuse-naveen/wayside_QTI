@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0e637e8fdcf4918e3373642e6e1a3435" title="Communiquons 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gfec25cca706249954e6524d2e1809091" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6423,1634,7,7840,89</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8eb926b2fc2868d059ba36f94b09ee81</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each activity to the place where it would logically be done.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6423">
+            <material>
+              <mattext texttype="text/plain">1. faire de la natation</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1094">
+                <material>
+                  <mattext>à la piscine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7951">
+                <material>
+                  <mattext>à la montagne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="0">
+                <material>
+                  <mattext>à la leçon (de musique)</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5516">
+                <material>
+                  <mattext>au stade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3407">
+                <material>
+                  <mattext>au gymnase</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1634">
+            <material>
+              <mattext texttype="text/plain">2. faire de la randonnée</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1094">
+                <material>
+                  <mattext>à la piscine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7951">
+                <material>
+                  <mattext>à la montagne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="0">
+                <material>
+                  <mattext>à la leçon (de musique)</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5516">
+                <material>
+                  <mattext>au stade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3407">
+                <material>
+                  <mattext>au gymnase</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7">
+            <material>
+              <mattext texttype="text/plain">3. jouer du piano</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1094">
+                <material>
+                  <mattext>à la piscine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7951">
+                <material>
+                  <mattext>à la montagne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="0">
+                <material>
+                  <mattext>à la leçon (de musique)</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5516">
+                <material>
+                  <mattext>au stade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3407">
+                <material>
+                  <mattext>au gymnase</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7840">
+            <material>
+              <mattext texttype="text/plain">3. faire de l'athlétisme</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1094">
+                <material>
+                  <mattext>à la piscine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7951">
+                <material>
+                  <mattext>à la montagne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="0">
+                <material>
+                  <mattext>à la leçon (de musique)</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5516">
+                <material>
+                  <mattext>au stade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3407">
+                <material>
+                  <mattext>au gymnase</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_89">
+            <material>
+              <mattext texttype="text/plain">3. faire de la gymnastique</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1094">
+                <material>
+                  <mattext>à la piscine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7951">
+                <material>
+                  <mattext>à la montagne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="0">
+                <material>
+                  <mattext>à la leçon (de musique)</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5516">
+                <material>
+                  <mattext>au stade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3407">
+                <material>
+                  <mattext>au gymnase</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6423">1094</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1634">7951</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7">0</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7840">5516</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_89">3407</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

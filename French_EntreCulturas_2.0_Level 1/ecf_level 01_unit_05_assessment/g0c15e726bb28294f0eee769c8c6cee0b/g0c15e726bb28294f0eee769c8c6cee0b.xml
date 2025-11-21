@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0c15e726bb28294f0eee769c8c6cee0b" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+          <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.NH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge6cc4fc295d604d51b61efb1666d6d37" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6446,7122,2529,6572,8338</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2806012c243a228ecf28bb5798e18009</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each statement with the picture that it is describing.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6446">
+            <material>
+              <mattext texttype="text/html">1. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_ua_vq_activity2_q1.jpg" alt="a young woman is standing playing a violin as she wears a white top, a red skirt and black heels." style="width: 95%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6418">
+                <material>
+                  <mattext>Ma sœur porte une jupe rouge et des chaussures noires.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8717">
+                <material>
+                  <mattext>Il fait froid et il neige, alors Jules porte un manteau et une écharpe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4991">
+                <material>
+                  <mattext>Nous jouons à des jeux de société dans le salon quand il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3252">
+                <material>
+                  <mattext>Les amis font de la randonnée en montagne avec de bonnes chaussures.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="896">
+                <material>
+                  <mattext>Léo porte un chapeau et des lunettes de soleil.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7122">
+            <material>
+              <mattext texttype="text/html">2. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_ua_vq_activity2_q2.jpg" alt="a man is outside with snow in the background. He holds poles in each hand and is wearing a white ski jacket, a light blue scarf and a blue knit hat." style="width: 95%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6418">
+                <material>
+                  <mattext>Ma sœur porte une jupe rouge et des chaussures noires.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8717">
+                <material>
+                  <mattext>Il fait froid et il neige, alors Jules porte un manteau et une écharpe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4991">
+                <material>
+                  <mattext>Nous jouons à des jeux de société dans le salon quand il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3252">
+                <material>
+                  <mattext>Les amis font de la randonnée en montagne avec de bonnes chaussures.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="896">
+                <material>
+                  <mattext>Léo porte un chapeau et des lunettes de soleil.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2529">
+            <material>
+              <mattext texttype="text/html">3. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_ua_vq_activity2_q3.jpg" alt="a family of four is gathered around a table inside playing Jenga." style="width: 95%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6418">
+                <material>
+                  <mattext>Ma sœur porte une jupe rouge et des chaussures noires.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8717">
+                <material>
+                  <mattext>Il fait froid et il neige, alors Jules porte un manteau et une écharpe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4991">
+                <material>
+                  <mattext>Nous jouons à des jeux de société dans le salon quand il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3252">
+                <material>
+                  <mattext>Les amis font de la randonnée en montagne avec de bonnes chaussures.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="896">
+                <material>
+                  <mattext>Léo porte un chapeau et des lunettes de soleil.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6572">
+            <material>
+              <mattext texttype="text/html">4. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_ua_vq_activity2_q4.jpg" alt="three people are walking up an incline in a forest setting. They are dressed in outdoor gear with sturdy boots, backpacks on their back and a pole in one person’s hand." style="width: 95%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6418">
+                <material>
+                  <mattext>Ma sœur porte une jupe rouge et des chaussures noires.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8717">
+                <material>
+                  <mattext>Il fait froid et il neige, alors Jules porte un manteau et une écharpe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4991">
+                <material>
+                  <mattext>Nous jouons à des jeux de société dans le salon quand il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3252">
+                <material>
+                  <mattext>Les amis font de la randonnée en montagne avec de bonnes chaussures.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="896">
+                <material>
+                  <mattext>Léo porte un chapeau et des lunettes de soleil.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8338">
+            <material>
+              <mattext texttype="text/html">5. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_ua_vq_activity2_q5.jpg" alt="a young man is standing outside in daylight in front of a light blue bus. He plays a guitar and is wearing a hat, sunglasses, a blue tank top and red and white striped shorts. His friends are also dressed in warm weather clothes and sunglasses." style="width: 95%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6418">
+                <material>
+                  <mattext>Ma sœur porte une jupe rouge et des chaussures noires.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8717">
+                <material>
+                  <mattext>Il fait froid et il neige, alors Jules porte un manteau et une écharpe.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4991">
+                <material>
+                  <mattext>Nous jouons à des jeux de société dans le salon quand il pleut.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3252">
+                <material>
+                  <mattext>Les amis font de la randonnée en montagne avec de bonnes chaussures.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="896">
+                <material>
+                  <mattext>Léo porte un chapeau et des lunettes de soleil.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6446">6418</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7122">8717</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2529">4991</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6572">3252</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8338">896</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

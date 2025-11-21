@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g85f3b5106587f8b828452bc63ecdce7f" title="Communiquons 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.2.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbd92ecb0196ba3876e394c09f5cbb7ce" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>37239,72118,4118,81001</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbec623847d643b019d71180b56cc9c66</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;A group of friends discusses their plans. Read their conversation then answer each question by indicating who is going to each location.&lt;/p&gt;
+&lt;p&gt;Quentin : Salut Jowan ! Salut Coralie et Aziz ! Où allez-vous aujourd'hui ?&lt;br&gt;Jowan: Salut Quentin ! Moi, je vais au gymnase. Et toi ?&lt;br&gt;Quentin: Je vais au terrain de foot pour jouer au foot. Coralie, tu vas au gymnase avec Jowan ?&lt;br&gt;Coralie : Non, moi, je vais au stade pour regarder un match. &lt;br&gt;Jowan: Et Rafia, elle va avec toi?&lt;br&gt;Coralie: Non, Rafia va au marché avec sa mère et avec toi, Aziz, n’est-ce pas ?&lt;br&gt;Aziz : Oui, Coralie. Et après, nous allons au cinéma avec nos cousins. &lt;br&gt;Coralie : Moi, je vais à la cantine pour déjeuner après. Quentin et Jowan vont à la piscine pour faire de la natation.&lt;/p&gt;
+&lt;p&gt;1. Qui va au gymnase ?&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="37239">
+                <material>
+                  <mattext texttype="text/plain">Coralie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72118">
+                <material>
+                  <mattext texttype="text/plain">Jowan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4118">
+                <material>
+                  <mattext texttype="text/plain">Rafia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="81001">
+                <material>
+                  <mattext texttype="text/plain">Aziz</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">72118</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc17fdf99c37555372b71b6407270eaa2" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>97305,55157,31741,54131</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd793b3d8954c7bdf100a046274b07133</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. Qui va jouer au foot ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="97305">
+                <material>
+                  <mattext texttype="text/plain">Rafia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55157">
+                <material>
+                  <mattext texttype="text/plain">Aziz</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31741">
+                <material>
+                  <mattext texttype="text/plain">Quentin</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54131">
+                <material>
+                  <mattext texttype="text/plain">Coralie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">31741</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gc15c8e3bf32ef70c0054d98083906107" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>62304,32957,70055,8912</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g45ce27b9ec555e1222d0a8a4ed642a48</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. Qui va au stade ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="62304">
+                <material>
+                  <mattext texttype="text/plain">Coralie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32957">
+                <material>
+                  <mattext texttype="text/plain">Quentin</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70055">
+                <material>
+                  <mattext texttype="text/plain">Jowan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8912">
+                <material>
+                  <mattext texttype="text/plain">Aziz</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">62304</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5cbeb37eb2af22ce852a2968608cdf3e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>61631,82827,51108,99891</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc785f13cae55de635d4f7fc744390a88</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. Qui va au cinéma avec ses cousins ? &lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="61631">
+                <material>
+                  <mattext texttype="text/plain">Jowan et Coralie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82827">
+                <material>
+                  <mattext texttype="text/plain">Aziz et Rafia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="51108">
+                <material>
+                  <mattext texttype="text/plain">Quentin et Jowan</mattext>
+                </material>
+              </response_label>
+              <response_label ident="99891">
+                <material>
+                  <mattext texttype="text/html">Rafia et sa  mère</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">82827</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g7578e23ccaec37c7c0dfb83f6f6cf98e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>97213,51459,31859,47045</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8b742005238da50cec49db4384f2462f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. Qui va à la piscine ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="97213">
+                <material>
+                  <mattext texttype="text/plain">Coralie et Rafia</mattext>
+                </material>
+              </response_label>
+              <response_label ident="51459">
+                <material>
+                  <mattext texttype="text/plain">Aziz et Quentin</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31859">
+                <material>
+                  <mattext texttype="text/plain">Jowan et Coralie</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47045">
+                <material>
+                  <mattext texttype="text/plain">Jowan et Quentin</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">47045</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

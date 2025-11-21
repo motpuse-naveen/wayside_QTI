@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ge702e31b3d9ace7ac03a167247466a4d" title="Communiquons 2 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+          <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.NH.5.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g58301c898695de754da15aabafefa643" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>61917,89186,73565,14246,45834,181,12291,4968,40788,56004</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4ac037f74d7bbe5b5dc7430b010f1f30</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Write a complete sentence based on each image, indicating what the person or people in the photo will do today. Use the &lt;strong&gt;&lt;i&gt;futur proche.&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_gq2_activity2_q1.jpg" alt="young boy on a galloping horse"&gt;&lt;/p&gt;
+&lt;p&gt;Malik [RESPONSE].&lt;br&gt;&lt;br&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_gq2_activity2_q2.jpg" alt="A woman and a man each playing a violin"&gt;&lt;/p&gt;
+&lt;p&gt;Maribel et Liam [RESPONSE1].&lt;br&gt;&lt;br&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_gq2_activity2_q3.jpg" alt="a young man stirring a pot on a stove with an older man placing a hand on his shoulder"&gt;&lt;/p&gt;
+&lt;p&gt;Mon grand-père et moi, nous &lt;br&gt;[RESPONSE2].&lt;br&gt;&lt;br&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_gq2_activity2_q4.jpg" alt="a young woman crouched in starting position at a running track"&gt;&lt;/p&gt;
+&lt;p&gt;Moi, je &lt;br&gt;[RESPONSE3].&lt;br&gt;&lt;br&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 2px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF1/ecf1_u5_vgq_gq2_activity2_q5.jpg" alt="a man wearing a casual hat, a flowered shirt, shorts and slippers holding a beach ball as he wheels a suitcase behind him with the other hand"&gt;&lt;/p&gt;
+&lt;p&gt;Tu&lt;br&gt;[RESPONSE4].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="61917">
+                <material>
+                  <mattext texttype="text/plain">va faire de l'équitation</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89186">
+                <material>
+                  <mattext texttype="text/plain">vont jouer du violon</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73565">
+                <material>
+                  <mattext texttype="text/plain">allons cuisiner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14246">
+                <material>
+                  <mattext texttype="text/plain">allons faire la cuisine</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45834">
+                <material>
+                  <mattext texttype="text/plain">allons préparer le dîner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="181">
+                <material>
+                  <mattext texttype="text/plain">allons préparer le déjeuner</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12291">
+                <material>
+                  <mattext texttype="text/plain">vais faire de l'athlétisme</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4968">
+                <material>
+                  <mattext texttype="text/plain">vas voyager</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40788">
+                <material>
+                  <mattext texttype="text/plain">vas aller en vacances</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56004">
+                <material>
+                  <mattext texttype="text/plain">vas partir en vacances</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">61917</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">89186</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">73565</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">12291</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">4968</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
