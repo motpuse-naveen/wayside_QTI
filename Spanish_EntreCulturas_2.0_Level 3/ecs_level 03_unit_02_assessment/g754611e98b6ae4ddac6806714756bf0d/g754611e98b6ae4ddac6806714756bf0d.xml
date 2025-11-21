@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g754611e98b6ae4ddac6806714756bf0d" title="Comunicación 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g19af7271fbce3bfb796b42695eac8479" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>91896,31999,19383,8955,43285</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ga1bf056011adc1fe1462c9f172234e86</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following sentences. Choose the correct possessive adjective from the word bank to complete the sentence based on the information in parentheses. Make sure to use the correct form of the adjective.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;tuyo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; suyo &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;nuestro &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;suyo &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mío&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Modelo:&lt;/strong&gt; (el carro de mi hermana) Mi hermana tiene un carro nuevo; este carro es &lt;i&gt;&lt;u&gt;suyo.&lt;/u&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;1. (las pulseras de nosotras) Kaira y yo dejamos [RESPONSE] pulseras guardadas en la mesa de noche.&lt;/p&gt;
+&lt;p&gt;2. (tus libros de cuentos) Oye, Freddy, ¿estos libros de cuentos son [RESPONSE1]?&lt;/p&gt;
+&lt;p&gt;3. (los pendientes de Elena) Elena trajo varios pendientes para prestarme; todos esos son [RESPONSE2].&lt;/p&gt;
+&lt;p&gt;4. (mi tambor) Mi hermano se compró un tambor más grande que el [RESPONSE3].&lt;/p&gt;
+&lt;p&gt;5. (las pulseras de Abigail) Abigail es fanática de las joyas; las pulseras con piedras son [RESPONSE4].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="91896">
+                <material>
+                  <mattext texttype="text/plain">nuestras</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="31999">
+                <material>
+                  <mattext texttype="text/plain">tuyos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="19383">
+                <material>
+                  <mattext texttype="text/plain">suyos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8955">
+                <material>
+                  <mattext texttype="text/plain">mío</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="43285">
+                <material>
+                  <mattext texttype="text/plain">suyas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">91896</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">31999</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">19383</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">8955</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">43285</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

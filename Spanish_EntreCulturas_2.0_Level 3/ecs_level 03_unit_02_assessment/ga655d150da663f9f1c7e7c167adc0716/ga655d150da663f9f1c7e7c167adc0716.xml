@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga655d150da663f9f1c7e7c167adc0716" title="Comunicación 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g21fe858d5256d3c2a11a757339c40980" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7207,8745,6326,8863,5795</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3c09caff919cfe6ec32a1a4181d520ee</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the correct word or phrase for each definition.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7207">
+            <material>
+              <mattext texttype="text/plain">1. un dibujo grande que se hace sobre una pared</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47">
+                <material>
+                  <mattext>mural</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6240">
+                <material>
+                  <mattext>artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6900">
+                <material>
+                  <mattext>arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2982">
+                <material>
+                  <mattext>perspectiva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7594">
+                <material>
+                  <mattext>escultura</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8745">
+            <material>
+              <mattext texttype="text/plain">2. arte que se crea con distintos materiales</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47">
+                <material>
+                  <mattext>mural</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6240">
+                <material>
+                  <mattext>artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6900">
+                <material>
+                  <mattext>arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2982">
+                <material>
+                  <mattext>perspectiva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7594">
+                <material>
+                  <mattext>escultura</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6326">
+            <material>
+              <mattext texttype="text/plain">3. arte que se crea con tecnología</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47">
+                <material>
+                  <mattext>mural</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6240">
+                <material>
+                  <mattext>artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6900">
+                <material>
+                  <mattext>arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2982">
+                <material>
+                  <mattext>perspectiva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7594">
+                <material>
+                  <mattext>escultura</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8863">
+            <material>
+              <mattext texttype="text/plain">4. el punto de vista o la opinión</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47">
+                <material>
+                  <mattext>mural</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6240">
+                <material>
+                  <mattext>artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6900">
+                <material>
+                  <mattext>arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2982">
+                <material>
+                  <mattext>perspectiva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7594">
+                <material>
+                  <mattext>escultura</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5795">
+            <material>
+              <mattext texttype="text/plain">5. una pieza de arte que es una figura, como una estatua</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47">
+                <material>
+                  <mattext>mural</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6240">
+                <material>
+                  <mattext>artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6900">
+                <material>
+                  <mattext>arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2982">
+                <material>
+                  <mattext>perspectiva</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7594">
+                <material>
+                  <mattext>escultura</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7207">47</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8745">6240</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6326">6900</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8863">2982</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5795">7594</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

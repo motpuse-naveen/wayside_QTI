@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0f6f48e6539e71290ebae21ce71b2fe4" title="Unit Assessment - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7d75bb2e346f164e4e35d32b6da67916" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>63116,20834,30298,12744</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb3c371898446d8e225dae256187a340f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Look at the following pictures and choose the word or phrase that best completes each sentence about the picture.&lt;/p&gt;
+           
+           &lt;p&gt;1. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u2_ua_gq1_activity1_q1.jpg" alt="Two children in an art studio working with clay." style="width: 40%; border: 1px solid #808080;"&gt;
+
+            &lt;p&gt;Mi hermano y yo vamos a un taller de __________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="63116">
+                <material>
+                  <mattext texttype="text/plain">artes digitales</mattext>
+                </material>
+              </response_label>
+              <response_label ident="20834">
+                <material>
+                  <mattext texttype="text/plain">pulseras</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30298">
+                <material>
+                  <mattext texttype="text/plain">artes plásticas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="12744">
+                <material>
+                  <mattext texttype="text/plain">prendas de ropa</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">30298</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9c3f20ccf71a10cb2bf14ef5e94d16e6" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>90663,77086,46940,97680</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3a5762aa53dac86a0eb0605febea48d3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;2. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u2_ua_gq1_activity1_q2.jpg" alt="A woman taking a deep breath in the forest with her arms outstretched." style="width: 40%; border: 1px solid #808080;"&gt;
+
+            &lt;p&gt;A Stella le gusta caminar por el bosque y _________.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="90663">
+                <material>
+                  <mattext texttype="text/plain">apreciar el arte</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77086">
+                <material>
+                  <mattext texttype="text/plain">hacer artesanías</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46940">
+                <material>
+                  <mattext texttype="text/plain">buscar la creatividad</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97680">
+                <material>
+                  <mattext texttype="text/plain">respirar el aire puro</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">97680</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gd4342a1c7c949bbcce86c6024211f48e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9605,95493,6583,68618</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3b68a3bc2225668981c42f650b1912ce</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;3. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u2_ua_gq1_activity1_q3.jpg" alt="Mayan pyramids" style="width: 40%; border: 1px solid #808080;"&gt;
+
+            &lt;p&gt;Tikal es un __________ que nos enseña mucho sobre la cultura maya.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="9605">
+                <material>
+                  <mattext texttype="text/plain">mercado artesanal</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95493">
+                <material>
+                  <mattext texttype="text/plain">sitio arqueológico</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6583">
+                <material>
+                  <mattext texttype="text/plain">estilo artístico</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68618">
+                <material>
+                  <mattext texttype="text/plain">playa volcánica</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">95493</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gb6ec7f72634f09aaf714f46344cc0a4e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>12416,91830,79736,70052</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7df371f4000b61b0618023994abb81f5</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. &lt;/p&gt;&lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u2_ua_gq1_activity1_q4.jpg" alt="A green bird with long, green tail feathers, a red chest, and black wings in flight." style="width: 40%; border: 1px solid #808080;"&gt;
+
+            &lt;p&gt;El quetzal es __________ colorida que vuela por los bosques tropicales.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="12416">
+                <material>
+                  <mattext texttype="text/plain">un ave</mattext>
+                </material>
+              </response_label>
+              <response_label ident="91830">
+                <material>
+                  <mattext texttype="text/plain">un pez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79736">
+                <material>
+                  <mattext texttype="text/plain">una obra</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70052">
+                <material>
+                  <mattext texttype="text/plain">un barrilete</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">12416</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbd14b98e4555cb472624fe5a83c70085" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4620,36044,92721,13954</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6a4c9df4d208f7f218a732982289c4fe</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 40%; border: 1px solid #808080;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS3/ecs3_u2_ua_gq1_activity1_q5.jpg" alt="a rocky beach with no sand." width="371" height="260"&gt;&lt;/p&gt;
+&lt;p&gt;En ___________, la arena es negra.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="4620">
+                <material>
+                  <mattext texttype="text/plain">el sitio arqueológico</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36044">
+                <material>
+                  <mattext texttype="text/plain">el arte digital</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92721">
+                <material>
+                  <mattext texttype="text/plain">la playa volcánica</mattext>
+                </material>
+              </response_label>
+              <response_label ident="13954">
+                <material>
+                  <mattext texttype="text/plain">la diversidad biológica</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">92721</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
