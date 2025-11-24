@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0311b8aeda901726696b25872d77c796" title="Unit Assessment - Grammar Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+       <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.IL.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbc35e9aeb0dd141457ce5466de10641c" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>7.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>91548,47066,29749,56007,57861,72540,65015,3388,5097,9687,2673,4370,9615,8778,7083,3077,6498</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd1f7fcb776d212173e40a04a28883d6a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Respond to each question by using &lt;strong&gt;&lt;i&gt;en&lt;/i&gt;&lt;/strong&gt; to replace the words in bold. Be sure to use the correct verb form and order of words.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Modèle: Tu achètes trois &lt;strong&gt;serviettes&lt;/strong&gt; pour le repas de dimanche? Oui, ___________. =&amp;gt; j’en achète trois pour le repas de dimanche.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;1. Tu coupes deux &lt;strong&gt;carottes&lt;/strong&gt; pour la soupe de ce soir ?&lt;/p&gt;
+&lt;p&gt;Oui, [RESPONSE].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;2. Est-ce qu’il y a &lt;strong&gt;du poivron&lt;/strong&gt; dans la salade ?&lt;/p&gt;
+&lt;p&gt;Oui, [RESPONSE1].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;3. Je dois chauffer &lt;strong&gt;du lait&lt;/strong&gt; pour le petit-déjeuner ?&lt;/p&gt;
+&lt;p&gt;Oui, [RESPONSE2].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;4. Tu mets &lt;strong&gt;du citron&lt;/strong&gt; dans la pâte à crêpes ?&lt;/p&gt;
+&lt;p&gt;Non, [RESPONSE3].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;5. Ils ont beaucoup &lt;strong&gt;de framboises&lt;/strong&gt; cette année à la ferme ?&lt;/p&gt;
+&lt;p&gt;Non, [RESPONSE4].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;6. Est-ce que tes amis veulent manger &lt;strong&gt;du piment&lt;/strong&gt; ?&lt;/p&gt;
+&lt;p&gt;Non, [RESPONSE5].&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;7. On trouvait &lt;strong&gt;des épices&lt;/strong&gt; exotiques dans les supermarchés il y a dix ans en France ?&lt;/p&gt;
+&lt;p&gt;Non, [RESPONSE6].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="91548">
+                <material>
+                  <mattext texttype="text/plain">j'en coupe deux pour la soupe de ce soir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3388">
+                <material>
+                  <mattext texttype="text/plain">j'en coupe deux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47066">
+                <material>
+                  <mattext texttype="text/plain">il y en a dans la salade</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5097">
+                <material>
+                  <mattext texttype="text/plain">il y en a</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="29749">
+                <material>
+                  <mattext texttype="text/plain">tu dois en chauffer pour le petit-déjeuner</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9687">
+                <material>
+                  <mattext texttype="text/plain">tu dois en chauffer</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="56007">
+                <material>
+                  <mattext texttype="text/plain">je n'en mets pas dans la pâte à crêpes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2673">
+                <material>
+                  <mattext texttype="text/plain">je n'en mets pas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57861">
+                <material>
+                  <mattext texttype="text/plain">ils n'en ont pas beaucoup cette année à la ferme</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4370">
+                <material>
+                  <mattext texttype="text/plain">ils n'en ont pas beaucoup cette année</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9615">
+                <material>
+                  <mattext texttype="text/plain">ils n'en ont pas beaucoup</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="72540">
+                <material>
+                  <mattext texttype="text/plain">ils ne veulent pas en manger</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8778">
+                <material>
+                  <mattext texttype="text/plain">ils n'en veulent pas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE6">
+            <material>
+              <mattext>RESPONSE6</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65015">
+                <material>
+                  <mattext texttype="text/plain">on n'en trouvait pas dans les supermarchés il y a dix ans en France</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7083">
+                <material>
+                  <mattext texttype="text/plain">on n'en trouvait pas dans les supermarchés</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3077">
+                <material>
+                  <mattext texttype="text/plain">on n'en trouvait pas</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6498">
+                <material>
+                  <mattext texttype="text/plain">on n'en trouvait pas en France</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">91548</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">47066</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">29749</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">56007</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">57861</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">72540</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE6">65015</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

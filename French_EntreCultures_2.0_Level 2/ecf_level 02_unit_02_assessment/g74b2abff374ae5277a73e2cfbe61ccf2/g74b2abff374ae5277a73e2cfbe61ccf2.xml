@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g74b2abff374ae5277a73e2cfbe61ccf2" title="Communiquons 3 - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+       <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g93437b8d1ba2d5c6b63069de6d2e0b05" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>65330,30292,97047,38519,62220,7603,13809,80540,36467,63818,57417,29722,50170,45090,34487,69475,19316,26699</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7c62a5f69d808df3c26d1b9f74eb20e3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Matthias’ friends respond to his invitation. Select the most logical phrase to complete each response.&lt;/p&gt;
+&lt;p&gt;1. Léon - Salut Matthias, c’est super ! Je viens [RESPONSE1]. J’apporte 2 bouteilles de jus d’orange.&lt;/p&gt;
+&lt;p&gt;2. Natacha - Coucou Matthias, [RESPONSE2], mais je ne peux pas. Justement le 21 juin, c’est l’anniversaire de mariage de mes parents et ils ont réservé un super restaurant pour la famille.&lt;/p&gt;
+&lt;p&gt;3. Ikaika - Bonjour Matthias, merci pour ton invitation. [RESPONSE3] &lt;span&gt;venir&lt;/span&gt; mais j’ai un match de rugby, je peux seulement venir après le repas. Tu peux me garder un dessert ?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="65330">
+                <material>
+                  <mattext texttype="text/plain">ça vous dit de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30292">
+                <material>
+                  <mattext texttype="text/plain">Je veux bien</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97047">
+                <material>
+                  <mattext texttype="text/plain">laver</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38519">
+                <material>
+                  <mattext texttype="text/plain">la soirée</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62220">
+                <material>
+                  <mattext texttype="text/plain">avec plaisir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7603">
+                <material>
+                  <mattext texttype="text/plain">désolé/désolée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="13809">
+                <material>
+                  <mattext texttype="text/plain">ça vous dit de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="80540">
+                <material>
+                  <mattext texttype="text/plain">Je veux bien</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36467">
+                <material>
+                  <mattext texttype="text/plain">laver</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63818">
+                <material>
+                  <mattext texttype="text/plain">la soirée</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57417">
+                <material>
+                  <mattext texttype="text/plain">avec plaisir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29722">
+                <material>
+                  <mattext texttype="text/plain">désolé/désolée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="50170">
+                <material>
+                  <mattext texttype="text/plain">ça vous dit de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45090">
+                <material>
+                  <mattext texttype="text/plain">Je veux bien</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34487">
+                <material>
+                  <mattext texttype="text/plain">laver</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69475">
+                <material>
+                  <mattext texttype="text/plain">la soirée</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19316">
+                <material>
+                  <mattext texttype="text/plain">avec plaisir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26699">
+                <material>
+                  <mattext texttype="text/plain">désolé/désolée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">62220</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">29722</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">45090</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

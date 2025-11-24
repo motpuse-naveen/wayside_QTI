@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbcddcac196675c17e6556bfdd4c64e45" title="Communiquons 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+       <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Practices</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Products</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.IL.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.IL.6.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gf12d4998f3c29e26a7411cfe37cb9bf4" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>26200,29358,31682,15411,40816,74405,76105,1508,78311,96631,96085,83920,83245,6280,67658,61365,40175,38825,30239,25897,34356,64343,6722,43855,87465</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1914d3a47cc486d1c47058f5b770e47f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Anna describes visits to her grandparents. Select the verb form that best completes each sentence.&lt;/p&gt;
+&lt;p&gt;1. Dans le village de mes grands-parents, tous les vendredis, c’ [RESPONSE1] le marché aux légumes. Je pouvais tout trouver pour la semaine.&lt;/p&gt;
+&lt;p&gt;2. Le fermier [RESPONSE2] beaucoup de fruits et de légumes au marché.&lt;/p&gt;
+&lt;p&gt;3. Il n’ [RESPONSE3] pas de poisson vendredi dernier au restaurant.&lt;/p&gt;
+&lt;p&gt;4. Mes grands-parents [RESPONSE4] de Bruxelles. Ils mangeaient parfois du Waterzooi de poisson accompagné d’une salade verte.&lt;/p&gt;
+&lt;p&gt;5. Dans leur cuisine, ils [RESPONSE5] toujours des carottes et du céleri pour faire des jus de légumes frais. J’aimais beaucoup manger chez eux.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="26200">
+                <material>
+                  <mattext texttype="text/plain">avaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29358">
+                <material>
+                  <mattext texttype="text/plain">avait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31682">
+                <material>
+                  <mattext texttype="text/plain">était</mattext>
+                </material>
+              </response_label>
+              <response_label ident="15411">
+                <material>
+                  <mattext texttype="text/plain">étaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40816">
+                <material>
+                  <mattext texttype="text/plain">y avait</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="74405">
+                <material>
+                  <mattext texttype="text/plain">avaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76105">
+                <material>
+                  <mattext texttype="text/plain">avait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1508">
+                <material>
+                  <mattext texttype="text/plain">était</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78311">
+                <material>
+                  <mattext texttype="text/plain">étaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96631">
+                <material>
+                  <mattext texttype="text/plain">y avait</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96085">
+                <material>
+                  <mattext texttype="text/plain">avaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83920">
+                <material>
+                  <mattext texttype="text/plain">avait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83245">
+                <material>
+                  <mattext texttype="text/plain">était</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6280">
+                <material>
+                  <mattext texttype="text/plain">étaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67658">
+                <material>
+                  <mattext texttype="text/plain">y avait</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="61365">
+                <material>
+                  <mattext texttype="text/plain">avaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40175">
+                <material>
+                  <mattext texttype="text/plain">avait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38825">
+                <material>
+                  <mattext texttype="text/plain">était</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30239">
+                <material>
+                  <mattext texttype="text/plain">étaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="25897">
+                <material>
+                  <mattext texttype="text/plain">y avait</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34356">
+                <material>
+                  <mattext texttype="text/plain">avaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64343">
+                <material>
+                  <mattext texttype="text/plain">avait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6722">
+                <material>
+                  <mattext texttype="text/plain">était</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43855">
+                <material>
+                  <mattext texttype="text/plain">étaient</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87465">
+                <material>
+                  <mattext texttype="text/plain">y avait</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">31682</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">76105</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">67658</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">30239</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">34356</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

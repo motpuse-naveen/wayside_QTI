@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g679fd46d7c69bd535e9e3042896ba1e4" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+       <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Practices</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Products</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.IL.6.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc2790d54bf699a4ffde0b50a259e3b6f" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>57790,36485,52132,61601,87136,69099,74,82047,97212,46834,47651,74944,4943,29022,3790,47601,96703,19777,45649,19610,39363,36526,14566,89331,40482</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4f718771089394be7ce5a03dc2ee784c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Guillaume has written an e-mail to his grandchildren about his childhood in the south of France. Read his message and select the response that best completes each sentence.&lt;/p&gt;
+&lt;p&gt;En hiver, nous faisions souvent des soupes de légumes, comme par exemple avec [RESPONSE1]. La soupe était orange. Pour le goût, mais aussi pour faire joli, on pouvait [RESPONSE2] de la crème fraîche. En été, quand nous avions des fruits, comme des [RESPONSE3] des fraises ou des framboises, nous faisions des tartes ou [RESPONSE4]. Notre jardin était très grand, et à côté des fruits, nous avions des légumes. Nous utilisions tout, nous mangions nos légumes ou nous les donnions à nos animaux. Quand les récoltes étaient très bonnes, [RESPONSE5] aider mes parents à faire des conserves.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="57790">
+                <material>
+                  <mattext texttype="text/plain">de la confiture</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36485">
+                <material>
+                  <mattext texttype="text/plain">mûres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52132">
+                <material>
+                  <mattext texttype="text/plain">il fallait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61601">
+                <material>
+                  <mattext texttype="text/plain">des carottes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87136">
+                <material>
+                  <mattext texttype="text/plain">ajouter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69099">
+                <material>
+                  <mattext texttype="text/plain">de la confiture</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74">
+                <material>
+                  <mattext texttype="text/plain">mûres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82047">
+                <material>
+                  <mattext texttype="text/plain">il fallait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97212">
+                <material>
+                  <mattext texttype="text/plain">des carottes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46834">
+                <material>
+                  <mattext texttype="text/plain">ajouter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47651">
+                <material>
+                  <mattext texttype="text/plain">de la confiture</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74944">
+                <material>
+                  <mattext texttype="text/plain">mûres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4943">
+                <material>
+                  <mattext texttype="text/plain">il fallait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29022">
+                <material>
+                  <mattext texttype="text/plain">des carottes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3790">
+                <material>
+                  <mattext texttype="text/plain">ajouter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="47601">
+                <material>
+                  <mattext texttype="text/plain">de la confiture</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96703">
+                <material>
+                  <mattext texttype="text/plain">mûres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19777">
+                <material>
+                  <mattext texttype="text/plain">il fallait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45649">
+                <material>
+                  <mattext texttype="text/plain">des carottes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19610">
+                <material>
+                  <mattext texttype="text/plain">ajouter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="39363">
+                <material>
+                  <mattext texttype="text/plain">de la confiture</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36526">
+                <material>
+                  <mattext texttype="text/plain">mûres</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14566">
+                <material>
+                  <mattext texttype="text/plain">il fallait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89331">
+                <material>
+                  <mattext texttype="text/plain">des carottes</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40482">
+                <material>
+                  <mattext texttype="text/plain">ajouter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">61601</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">46834</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">74944</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">47601</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">14566</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

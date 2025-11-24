@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g799e22bd19b42b1a530d3bbc086fe7f0" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+       <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Practices</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IL.6.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g6e144fc45d8ddf19f157b541c0d17cfe" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1151,4292,2710,3692,2201</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1c0c74277e3ab5d78ac4c3c0e9ed6eea</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the most logical response to each statement.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1151">
+            <material>
+              <mattext texttype="text/plain">1. Voici les recettes congolaises que nous allons préparer aujourd’hui.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="484">
+                <material>
+                  <mattext>Je vous invite à prendre des notes et à goûter les plats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9654">
+                <material>
+                  <mattext>Ce sera un repas convivial. Chacun apportera une spécialité de son pays. Ça vous dit de participer ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5059">
+                <material>
+                  <mattext>Les plus âgés apprenaient à servir les boissons. Les professeurs observaient et prenaient des notes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1728">
+                <material>
+                  <mattext>Il y aura aussi un feu d’artifice à 23h. Venez nombreux à l’évènement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6083">
+                <material>
+                  <mattext>C’est gentil ! Mais, je ne peux pas, désolé. Mais Maxime et Karine peuvent venir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4292">
+            <material>
+              <mattext texttype="text/plain">2. Nous voulons organiser un grand repas avec tous les étudiants internationaux.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="484">
+                <material>
+                  <mattext>Je vous invite à prendre des notes et à goûter les plats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9654">
+                <material>
+                  <mattext>Ce sera un repas convivial. Chacun apportera une spécialité de son pays. Ça vous dit de participer ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5059">
+                <material>
+                  <mattext>Les plus âgés apprenaient à servir les boissons. Les professeurs observaient et prenaient des notes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1728">
+                <material>
+                  <mattext>Il y aura aussi un feu d’artifice à 23h. Venez nombreux à l’évènement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6083">
+                <material>
+                  <mattext>C’est gentil ! Mais, je ne peux pas, désolé. Mais Maxime et Karine peuvent venir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2710">
+            <material>
+              <mattext texttype="text/plain">3. Les plus jeunes travaillaient en cuisine et préparaient les salades et les desserts.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="484">
+                <material>
+                  <mattext>Je vous invite à prendre des notes et à goûter les plats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9654">
+                <material>
+                  <mattext>Ce sera un repas convivial. Chacun apportera une spécialité de son pays. Ça vous dit de participer ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5059">
+                <material>
+                  <mattext>Les plus âgés apprenaient à servir les boissons. Les professeurs observaient et prenaient des notes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1728">
+                <material>
+                  <mattext>Il y aura aussi un feu d’artifice à 23h. Venez nombreux à l’évènement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6083">
+                <material>
+                  <mattext>C’est gentil ! Mais, je ne peux pas, désolé. Mais Maxime et Karine peuvent venir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3692">
+            <material>
+              <mattext texttype="text/plain">4. Pour la fête nationale, la mairie organise un grand dîner dansant sur la place du marché. Tout le monde est invité et c’est gratuit.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="484">
+                <material>
+                  <mattext>Je vous invite à prendre des notes et à goûter les plats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9654">
+                <material>
+                  <mattext>Ce sera un repas convivial. Chacun apportera une spécialité de son pays. Ça vous dit de participer ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5059">
+                <material>
+                  <mattext>Les plus âgés apprenaient à servir les boissons. Les professeurs observaient et prenaient des notes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1728">
+                <material>
+                  <mattext>Il y aura aussi un feu d’artifice à 23h. Venez nombreux à l’évènement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6083">
+                <material>
+                  <mattext>C’est gentil ! Mais, je ne peux pas, désolé. Mais Maxime et Karine peuvent venir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2201">
+            <material>
+              <mattext texttype="text/plain">5. Je vous invite samedi à la soirée jeux de mon club de foot.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="484">
+                <material>
+                  <mattext>Je vous invite à prendre des notes et à goûter les plats.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9654">
+                <material>
+                  <mattext>Ce sera un repas convivial. Chacun apportera une spécialité de son pays. Ça vous dit de participer ?</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5059">
+                <material>
+                  <mattext>Les plus âgés apprenaient à servir les boissons. Les professeurs observaient et prenaient des notes.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1728">
+                <material>
+                  <mattext>Il y aura aussi un feu d’artifice à 23h. Venez nombreux à l’évènement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6083">
+                <material>
+                  <mattext>C’est gentil ! Mais, je ne peux pas, désolé. Mais Maxime et Karine peuvent venir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1151">484</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4292">9654</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2710">5059</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3692">1728</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2201">6083</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
