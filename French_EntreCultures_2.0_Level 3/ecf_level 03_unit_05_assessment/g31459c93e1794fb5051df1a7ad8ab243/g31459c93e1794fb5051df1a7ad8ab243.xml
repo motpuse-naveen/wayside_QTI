@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g31459c93e1794fb5051df1a7ad8ab243" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.1.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7774ca23816fc5a6faea3808f82fdc5b" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>32611,40010,53187,42388,51136</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9c3eb6ba9696a8777b0c43345cca91a6</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to each audio clip and write the possessive pronoun that you hear being used. Be sure to include the definite article. Copy and paste this special character whenever you need it for your answers.&lt;/p&gt;
+&lt;p style="border: 1px solid black; display: ruby-text; text-align: center; padding: 5px;"&gt;&amp;nbsp;ô&amp;nbsp;&lt;/p&gt;
+&lt;p style="margin-left: 2px; margin-bottom: -25px;"&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" style="margin-left: 20px; margin-top: -30px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit5_Communiquons 3_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;[RESPONSE]&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="margin-left: 2px; margin-bottom: -25px;"&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" style="margin-left: 20px; margin-top: -30px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit5_Communiquons 3_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;[RESPONSE1]&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="margin-left: 2px; margin-bottom: -25px;"&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" style="margin-left: 20px; margin-top: -30px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit5_Communiquons 3_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;[RESPONSE2]&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="margin-left: 2px; margin-bottom: -25px;"&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" style="margin-left: 20px; margin-top: -30px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit5_Communiquons 3_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;[RESPONSE3]&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p style="margin-left: 2px; margin-bottom: -25px;"&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" style="margin-left: 20px; margin-top: -30px;" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac2_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit5_Communiquons 3_ac2_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;[RESPONSE4]&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="32611">
+                <material>
+                  <mattext texttype="text/plain">les miennes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="40010">
+                <material>
+                  <mattext texttype="text/plain">la nôtre</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="53187">
+                <material>
+                  <mattext texttype="text/plain">le leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="42388">
+                <material>
+                  <mattext texttype="text/plain">les tiens</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="51136">
+                <material>
+                  <mattext texttype="text/plain">les siennes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">32611</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">40010</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">53187</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">42388</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">51136</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

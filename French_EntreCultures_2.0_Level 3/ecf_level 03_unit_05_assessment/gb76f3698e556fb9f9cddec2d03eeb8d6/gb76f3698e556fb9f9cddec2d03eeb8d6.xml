@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gb76f3698e556fb9f9cddec2d03eeb8d6" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELD.K12.ELL.SI.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7ad43cf871130aba3d1dfe461f3e9981" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1154,74613,633,69952,78176,51122</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbe57e89e006829ba4aee524368775cc1</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following paragraph, paying close attention to the underlined words. Write the word or expression from the word bank that can replace each of the underlined words. Not all word bank options will be used.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 98%; text-align: center;"&gt;valeurs&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; subir des conséquences négatives&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; donner son opinion&lt;br&gt;s'entraident&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; craintes&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; établissent&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; choix&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; adopter&lt;/div&gt;
+&lt;p&gt;Copy and paste this special character whenever you need it for your answers.&lt;/p&gt;
+&lt;p style="border: 1px solid black; display: ruby-text; text-align: center; padding: 5px;"&gt;&amp;nbsp;é&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Pour prendre de bonnes décisions, il faut 1. &lt;u&gt;choisir&lt;/u&gt; une attitude d’ouverture et s'assurer de bien comprendre les critères en jeu. Face à la pression et aux 2. &lt;u&gt;peurs&lt;/u&gt; que l’on peut ressentir, il est important de bien connaître ses 3. &lt;u&gt;croyances&lt;/u&gt; pour guider ses choix. Avoir des amis qui 4. &lt;u&gt;se soutiennent&lt;/u&gt; et avec qui on peut en discuter aide aussi à juger une situation difficile. Pourtant, il est parfois nécessaire de laisser quelqu’un faire ses propres choix, même si cela veut dire qu’il ou elle devra 5. &lt;u&gt;assumer ses mauvaises décisions&lt;/u&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. [RESPONSE]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. [RESPONSE1]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. [RESPONSE2]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. [RESPONSE3]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. [RESPONSE4]&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1154">
+                <material>
+                  <mattext texttype="text/plain">adopter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="74613">
+                <material>
+                  <mattext texttype="text/plain">craintes</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="633">
+                <material>
+                  <mattext texttype="text/plain">valeurs</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69952">
+                <material>
+                  <mattext texttype="text/plain">s’entraident</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78176">
+                <material>
+                  <mattext texttype="text/plain">s'entraident</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="51122">
+                <material>
+                  <mattext texttype="text/plain">subir des conséquences négatives</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">1154</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">74613</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">633</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">69952</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">51122</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

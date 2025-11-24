@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd324b355a10dfa2ff0e6c1958103eb81" title="Unit Assessment - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g76aa52a7dd87bccf67c1665e506cca5b" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8804,6243,9405,2802,4584</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc2a51695dfdde7d39c4d295d88c33701</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Read each word or expression, then match it to the option it is most closely related to.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8804">
+            <material>
+              <mattext texttype="text/plain">1. la croyance</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1070">
+                <material>
+                  <mattext>le point de vue</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8137">
+                <material>
+                  <mattext>la militante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1887">
+                <material>
+                  <mattext>le tatouage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8683">
+                <material>
+                  <mattext>s’accoutumer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3476">
+                <material>
+                  <mattext>donner son opinion</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6243">
+            <material>
+              <mattext texttype="text/plain">2. s’engager</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1070">
+                <material>
+                  <mattext>le point de vue</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8137">
+                <material>
+                  <mattext>la militante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1887">
+                <material>
+                  <mattext>le tatouage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8683">
+                <material>
+                  <mattext>s’accoutumer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3476">
+                <material>
+                  <mattext>donner son opinion</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9405">
+            <material>
+              <mattext texttype="text/plain">3. la tenue à la mode</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1070">
+                <material>
+                  <mattext>le point de vue</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8137">
+                <material>
+                  <mattext>la militante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1887">
+                <material>
+                  <mattext>le tatouage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8683">
+                <material>
+                  <mattext>s’accoutumer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3476">
+                <material>
+                  <mattext>donner son opinion</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2802">
+            <material>
+              <mattext texttype="text/plain">4. s’habituer</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1070">
+                <material>
+                  <mattext>le point de vue</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8137">
+                <material>
+                  <mattext>la militante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1887">
+                <material>
+                  <mattext>le tatouage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8683">
+                <material>
+                  <mattext>s’accoutumer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3476">
+                <material>
+                  <mattext>donner son opinion</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4584">
+            <material>
+              <mattext texttype="text/plain">5. s’exprimer</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1070">
+                <material>
+                  <mattext>le point de vue</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8137">
+                <material>
+                  <mattext>la militante</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1887">
+                <material>
+                  <mattext>le tatouage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8683">
+                <material>
+                  <mattext>s’accoutumer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3476">
+                <material>
+                  <mattext>donner son opinion</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8804">1070</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6243">8137</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9405">1887</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2802">8683</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4584">3476</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

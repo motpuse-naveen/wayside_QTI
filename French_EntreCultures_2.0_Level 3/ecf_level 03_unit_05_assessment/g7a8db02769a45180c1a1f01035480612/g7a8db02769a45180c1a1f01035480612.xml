@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7a8db02769a45180c1a1f01035480612" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbab84e1f72243bfac6f44822bfb60de4" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>49545,13326,50589,15129,85567,70067,60679,2242,90941,96471,11601,32278,73979,78925,95414,60017,75668,55671,41772,86933,72966,97687,86338,53671,15053</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g1bb8378477b0c8857c8c491273f7ebf9</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the most logical adjective to complete each sentence.&lt;/p&gt;
+&lt;p&gt;1. Il est [RESPONSE1] que tu ailles à l'hôpital immédiatement. Tu es très malade.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Il est [RESPONSE2] de parler deux ou trois langues étrangères si vous voyagez beaucoup. C&lt;span&gt;e n’est pas obligatoire&lt;/span&gt;, certes, mais cela facilite beaucoup la communication.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. Il est [RESPONSE3] d’oublier cette femme. Elle était très charmante.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. Il est [RESPONSE4] que je soumette ma candidature en ligne et non par courrier. C’est le seul moyen de postuler pour cet emploi.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. Il est [RESPONSE5] que les élèves ne prennent pas de bonnes décisions.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="49545">
+                <material>
+                  <mattext texttype="text/plain">indispensable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="13326">
+                <material>
+                  <mattext texttype="text/plain">impossible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50589">
+                <material>
+                  <mattext texttype="text/plain">urgent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="15129">
+                <material>
+                  <mattext texttype="text/plain">dommage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85567">
+                <material>
+                  <mattext texttype="text/plain">utile</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70067">
+                <material>
+                  <mattext texttype="text/plain">indispensable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60679">
+                <material>
+                  <mattext texttype="text/plain">impossible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2242">
+                <material>
+                  <mattext texttype="text/plain">urgent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="90941">
+                <material>
+                  <mattext texttype="text/plain">dommage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96471">
+                <material>
+                  <mattext texttype="text/plain">utile</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11601">
+                <material>
+                  <mattext texttype="text/plain">indispensable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32278">
+                <material>
+                  <mattext texttype="text/plain">impossible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73979">
+                <material>
+                  <mattext texttype="text/plain">urgent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78925">
+                <material>
+                  <mattext texttype="text/plain">dommage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95414">
+                <material>
+                  <mattext texttype="text/plain">utile</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="60017">
+                <material>
+                  <mattext texttype="text/plain">indispensable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75668">
+                <material>
+                  <mattext texttype="text/plain">impossible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55671">
+                <material>
+                  <mattext texttype="text/plain">urgent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="41772">
+                <material>
+                  <mattext texttype="text/plain">dommage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86933">
+                <material>
+                  <mattext texttype="text/plain">utile</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="72966">
+                <material>
+                  <mattext texttype="text/plain">indispensable</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97687">
+                <material>
+                  <mattext texttype="text/plain">impossible</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86338">
+                <material>
+                  <mattext texttype="text/plain">urgent</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53671">
+                <material>
+                  <mattext texttype="text/plain">dommage</mattext>
+                </material>
+              </response_label>
+              <response_label ident="15053">
+                <material>
+                  <mattext texttype="text/plain">utile</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">50589</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">96471</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">32278</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">60017</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">53671</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

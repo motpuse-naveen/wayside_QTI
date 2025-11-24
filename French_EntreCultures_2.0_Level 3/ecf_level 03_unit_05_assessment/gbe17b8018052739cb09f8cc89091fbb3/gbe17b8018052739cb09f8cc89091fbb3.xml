@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbe17b8018052739cb09f8cc89091fbb3" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g5bb737bf909433313107f0cd52b480dc" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6211,70776,95892,60230,8010,74142,44696,37882,67956,32251</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g96bc02606de668107be46a2b1703392a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Read each statement and choose &lt;strong&gt;&lt;i&gt;oui&lt;/i&gt;&lt;/strong&gt; if it accurately describes the corresponding image. Choose &lt;strong&gt;&lt;i&gt;non&lt;/i&gt;&lt;/strong&gt; if it does not.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u5_ua_vq1_activity2_q1.jpg" alt="A man’s hand giving a document to a woman sitting on opposite side of desk with papers and a pen in front of her and a small Canadian flag on the desk"&gt;&lt;/p&gt;
+&lt;p&gt;Il fallait remplir un dossier pour la demande de nationalité.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u5_ua_vq1_activity2_q2.jpg" alt="young girl sitting praying with a rosary in her hand"&gt;&lt;/p&gt;
+&lt;p&gt;Amélie a renoncé à toutes ses valeurs religieuses.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u5_ua_vq1_activity2_q3.jpg" alt=" young boy smiling with closed eyes as he holds headphones close over his ears"&gt;&lt;/p&gt;
+&lt;p&gt;Se faire percer les oreilles est un choix personnel.&lt;/p&gt;
+[RESPONSE3]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u5_ua_vq1_activity2_q4.jpg" alt="young girl sitting on a chair in the corner with a clock above her. She is looking bad with sorrowful expression"&gt;&lt;/p&gt;
+&lt;p&gt;La mère laisse son enfant subir les conséquences de sa décision.&lt;/p&gt;
+[RESPONSE4]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u5_ua_vq1_activity2_q5.jpg" alt="person checking off items on a list virtually displayed screen. Other document icons are next to the list on the virtual screen."&gt;&lt;/p&gt;
+&lt;p&gt;Il y aura plusieurs critères qu’ils vont considérer quand vous soumettrez votre candidature.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6211">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70776">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="95892">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60230">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8010">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74142">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="44696">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37882">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="67956">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32251">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">6211</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">60230</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">74142</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">44696</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">67956</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
