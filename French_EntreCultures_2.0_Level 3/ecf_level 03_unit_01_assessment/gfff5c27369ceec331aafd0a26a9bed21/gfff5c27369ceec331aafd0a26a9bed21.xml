@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gfff5c27369ceec331aafd0a26a9bed21" title="Communiquons 1 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g2d499631cf0e2293708d5e29379a8e4b" title="matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>4170,4155,5247,4405,7269</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g9fe9008bb47bebcdf73a99fc8484f91c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the most appropriate ending from the sentence bank to complete each sentence fragment. &lt;br&gt;a. mais nous ne nous jugeons pas les uns les autres parce que nous sommes ouverts d’esprits.&lt;br&gt;b. alors je peux compter sur lui pour choisir un bon cadeau.&lt;br&gt;c. et c’est pour cela qu’ils sont dignes de confiance.&lt;br&gt;d. et je rigole tout le temps avec elles.&lt;br&gt;e. donc évidemment nous faisons partie des mêmes clubs.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_4170">
+            <material>
+              <mattext texttype="text/plain">Mes copines sont très drôles</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7922">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1055">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3567">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1476">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6777">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4155">
+            <material>
+              <mattext texttype="text/plain">Nous avons beaucoup d'intérêts en commun</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7922">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1055">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3567">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1476">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6777">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5247">
+            <material>
+              <mattext texttype="text/plain">Mes potes ne parlent jamais derrière mon dos</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7922">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1055">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3567">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1476">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6777">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4405">
+            <material>
+              <mattext texttype="text/plain">Nous sommes tous différents</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7922">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1055">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3567">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1476">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6777">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7269">
+            <material>
+              <mattext texttype="text/plain">Mon meilleur ami est très attentionné</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7922">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1055">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3567">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1476">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6777">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4170">7922</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4155">1055</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5247">3567</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4405">1476</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7269">6777</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

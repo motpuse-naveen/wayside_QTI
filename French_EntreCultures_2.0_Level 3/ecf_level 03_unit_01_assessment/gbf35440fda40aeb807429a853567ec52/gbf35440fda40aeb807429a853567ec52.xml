@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gbf35440fda40aeb807429a853567ec52" title="Unit Assessment - Grammar Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gfd14be28214bd2153b954466ebe2028e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>11867,70711,61440</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g00a4d458b8188a64060cb33535eab792</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the correct verb form to complete each sentence. &lt;/p&gt;
+           &lt;p&gt;1. Quand tu ____________ petite, tu _____________ parfois des dessins animés.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="11867">
+                <material>
+                  <mattext texttype="text/plain">étais ; as regardé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70711">
+                <material>
+                  <mattext texttype="text/plain">as été ; regardais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61440">
+                <material>
+                  <mattext texttype="text/plain">étais ; regardais</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">61440</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga52e1793b9ac953bbf73a2c0c514412b" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>88484,82043,3961</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g86b2a6fcae18e16ab9b72e1611f4b354</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. Nous ____________ hâte de sortir ce matin mais il ____________ à pleuvoir.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="88484">
+                <material>
+                  <mattext texttype="text/plain">avions ; a commencé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82043">
+                <material>
+                  <mattext texttype="text/plain">avons eu; commençait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3961">
+                <material>
+                  <mattext texttype="text/plain">avons eu; a commencé</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">88484</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g864d3fb56719689892782781df7556c6" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>29156,31217,87751</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>ge3b14f62f93c29e7542f20f9d61dd17d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. Amélie, est-ce que tu  ____________quand tu  ____________ ?&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="29156">
+                <material>
+                  <mattext texttype="text/plain">te faisais mal ; es tombé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31217">
+                <material>
+                  <mattext texttype="text/html">as fait mal;  tombais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87751">
+                <material>
+                  <mattext texttype="text/plain">t’es fait mal ; es tombée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">87751</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5d7554cd08478de41aa065cef20499ca" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>21648,24474,62021</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcb4bc24c7732ba65cb66d8d58b48940d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;4. Le jardinier ____________ le concours &lt;em&gt;(competition)&lt;/em&gt; deux fois mais il ____________ mal au coude.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="21648">
+                <material>
+                  <mattext texttype="text/plain">a gagné ; se faisait aussi</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24474">
+                <material>
+                  <mattext texttype="text/plain">a gagné ; s’est aussi fait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="62021">
+                <material>
+                  <mattext texttype="text/plain">gagnait; se faisait aussi</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">24474</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g9bfd231eaa661de5eccad6eb4ec0df6b" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>37690,67365,11851</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3925f3af4e48e64c425c736f7e1b98ef</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;5. À chaque rendez-vous chez le dentiste, Pascal ____________ la trouille et ____________ d’y aller.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="37690">
+                <material>
+                  <mattext texttype="text/plain">avait ; a refusé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67365">
+                <material>
+                  <mattext texttype="text/plain">avait ; refusait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11851">
+                <material>
+                  <mattext texttype="text/plain">a eu ; a refusé</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">67365</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

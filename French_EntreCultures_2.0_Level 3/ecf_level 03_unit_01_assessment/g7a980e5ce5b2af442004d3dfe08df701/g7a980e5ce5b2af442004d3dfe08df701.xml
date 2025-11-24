@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g7a980e5ce5b2af442004d3dfe08df701" title="Communiquons 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.1.3</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IH.2.3</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc1a07429bb373b22ab7f59ed2fffbd7d" title="matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5038,5475,2770,5891,9541</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2e5d54f705b98c8cbbc2bb7a3b86f008</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen as Samba describes the traits he looks for in a friend. Then, place the adjectives he uses in the order that you hear them.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;&lt;/p&gt;&lt;/div&gt;
+     &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit1_comunication-1_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
+                </mattext>
+          </material>
+          <response_lid ident="response_5038">
+            <material>
+              <mattext texttype="text/plain">1.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2399">
+                <material>
+                  <mattext>amical</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9910">
+                <material>
+                  <mattext>attentionné</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8800">
+                <material>
+                  <mattext>ouvert d’esprit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9925">
+                <material>
+                  <mattext>orgueilleux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6488">
+                <material>
+                  <mattext>drôle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5475">
+            <material>
+              <mattext texttype="text/plain">2.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2399">
+                <material>
+                  <mattext>amical</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9910">
+                <material>
+                  <mattext>attentionné</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8800">
+                <material>
+                  <mattext>ouvert d’esprit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9925">
+                <material>
+                  <mattext>orgueilleux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6488">
+                <material>
+                  <mattext>drôle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2770">
+            <material>
+              <mattext texttype="text/plain">3.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2399">
+                <material>
+                  <mattext>amical</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9910">
+                <material>
+                  <mattext>attentionné</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8800">
+                <material>
+                  <mattext>ouvert d’esprit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9925">
+                <material>
+                  <mattext>orgueilleux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6488">
+                <material>
+                  <mattext>drôle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5891">
+            <material>
+              <mattext texttype="text/plain">4.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2399">
+                <material>
+                  <mattext>amical</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9910">
+                <material>
+                  <mattext>attentionné</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8800">
+                <material>
+                  <mattext>ouvert d’esprit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9925">
+                <material>
+                  <mattext>orgueilleux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6488">
+                <material>
+                  <mattext>drôle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9541">
+            <material>
+              <mattext texttype="text/plain">5.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2399">
+                <material>
+                  <mattext>amical</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9910">
+                <material>
+                  <mattext>attentionné</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8800">
+                <material>
+                  <mattext>ouvert d’esprit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9925">
+                <material>
+                  <mattext>orgueilleux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6488">
+                <material>
+                  <mattext>drôle</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5038">2399</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5475">9910</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2770">8800</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5891">9925</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9541">6488</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

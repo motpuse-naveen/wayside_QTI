@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6bf13ea8bf3d4661c09c5f119da48ab0" title="Communiquons 3 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.IH.5.4</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g8460efe92a1142306352262108703238" title="Write an essay">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6dfa08c432e5831a3313aa90f8e10463</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Awa, Camara, and Khadi talk about working. Read their conversation and respond to each question in a complete sentence. Copy and paste these special characters whenever you need them for your answers.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;&amp;nbsp;à&amp;nbsp;&amp;nbsp;&amp;nbsp;ç&amp;nbsp;&amp;nbsp;&amp;nbsp;é&amp;nbsp;&amp;nbsp;&amp;nbsp;è&amp;nbsp;&amp;nbsp;&amp;nbsp;ê&amp;nbsp;&amp;nbsp;&amp;nbsp;ë&amp;nbsp;&amp;nbsp;&amp;nbsp;œ&amp;nbsp;&amp;nbsp;&amp;nbsp;î&amp;nbsp;&amp;nbsp;&amp;nbsp;ô&amp;nbsp;&amp;nbsp;&amp;nbsp;û&amp;nbsp;&amp;nbsp;&amp;nbsp;ù&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Awa :&lt;/strong&gt; Ça fait trois semaines que je cherche un job. J’ai postulé dans cinq magasins en ville, mais je n’ai pas encore trouvé de travail. Je veux être caissière parce que j’aime parler aux clients et je peux ainsi gagner de l’argent de poche, Et, peut-être que ça va m’aider à avoir plus de confiance en moi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Camara :&lt;/strong&gt; J’ai déjà travaillé comme jardinier l’été dernier. J'étais tout le temps fatigué, mais j’ ai beaucoup appris, notamment à avoir l'esprit d'équipe quand nous faisions du jardinage ensemble. Je suis devenu plus autonome et j’ai pris mes finances en main. Maintenant, j’ai assez d’argent pour prendre des cours de conduite à l’auto-école et préparer mon permis de conduire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Khadi :&lt;/strong&gt; Je comprends, Camara. Moi aussi, je veux devenir indépendante. L’année dernière, j’ai travaillé comme tutrice de cours de français en ligne. J’ai gagné un peu d’argent, et ça m’a aidée à avoir une bonne estime de moi parce que les élèves m’ont beaucoup appréciée. J’ai vraiment appris comment me valoriser dans ce travail. Ne t’en fais pas, Awa, tu vas trouver un job.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="quiz-header"&gt;
+&lt;p&gt;1. Pourquoi Awa veut être caissière ?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="ga00fa7b44bcfdc7f527ca1137e8fa4a2" title="Write an essay">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbbf493c21b749940c192f6bf050bd621</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. Pour quelles raisons est-ce que son job de jardinier a été une bonne expérience pour Camara ?&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g30fbdb7a82141410f28ffb068ad9fc31" title="Write an essay">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3046e6f95786293c2e9b0bc3c0e3dd95</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. Quel sera le nouveau projet de Camara ?&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gfe4417ef239be8f6682d7be5fd60d74c" title="Write an essay">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g814f4b5260321f953a374fb7e0e111eb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. À part l’argent qu’elle a gagné, quels autres avantages est-ce qu’il y avait pour Khadi dans  son job de tutrice en ligne ?&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g1fc5d225442bf2039b5465b6904a8d10" title="Write an essay">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>essay_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry></fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6f2ac878520cb35eff72ee0e01d0c69a</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. Quel objectif ont Camara et Khadi en commun en choisissant leurs jobs ?&lt;/div&gt;</mattext>
+          </material>
+          <response_str ident="response1" rcardinality="Single">
+            <render_fib>
+              <response_label ident="answer1" rshuffle="No"/>
+            </render_fib>
+          </response_str>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <other/>
+            </conditionvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
