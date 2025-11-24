@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ge1509a04975a87d1139c4a5940f43fd8" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code8</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code9</fieldlabel>
+              <fieldentry>MA.K12.MTR.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g0c84b875268fd6bffebf7e18f551e9c3" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>3699,9889,7432,2280,5353</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g16b5e8fa456d1cfc4cd74be7c548032f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;&lt;span&gt;Match the beginning of each sentence with its logical ending.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_3699">
+            <material>
+              <mattext texttype="text/plain">1. Il est triste</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1541">
+                <material>
+                  <mattext>de voir la destruction de ce lieu culturel tellement important.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="404">
+                <material>
+                  <mattext>que tu secoues ton public un peu trop avec l’intrigue de ton roman.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1016">
+                <material>
+                  <mattext>d’assister au concert de Zaz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8500">
+                <material>
+                  <mattext>fabriquer de petites sculptures pour donner au public à l'exposition.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4462">
+                <material>
+                  <mattext>dévoiler ta nouvelle œuvre dans ce bâtiment historique ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9889">
+            <material>
+              <mattext texttype="text/plain">2. J’ai peur</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1541">
+                <material>
+                  <mattext>de voir la destruction de ce lieu culturel tellement important.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="404">
+                <material>
+                  <mattext>que tu secoues ton public un peu trop avec l’intrigue de ton roman.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1016">
+                <material>
+                  <mattext>d’assister au concert de Zaz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8500">
+                <material>
+                  <mattext>fabriquer de petites sculptures pour donner au public à l'exposition.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4462">
+                <material>
+                  <mattext>dévoiler ta nouvelle œuvre dans ce bâtiment historique ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7432">
+            <material>
+              <mattext texttype="text/plain">3. Les jeunes et les adultes sont ravis</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1541">
+                <material>
+                  <mattext>de voir la destruction de ce lieu culturel tellement important.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="404">
+                <material>
+                  <mattext>que tu secoues ton public un peu trop avec l’intrigue de ton roman.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1016">
+                <material>
+                  <mattext>d’assister au concert de Zaz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8500">
+                <material>
+                  <mattext>fabriquer de petites sculptures pour donner au public à l'exposition.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4462">
+                <material>
+                  <mattext>dévoiler ta nouvelle œuvre dans ce bâtiment historique ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2280">
+            <material>
+              <mattext texttype="text/plain">4. Les bénévoles désirent</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1541">
+                <material>
+                  <mattext>de voir la destruction de ce lieu culturel tellement important.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="404">
+                <material>
+                  <mattext>que tu secoues ton public un peu trop avec l’intrigue de ton roman.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1016">
+                <material>
+                  <mattext>d’assister au concert de Zaz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8500">
+                <material>
+                  <mattext>fabriquer de petites sculptures pour donner au public à l'exposition.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4462">
+                <material>
+                  <mattext>dévoiler ta nouvelle œuvre dans ce bâtiment historique ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5353">
+            <material>
+              <mattext texttype="text/plain">5. Tu préfères</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="1541">
+                <material>
+                  <mattext>de voir la destruction de ce lieu culturel tellement important.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="404">
+                <material>
+                  <mattext>que tu secoues ton public un peu trop avec l’intrigue de ton roman.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1016">
+                <material>
+                  <mattext>d’assister au concert de Zaz.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8500">
+                <material>
+                  <mattext>fabriquer de petites sculptures pour donner au public à l'exposition.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4462">
+                <material>
+                  <mattext>dévoiler ta nouvelle œuvre dans ce bâtiment historique ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3699">1541</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9889">404</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7432">1016</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2280">8500</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5353">4462</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

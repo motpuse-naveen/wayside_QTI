@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gdf62063cf93f146bcf9063f278ffa1d2" title="Communiquons 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Cultures</fieldlabel>
+              <fieldentry>Products</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc0402d1f606acd11c6e06171f2375d4e" title="Matching">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8468,7819,8818,8037,2786</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g29aca1f4ae7b7dd3baf2dbcc19e078f3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the image that corresponds to each statement.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u6_vgq_vq1_activity1_q1.jpg" alt="Sidewalk stalls displaying various reading materials and posters" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u6_vgq_vq1_activity1_q2.jpg" alt="Theater auditorium and stage with a theater set" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u6_vgq_vq1_activity1_q3.jpg" alt="Large green stone abstract sculpture in an open field" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u6_vgq_vq1_activity1_q4.jpg" alt="People comparing sketch drawings at a table with a sewing machine, a mannequin and clothing hanging up in the background" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;e. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u6_vgq_vq1_activity1_q5.jpg" alt="Vincent Van Gogh’s self-portrait painting hanging on a wall in a gold frame" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8468">
+            <material>
+              <mattext texttype="text/plain">1. Il faut sans doute une grande quantité de matière brute pour réaliser une sculpture d’une taille aussi impressionnante.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4145">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2708">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3810">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4900">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7819">
+            <material>
+              <mattext texttype="text/plain">2. Ma famille a acheté des billets pour la comédie musicale au Palais Garnier parce que mon cousin y joue le rôle du personnage principal. J’espère qu’il y aura beaucoup de spectateurs.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4145">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2708">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3810">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4900">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8818">
+            <material>
+              <mattext texttype="text/plain">3. Quand tu seras à Paris, tu dois absolument me trouver une bande dessinée chez les bouquinistes qui vendent des romans et de la poésie classique.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4145">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2708">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3810">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4900">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8037">
+            <material>
+              <mattext texttype="text/plain">4. Les sentiments et les pensées d’un ou d’une peintre sont parfois visibles dans son œuvre.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4145">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2708">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3810">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4900">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2786">
+            <material>
+              <mattext texttype="text/plain">5. Les étudiants en stylisme et en architecture peuvent également trouver un emploi dans les arts de la scène et les arts visuels.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4145">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2708">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3810">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4900">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2804">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8468">4145</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7819">2708</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8818">3810</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8037">4900</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2786">2804</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
