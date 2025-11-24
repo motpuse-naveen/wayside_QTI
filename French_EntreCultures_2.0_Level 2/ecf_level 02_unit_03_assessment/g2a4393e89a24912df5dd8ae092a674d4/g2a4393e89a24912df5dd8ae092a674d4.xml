@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2a4393e89a24912df5dd8ae092a674d4" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.1.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g7b8364b6033790d0041515edeaf769b6" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>171,3039,9547,3549,8745</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb4ba9870366746ea10468ab438f7fac4</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen as various students talk about their volunteer work. Then select the appropriate location for each activity.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_171">
+            <material>
+              <mattext texttype="text/html">1. Isabelle &lt;br&gt;&lt;br&gt;&lt;div style="margin-left: -4px; width: 100%; margin-top: -11px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit3_Communiquons 3_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;             
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4677">
+                <material>
+                  <mattext>la banque alimentaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3987">
+                <material>
+                  <mattext>le refuge pour sans-abris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6994">
+                <material>
+                  <mattext>le refuge pour animaux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4343">
+                <material>
+                  <mattext>le jardin communautaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2809">
+                <material>
+                  <mattext>la garderie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3039">
+            <material>
+              <mattext texttype="text/html">2. Kader &lt;br&gt;&lt;br&gt;&lt;div style="margin-left: -4px; width: 100%; margin-top: -11px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit3_Communiquons 3_ac1_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;             
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4677">
+                <material>
+                  <mattext>la banque alimentaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3987">
+                <material>
+                  <mattext>le refuge pour sans-abris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6994">
+                <material>
+                  <mattext>le refuge pour animaux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4343">
+                <material>
+                  <mattext>le jardin communautaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2809">
+                <material>
+                  <mattext>la garderie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9547">
+            <material>
+              <mattext texttype="text/html">3. Brigitte  &lt;br&gt;&lt;br&gt;&lt;div style="margin-left: -4px; width: 100%; margin-top: -11px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit3_Communiquons 3_ac1_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;             
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4677">
+                <material>
+                  <mattext>la banque alimentaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3987">
+                <material>
+                  <mattext>le refuge pour sans-abris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6994">
+                <material>
+                  <mattext>le refuge pour animaux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4343">
+                <material>
+                  <mattext>le jardin communautaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2809">
+                <material>
+                  <mattext>la garderie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3549">
+            <material>
+              <mattext texttype="text/html">4. Jean-Paul &lt;br&gt;&lt;br&gt;&lt;div style="margin-left: -4px; width: 100%; margin-top: -11px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit3_Communiquons 3_ac1_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;             
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4677">
+                <material>
+                  <mattext>la banque alimentaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3987">
+                <material>
+                  <mattext>le refuge pour sans-abris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6994">
+                <material>
+                  <mattext>le refuge pour animaux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4343">
+                <material>
+                  <mattext>le jardin communautaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2809">
+                <material>
+                  <mattext>la garderie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8745">
+            <material>
+              <mattext texttype="text/html">5. Florence &lt;br&gt;&lt;br&gt;&lt;div style="margin-left: -4px; width: 100%; margin-top: -11px;"&gt;
+                   &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
+                          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit2_ac1_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                             &lt;/audio&gt;&lt;/div&gt;
+                &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit3_Communiquons 3_ac1_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;             
+                             </mattext>
+            </material>
+            <render_choice>
+              <response_label ident="4677">
+                <material>
+                  <mattext>la banque alimentaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3987">
+                <material>
+                  <mattext>le refuge pour sans-abris</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6994">
+                <material>
+                  <mattext>le refuge pour animaux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4343">
+                <material>
+                  <mattext>le jardin communautaire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2809">
+                <material>
+                  <mattext>la garderie</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_171">4677</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3039">3987</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9547">6994</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3549">4343</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8745">2809</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga420130cf06fcfb9259dd716d0f8763c" title="Communiquons 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.IL.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ge57a46705ea148b2a92d0c0226143cb1" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9508,31918,239,93457,58918,89761,22381,46923,43024,282,89817,18982,50273,34952,79401,11198,40669,89719,27307,32769,96430,7029,67,54805,6390</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g052941e981e0b7a18d4a520af4640b67</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Ana and Myriam talk about their service projects. Complete their conversation by selecting the appropriate term to fill in each blank.&lt;/p&gt;
+&lt;p&gt;Ana : Alors, Myriam, [RESPONSE1] tu veux faire pour ton projet de service ?&lt;/p&gt;
+&lt;p&gt;Myriam : Je ne sais pas. Et toi, [RESPONSE2] idées as-tu ?&lt;/p&gt;
+&lt;p&gt;Ana : Tu peux aider à construire des maisons pour les nouveaux citoyens qui viennent d’arriver dans notre communauté.&lt;/p&gt;
+&lt;p&gt;Myriam : Comment, [RESPONSE3] nouveaux citoyens ? Ah, tu parles de Joseph et sa famille ?&lt;/p&gt;
+&lt;p&gt;Ana : Oui, bien sûr. Il y avait une réunion pour les accueillir la semaine dernière. Euh, [RESPONSE4] je peux faire pour contribuer au projet ?&lt;/p&gt;
+&lt;p&gt;Myriam : Tu peux planter des arbres dans leur jardin.&lt;/p&gt;
+&lt;p&gt;Ana : Planter [RESPONSE5] arbres ? Des sapins ? Ah, oui, c’est vrai, il faut faire beaucoup de jardinage.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9508">
+                <material>
+                  <mattext texttype="text/plain">quel</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31918">
+                <material>
+                  <mattext texttype="text/plain">quelle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="239">
+                <material>
+                  <mattext texttype="text/plain">quels</mattext>
+                </material>
+              </response_label>
+              <response_label ident="93457">
+                <material>
+                  <mattext texttype="text/plain">quelles</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58918">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89761">
+                <material>
+                  <mattext texttype="text/plain">quel</mattext>
+                </material>
+              </response_label>
+              <response_label ident="22381">
+                <material>
+                  <mattext texttype="text/plain">quelle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46923">
+                <material>
+                  <mattext texttype="text/plain">quels</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43024">
+                <material>
+                  <mattext texttype="text/plain">quelles</mattext>
+                </material>
+              </response_label>
+              <response_label ident="282">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89817">
+                <material>
+                  <mattext texttype="text/plain">quel</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18982">
+                <material>
+                  <mattext texttype="text/plain">quelle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="50273">
+                <material>
+                  <mattext texttype="text/plain">quels</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34952">
+                <material>
+                  <mattext texttype="text/plain">quelles</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79401">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="11198">
+                <material>
+                  <mattext texttype="text/plain">quel</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40669">
+                <material>
+                  <mattext texttype="text/plain">quelle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89719">
+                <material>
+                  <mattext texttype="text/plain">quels</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27307">
+                <material>
+                  <mattext texttype="text/plain">quelles</mattext>
+                </material>
+              </response_label>
+              <response_label ident="32769">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96430">
+                <material>
+                  <mattext texttype="text/plain">quel</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7029">
+                <material>
+                  <mattext texttype="text/plain">quelle</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67">
+                <material>
+                  <mattext texttype="text/plain">quels</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54805">
+                <material>
+                  <mattext texttype="text/plain">quelles</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6390">
+                <material>
+                  <mattext texttype="text/plain">qu’est-ce que</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">58918</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">43024</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">50273</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">32769</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">67</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

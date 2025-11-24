@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g98d5815bf06c49db3346200f2188ac62" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g3665c34c1f0718230e580d0e8d52dccc" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>7669,5011,7508,2675,2516</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gcc3bb8365f67acc2c82988593dbc8b7c</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each activity described with the appropriate image.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_7669">
+            <material>
+              <mattext texttype="text/html">1. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u3_ua_vq_activity2_q1.jpg" alt="A teenage boy crouched down next to the stroller of a younger boy with physical disabilities." style="width: 80%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7523">
+                <material>
+                  <mattext>Pendant les vacances d'été, Michel gardait son petit frère.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5547">
+                <material>
+                  <mattext>Pour contribuer à l'avenir, je choisis de sortir la poubelle de recyclage de notre bureau.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3636">
+                <material>
+                  <mattext>À son travail, grand-père triait et distribuait le courrier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1472">
+                <material>
+                  <mattext>La tâche ménagère d’Amina est de faire tous les lits avec son père.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5270">
+                <material>
+                  <mattext>Simon fait des dons hebdomadaires à sa fondation préférée.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_5011">
+            <material>
+              <mattext texttype="text/html">2. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u3_ua_vq_activity2_q2.jpg" alt="A person removing a full garbage bag from a green recycling bin." style="width: 80%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7523">
+                <material>
+                  <mattext>Pendant les vacances d'été, Michel gardait son petit frère.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5547">
+                <material>
+                  <mattext>Pour contribuer à l'avenir, je choisis de sortir la poubelle de recyclage de notre bureau.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3636">
+                <material>
+                  <mattext>À son travail, grand-père triait et distribuait le courrier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1472">
+                <material>
+                  <mattext>La tâche ménagère d’Amina est de faire tous les lits avec son père.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5270">
+                <material>
+                  <mattext>Simon fait des dons hebdomadaires à sa fondation préférée.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7508">
+            <material>
+              <mattext texttype="text/html">3. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u3_ua_vq_activity2_q3.jpg" alt="A hand placing mail into office mailbox slots." style="width: 80%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7523">
+                <material>
+                  <mattext>Pendant les vacances d'été, Michel gardait son petit frère.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5547">
+                <material>
+                  <mattext>Pour contribuer à l'avenir, je choisis de sortir la poubelle de recyclage de notre bureau.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3636">
+                <material>
+                  <mattext>À son travail, grand-père triait et distribuait le courrier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1472">
+                <material>
+                  <mattext>La tâche ménagère d’Amina est de faire tous les lits avec son père.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5270">
+                <material>
+                  <mattext>Simon fait des dons hebdomadaires à sa fondation préférée.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2675">
+            <material>
+              <mattext texttype="text/html">4. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u3_ua_vq_activity2_q4.jpg" alt="A father and daughter making up a bed." style="width: 80%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7523">
+                <material>
+                  <mattext>Pendant les vacances d'été, Michel gardait son petit frère.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5547">
+                <material>
+                  <mattext>Pour contribuer à l'avenir, je choisis de sortir la poubelle de recyclage de notre bureau.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3636">
+                <material>
+                  <mattext>À son travail, grand-père triait et distribuait le courrier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1472">
+                <material>
+                  <mattext>La tâche ménagère d’Amina est de faire tous les lits avec son père.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5270">
+                <material>
+                  <mattext>Simon fait des dons hebdomadaires à sa fondation préférée.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2516">
+            <material>
+              <mattext texttype="text/html">5. &lt;img src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u3_ua_vq_activity2_q5.jpg" alt="A hand placing a hundred euro note into a clear box full of more euro notes." style="width: 80%; border: 1px solid #808080;"&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="7523">
+                <material>
+                  <mattext>Pendant les vacances d'été, Michel gardait son petit frère.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5547">
+                <material>
+                  <mattext>Pour contribuer à l'avenir, je choisis de sortir la poubelle de recyclage de notre bureau.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3636">
+                <material>
+                  <mattext>À son travail, grand-père triait et distribuait le courrier.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1472">
+                <material>
+                  <mattext>La tâche ménagère d’Amina est de faire tous les lits avec son père.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5270">
+                <material>
+                  <mattext>Simon fait des dons hebdomadaires à sa fondation préférée.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7669">7523</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5011">5547</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7508">3636</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2675">1472</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2516">5270</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

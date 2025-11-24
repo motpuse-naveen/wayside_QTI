@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0905645244e5a2aac2e73ecfe63cf288" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IL.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IL.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1ec5be094386bf11ee8520706a292112" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>14134,47723,61692,83621,54738,64672,52952,92161,77877,42069,52019,88403,89527,1196,58251</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g152e75351f6b7795734fcc862f0cf994</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the correct relative pronoun (&lt;em&gt;&lt;strong&gt;qui, que&lt;/strong&gt;&lt;/em&gt; or &lt;em&gt;&lt;strong&gt;où&lt;/strong&gt;&lt;/em&gt;) to join these two clauses to make a complex sentence.&lt;/p&gt;
+&lt;p&gt;1. C'est André [RESPONSE1] arrose les plantes tous les jours.&lt;/p&gt;
+&lt;p&gt;2. Le jardin [RESPONSE2] nous plantons les fleurs est très joli.&lt;/p&gt;
+&lt;p&gt;3. La fondation [RESPONSE3] vous gérez est très bien organisée.&lt;/p&gt;
+&lt;p&gt;4. La tâche ménagère [RESPONSE4] je préférais était de passer l'aspirateur.&lt;/p&gt;
+&lt;p&gt;5. Je dois aussi aller au foyer de soins le jour [RESPONSE5] nous donnons du sang.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="14134">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="47723">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="61692">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="83621">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54738">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64672">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="52952">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92161">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77877">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="42069">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="52019">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88403">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89527">
+                <material>
+                  <mattext texttype="text/plain">qui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1196">
+                <material>
+                  <mattext texttype="text/plain">que</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58251">
+                <material>
+                  <mattext texttype="text/plain">où</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">14134</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">64672</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">92161</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">52019</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">58251</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
