@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ged410ad5839bb35c77acfc509e0ac253" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g491bd5658e895b1db6a8635162f80a23" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>6723,1838,3666,1431,6511</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g7982b45cb0b566f48cf3168b225491f3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the most logical response or continuation for each question or sentence fragment.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_6723">
+            <material>
+              <mattext texttype="text/plain">1. Dis Papi, comment tu faisais avant pour commander des choses en ligne ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3980">
+                <material>
+                  <mattext>ce n’était pas possible. Il fallait aller dans un vrai magasin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5531">
+                <material>
+                  <mattext>nous nous servons d’une clé USB afin de sauvegarder nos fichiers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9005">
+                <material>
+                  <mattext>rester en contact avec nos amis et notre famille ou écouter de la musique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1093">
+                <material>
+                  <mattext>et aussi de faire des vidéoconférences avec des invités pour mon blog.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8347">
+                <material>
+                  <mattext>nous communiquons plus facilement et nous leur envoyons des photos de nos activités.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1838">
+            <material>
+              <mattext texttype="text/plain">2. Comme nous partageons les ordinateurs en classe,</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3980">
+                <material>
+                  <mattext>ce n’était pas possible. Il fallait aller dans un vrai magasin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5531">
+                <material>
+                  <mattext>nous nous servons d’une clé USB afin de sauvegarder nos fichiers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9005">
+                <material>
+                  <mattext>rester en contact avec nos amis et notre famille ou écouter de la musique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1093">
+                <material>
+                  <mattext>et aussi de faire des vidéoconférences avec des invités pour mon blog.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8347">
+                <material>
+                  <mattext>nous communiquons plus facilement et nous leur envoyons des photos de nos activités.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3666">
+            <material>
+              <mattext texttype="text/plain">3. Nous nous servons de notre smartphone pour</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3980">
+                <material>
+                  <mattext>ce n’était pas possible. Il fallait aller dans un vrai magasin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5531">
+                <material>
+                  <mattext>nous nous servons d’une clé USB afin de sauvegarder nos fichiers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9005">
+                <material>
+                  <mattext>rester en contact avec nos amis et notre famille ou écouter de la musique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1093">
+                <material>
+                  <mattext>et aussi de faire des vidéoconférences avec des invités pour mon blog.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8347">
+                <material>
+                  <mattext>nous communiquons plus facilement et nous leur envoyons des photos de nos activités.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1431">
+            <material>
+              <mattext texttype="text/plain">4. Mon portable me permet de visionner des émissions intéressantes</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3980">
+                <material>
+                  <mattext>ce n’était pas possible. Il fallait aller dans un vrai magasin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5531">
+                <material>
+                  <mattext>nous nous servons d’une clé USB afin de sauvegarder nos fichiers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9005">
+                <material>
+                  <mattext>rester en contact avec nos amis et notre famille ou écouter de la musique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1093">
+                <material>
+                  <mattext>et aussi de faire des vidéoconférences avec des invités pour mon blog.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8347">
+                <material>
+                  <mattext>nous communiquons plus facilement et nous leur envoyons des photos de nos activités.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6511">
+            <material>
+              <mattext texttype="text/plain">5. Depuis que mes grands-parents ont une nouvelle tablette,</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="3980">
+                <material>
+                  <mattext>ce n’était pas possible. Il fallait aller dans un vrai magasin.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5531">
+                <material>
+                  <mattext>nous nous servons d’une clé USB afin de sauvegarder nos fichiers.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9005">
+                <material>
+                  <mattext>rester en contact avec nos amis et notre famille ou écouter de la musique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1093">
+                <material>
+                  <mattext>et aussi de faire des vidéoconférences avec des invités pour mon blog.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8347">
+                <material>
+                  <mattext>nous communiquons plus facilement et nous leur envoyons des photos de nos activités.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6723">3980</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1838">5531</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3666">9005</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1431">1093</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6511">8347</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

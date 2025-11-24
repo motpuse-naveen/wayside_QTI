@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g94fa372d0e2f3deaf7068823a8547ecf" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gf74f8b979c9e19570c9e3fb880f11b00" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>80555,80285,76954,15443,82497,34112,19274,97384,926</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g91879e43d4a6fd1d854ef8f753830a3d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Unscramble the elements provided to write a complete sentence. Copy and paste the special character whenever you need it for your answers.&lt;/p&gt;
+&lt;p style="border: 1px solid black; display: ruby-text; text-align: center; padding: 5px;"&gt;À&amp;nbsp; &amp;nbsp; &amp;nbsp;à&amp;nbsp; &amp;nbsp; &amp;nbsp;é&amp;nbsp; &amp;nbsp; &amp;nbsp;è&amp;nbsp; &amp;nbsp; &amp;nbsp;ç&lt;/p&gt;
+&lt;p&gt;1. si / pour faire / un smartphone, / nous en / des photos / nous avions / nous / servirions&lt;/p&gt;
+&lt;p&gt;[RESPONSE].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. les informations / à votre place, / prudente / avec / sur / je serais / Internet /&lt;/p&gt;
+&lt;p&gt;[RESPONSE1].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. un site / créer / vendre / je / mes articles d’artisanat / pourrais / en ligne / afin de&lt;/p&gt;
+&lt;p&gt;[RESPONSE2].&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. riche / -tu / que / étais / ferais / si / tu / très&lt;/p&gt;
+&lt;p&gt;[RESPONSE3] ?&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. visionner / pourrait / ce soir, / si ça / dit / des films / vous / on&lt;/p&gt;
+&lt;p&gt;[RESPONSE4] !&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="80555">
+                <material>
+                  <mattext texttype="text/plain">Si nous avions un smartphone, nous nous en servirions pour faire des photos</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="80285">
+                <material>
+                  <mattext texttype="text/plain">À votre place, je serais prudente avec les informations sur Internet</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76954">
+                <material>
+                  <mattext texttype="text/plain">Je serais prudente avec les informations sur Internet, à votre place</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="15443">
+                <material>
+                  <mattext texttype="text/plain">Je pourrais créer un site afin de vendre mes articles d’artisanat en ligne</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82497">
+                <material>
+                  <mattext texttype="text/plain">Je pourrais créer un site en ligne afin de vendre mes articles d’artisanat</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="34112">
+                <material>
+                  <mattext texttype="text/plain">Que ferais-tu si tu étais très riche</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19274">
+                <material>
+                  <mattext texttype="text/plain">Si tu étais très riche, que ferais-tu ?</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="97384">
+                <material>
+                  <mattext texttype="text/plain">On pourrait visionner des films ce soir, si ça vous dit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="926">
+                <material>
+                  <mattext texttype="text/plain">Si ça vous dit on pourrait visionner des films ce soir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">80555</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">80285</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">15443</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">34112</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">97384</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

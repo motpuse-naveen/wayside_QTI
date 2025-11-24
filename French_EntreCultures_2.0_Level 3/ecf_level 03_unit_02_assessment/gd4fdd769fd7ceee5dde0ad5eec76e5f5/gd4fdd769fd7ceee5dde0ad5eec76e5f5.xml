@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gd4fdd769fd7ceee5dde0ad5eec76e5f5" title="Communiquons 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g98139c6898a6a35541922b0281cb61b1" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>60291,76487,79916,12378,54247,15400,77135,43874,86465,96254,66190,98081,73281,67889,31704,15035,7694,33702,82722,19245,14780,87288,48245,38281,85781</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gdc99ccf2cf92f42b671cf33549087131</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Fill in the blank with the correct verb ending for each sentence.&lt;/p&gt;
+&lt;p&gt;1. À ta place, je ne parler [RESPONSE1] pas de ma vie privée en ligne.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Jade et sa prof de français pourr [RESPONSE2] peut-être faire leur cours en visioconférence.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. Qu’est-ce vous proposer [RESPONSE3] comme appli de transports ?&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. Une tablette lui donner [RESPONSE4] le moyen de rechercher des informations sur Internet.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. Sur ton nouveau site, tu voudr [RESPONSE5] parler de la cuisine créole pour montrer la richesse de nos plats.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="60291">
+                <material>
+                  <mattext texttype="text/plain">ais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76487">
+                <material>
+                  <mattext texttype="text/plain">ait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79916">
+                <material>
+                  <mattext texttype="text/plain">ions</mattext>
+                </material>
+              </response_label>
+              <response_label ident="12378">
+                <material>
+                  <mattext texttype="text/plain">iez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54247">
+                <material>
+                  <mattext texttype="text/plain">aient</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="15400">
+                <material>
+                  <mattext texttype="text/plain">ais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="77135">
+                <material>
+                  <mattext texttype="text/plain">ait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43874">
+                <material>
+                  <mattext texttype="text/plain">ions</mattext>
+                </material>
+              </response_label>
+              <response_label ident="86465">
+                <material>
+                  <mattext texttype="text/plain">iez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96254">
+                <material>
+                  <mattext texttype="text/plain">aient</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="66190">
+                <material>
+                  <mattext texttype="text/plain">ais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98081">
+                <material>
+                  <mattext texttype="text/plain">ait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="73281">
+                <material>
+                  <mattext texttype="text/plain">ions</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67889">
+                <material>
+                  <mattext texttype="text/plain">iez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="31704">
+                <material>
+                  <mattext texttype="text/plain">aient</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="15035">
+                <material>
+                  <mattext texttype="text/plain">ais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7694">
+                <material>
+                  <mattext texttype="text/plain">ait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="33702">
+                <material>
+                  <mattext texttype="text/plain">ions</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82722">
+                <material>
+                  <mattext texttype="text/plain">iez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19245">
+                <material>
+                  <mattext texttype="text/plain">aient</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="14780">
+                <material>
+                  <mattext texttype="text/plain">ais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87288">
+                <material>
+                  <mattext texttype="text/plain">ait</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48245">
+                <material>
+                  <mattext texttype="text/plain">ions</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38281">
+                <material>
+                  <mattext texttype="text/plain">iez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85781">
+                <material>
+                  <mattext texttype="text/plain">aient</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">60291</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">96254</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">67889</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">7694</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">14780</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g247263e188e8942f654fa70bdd3c32bc" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IH.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1762f8b2588b0b111dad158b95e33612" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>40222,89104,18809,30160,67440,27159,996,85480,74610,79808,55507,66588,21942,65327,19870,51213,68333,42764,76309,76468,80274,10555,76186,58229,76248</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g4e76ca7f6c6146d4088ee047fc155e98</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Joly has written a piece on plagiarism for the school newsletter. Read what she’s written and fill in each blank with the vocabulary word that best completes the sentence.&lt;/p&gt;
+&lt;p&gt;Pour ce bulletin hebdomadaire, je vais vous parler du plagiat. Qu’est-ce que c’est ? Imaginez que vous devez préparer une présentation sur les sites historiques de notre beau pays. Vous [RESPONSE1] Internet et vous trouvez beaucoup d’informations et également de très belles photos. Vous décidez de copier et coller ces informations dans votre présentation sans mentionner l’auteur. Vous n’en avez pas [RESPONSE2]. C’est du plagiat, c’est [RESPONSE3] par des amendes ou pire (dans notre lycée, par l’interdiction de se présenter aux examens !). [RESPONSE4], je ferais des recherches sur plusieurs sites, je ferais un résumé avec mes propres mots et je noterais la source ou le nom de l’auteur sous toutes les photos que j’utilise. Allez, [RESPONSE5] -vous en bon citoyen numérique et ne faites plus de plagiat !&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="40222">
+                <material>
+                  <mattext texttype="text/plain">le droit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89104">
+                <material>
+                  <mattext texttype="text/plain">consultez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18809">
+                <material>
+                  <mattext texttype="text/plain">à votre place</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30160">
+                <material>
+                  <mattext texttype="text/plain">puni</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67440">
+                <material>
+                  <mattext texttype="text/plain">comportez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="27159">
+                <material>
+                  <mattext texttype="text/plain">le droit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="996">
+                <material>
+                  <mattext texttype="text/plain">consultez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="85480">
+                <material>
+                  <mattext texttype="text/plain">à votre place</mattext>
+                </material>
+              </response_label>
+              <response_label ident="74610">
+                <material>
+                  <mattext texttype="text/plain">puni</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79808">
+                <material>
+                  <mattext texttype="text/plain">comportez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="55507">
+                <material>
+                  <mattext texttype="text/plain">le droit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66588">
+                <material>
+                  <mattext texttype="text/plain">consultez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="21942">
+                <material>
+                  <mattext texttype="text/plain">à votre place</mattext>
+                </material>
+              </response_label>
+              <response_label ident="65327">
+                <material>
+                  <mattext texttype="text/plain">puni</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19870">
+                <material>
+                  <mattext texttype="text/plain">comportez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="51213">
+                <material>
+                  <mattext texttype="text/plain">le droit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68333">
+                <material>
+                  <mattext texttype="text/plain">consultez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="42764">
+                <material>
+                  <mattext texttype="text/plain">à votre place</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76309">
+                <material>
+                  <mattext texttype="text/plain">puni</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76468">
+                <material>
+                  <mattext texttype="text/plain">comportez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="80274">
+                <material>
+                  <mattext texttype="text/plain">le droit</mattext>
+                </material>
+              </response_label>
+              <response_label ident="10555">
+                <material>
+                  <mattext texttype="text/plain">consultez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76186">
+                <material>
+                  <mattext texttype="text/plain">à votre place</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58229">
+                <material>
+                  <mattext texttype="text/plain">puni</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76248">
+                <material>
+                  <mattext texttype="text/plain">comportez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">89104</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">27159</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">65327</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">42764</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">76248</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

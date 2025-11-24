@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="geb780a8a3da440e5d17e5d918308b2cf" title="Communiquons 1 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gc28e4bfbaffdaa269953d15307143f64" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>78302,63380,49939,59833,67761,38184,12352,40841,7571,92954,41150,12272,72029,36485,75376,58717,69190,57421,31545,83715,97271,96870,63850,91758,90984,72023,18119,24763,94806,2029</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g8b1b777d78dc23b07cd57b4ec4ea1723</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Fill in the blank with the most appropriate object pronoun to complete each sentence.&lt;/p&gt;
+&lt;p&gt;1. Depuis une semaine, nous travaillons sur des ordinateurs et des tablettes. On [RESPONSE1] a donné à chacun une tablette toute neuve. C’est trop bien !&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Je recherche des informations pour mes collègues de travail. Ensuite, je [RESPONSE2] présente ce que j’ai trouvé.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. J’ai fait un film de nos vacances en Martinique et j’ai téléchargé toutes les photos pour Marcel et toi. Je [RESPONSE3] les enverrai ce soir.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. Je vais chez Papi et Mamie cet après-midi. Ils ne savent pas se servir de leur nouvel ordinateur. Ils [RESPONSE4] demandent de les aider.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. Salut Keji, je ne peux pas parler en ce moment mais je [RESPONSE5] rappelle ce soir sur Whatsapp.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="78302">
+                <material>
+                  <mattext texttype="text/plain">me</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63380">
+                <material>
+                  <mattext texttype="text/plain">te</mattext>
+                </material>
+              </response_label>
+              <response_label ident="49939">
+                <material>
+                  <mattext texttype="text/plain">nous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59833">
+                <material>
+                  <mattext texttype="text/plain">vous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67761">
+                <material>
+                  <mattext texttype="text/plain">lui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="38184">
+                <material>
+                  <mattext texttype="text/plain">leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12352">
+                <material>
+                  <mattext texttype="text/plain">me</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40841">
+                <material>
+                  <mattext texttype="text/plain">te</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7571">
+                <material>
+                  <mattext texttype="text/plain">nous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92954">
+                <material>
+                  <mattext texttype="text/plain">vous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="41150">
+                <material>
+                  <mattext texttype="text/plain">lui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="12272">
+                <material>
+                  <mattext texttype="text/plain">leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="72029">
+                <material>
+                  <mattext texttype="text/plain">me</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36485">
+                <material>
+                  <mattext texttype="text/plain">te</mattext>
+                </material>
+              </response_label>
+              <response_label ident="75376">
+                <material>
+                  <mattext texttype="text/plain">nous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58717">
+                <material>
+                  <mattext texttype="text/plain">vous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69190">
+                <material>
+                  <mattext texttype="text/plain">lui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57421">
+                <material>
+                  <mattext texttype="text/plain">leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="31545">
+                <material>
+                  <mattext texttype="text/plain">me</mattext>
+                </material>
+              </response_label>
+              <response_label ident="83715">
+                <material>
+                  <mattext texttype="text/plain">te</mattext>
+                </material>
+              </response_label>
+              <response_label ident="97271">
+                <material>
+                  <mattext texttype="text/plain">nous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="96870">
+                <material>
+                  <mattext texttype="text/plain">vous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63850">
+                <material>
+                  <mattext texttype="text/plain">lui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="91758">
+                <material>
+                  <mattext texttype="text/plain">leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="90984">
+                <material>
+                  <mattext texttype="text/plain">me</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72023">
+                <material>
+                  <mattext texttype="text/plain">te</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18119">
+                <material>
+                  <mattext texttype="text/plain">nous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="24763">
+                <material>
+                  <mattext texttype="text/plain">vous</mattext>
+                </material>
+              </response_label>
+              <response_label ident="94806">
+                <material>
+                  <mattext texttype="text/plain">lui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2029">
+                <material>
+                  <mattext texttype="text/plain">leur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">49939</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">12272</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">58717</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">31545</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">72023</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
