@@ -1,0 +1,26 @@
+Speaker 1
+Bonjour, qu'est-ce qui ne va pas ?
+
+Speaker 2
+Mon fils tousse beaucoup et il éternue tout le temps.
+
+Speaker 1
+Très bien, tousse une fois pour moi.
+
+Speaker 3
+(Cough)
+
+Speaker 1
+Hummm, c’est un rhume. Tu dois te reposer. Reste hydraté.
+
+Speaker 2
+Que devons-nous faire ensuite, docteur ?
+
+Speaker 1
+Alors, soignez votre fils avec des médicaments traditionnels. Si cela continue, consultez son pédiatre.
+
+Speaker 2
+Merci, docteur.
+
+Speaker 1
+Et évitons les antibiotiques pour l'instant.

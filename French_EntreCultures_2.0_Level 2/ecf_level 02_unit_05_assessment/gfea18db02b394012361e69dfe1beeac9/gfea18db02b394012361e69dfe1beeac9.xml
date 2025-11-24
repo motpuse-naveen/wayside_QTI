@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gfea18db02b394012361e69dfe1beeac9" title="Unit Assessment - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IM.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4f39f913ec82c09d9ac4c4276e42b6d8" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9115,157,9625,7428,3264</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g66c2b00772d0e1687b49dccf0e91fcc3</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the image that corresponds to each statement.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%; border: none;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid white;"&gt;
+&lt;p&gt;a. &lt;img style="border: solid; width: 60%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u5_ua_vq_activity2_q1.jpg" alt="Woman holding her throat that appears inflamed via a reddish tint in the throat area."&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid white;"&gt;
+&lt;p&gt;b. &lt;img style="border: solid; width: 60%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u5_ua_vq_activity2_q2.jpg" alt="Young sick girl holds her hand to her mouth."&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid white;"&gt;
+&lt;p&gt;c. &lt;img style="border: solid; width: 60%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u5_ua_vq_activity2_q3.jpg" alt="A yoga instructor oversees several yoga practitioners who are lying down in relaxed, neutral poses on their mats."&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid white;"&gt;
+&lt;p&gt;d. &lt;img style="border: solid; width: 60%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u5_ua_vq_activity2_q4.jpg" alt="Four people with various ailments sitting in waiting room chairs."&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid white;"&gt;
+&lt;p&gt;e. &lt;img style="border: solid; width: 60%;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u5_ua_vq_activity2_q5.jpg" alt="A woman buys fresh vegetables from an outdoor market vendor."&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_9115">
+            <material>
+              <mattext texttype="text/plain">1. Quand ils se sentent malades, les gens prennent rendez-vous chez le médecin.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5787">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7558">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5503">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2916">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="512">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_157">
+            <material>
+              <mattext texttype="text/plain">2. Agathe a mal à la gorge.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5787">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7558">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5503">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2916">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="512">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9625">
+            <material>
+              <mattext texttype="text/plain">3. Je préfère consommer des produits bio que suivre des régimes tendance.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5787">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7558">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5503">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2916">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="512">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7428">
+            <material>
+              <mattext texttype="text/plain">4. Il est important de bien respirer quand nous faisons de l’exercice.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5787">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7558">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5503">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2916">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="512">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3264">
+            <material>
+              <mattext texttype="text/plain">5. Ne tousse pas dans ta main !</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5787">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7558">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5503">
+                <material>
+                  <mattext>e</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2916">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+              <response_label ident="512">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9115">5787</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_157">7558</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9625">5503</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7428">2916</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3264">512</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

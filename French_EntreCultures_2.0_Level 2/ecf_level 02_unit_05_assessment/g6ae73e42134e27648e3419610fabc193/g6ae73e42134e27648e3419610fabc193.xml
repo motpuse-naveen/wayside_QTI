@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6ae73e42134e27648e3419610fabc193" title="Unit Assessment - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IM.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gdb9365006b9f61990b6df6190c973b40" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1676,2064,3597,7953,277</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>geb8b6f3f5281293389b2f9eee436d08b</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Select the synonym for each word or phrase.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1676">
+            <material>
+              <mattext texttype="text/plain">1. être malade</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext>avoir la grippe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2858">
+                <material>
+                  <mattext>consulter les réseaux sociaux en permanence</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4780">
+                <material>
+                  <mattext>avoir le nez qui coule</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9745">
+                <material>
+                  <mattext>se sentir anxieuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7118">
+                <material>
+                  <mattext>s’endormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_2064">
+            <material>
+              <mattext texttype="text/plain">2. rester connectée devant l'écran</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext>avoir la grippe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2858">
+                <material>
+                  <mattext>consulter les réseaux sociaux en permanence</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4780">
+                <material>
+                  <mattext>avoir le nez qui coule</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9745">
+                <material>
+                  <mattext>se sentir anxieuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7118">
+                <material>
+                  <mattext>s’endormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_3597">
+            <material>
+              <mattext texttype="text/plain">3. avoir des allergies</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext>avoir la grippe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2858">
+                <material>
+                  <mattext>consulter les réseaux sociaux en permanence</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4780">
+                <material>
+                  <mattext>avoir le nez qui coule</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9745">
+                <material>
+                  <mattext>se sentir anxieuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7118">
+                <material>
+                  <mattext>s’endormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7953">
+            <material>
+              <mattext texttype="text/plain">4. être tendue</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext>avoir la grippe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2858">
+                <material>
+                  <mattext>consulter les réseaux sociaux en permanence</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4780">
+                <material>
+                  <mattext>avoir le nez qui coule</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9745">
+                <material>
+                  <mattext>se sentir anxieuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7118">
+                <material>
+                  <mattext>s’endormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_277">
+            <material>
+              <mattext texttype="text/plain">5. se coucher</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="6951">
+                <material>
+                  <mattext>avoir la grippe</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2858">
+                <material>
+                  <mattext>consulter les réseaux sociaux en permanence</mattext>
+                </material>
+              </response_label>
+              <response_label ident="4780">
+                <material>
+                  <mattext>avoir le nez qui coule</mattext>
+                </material>
+              </response_label>
+              <response_label ident="9745">
+                <material>
+                  <mattext>se sentir anxieuse</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7118">
+                <material>
+                  <mattext>s’endormir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1676">6951</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_2064">2858</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_3597">4780</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7953">9745</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_277">7118</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
