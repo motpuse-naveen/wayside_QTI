@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g927ade89da0d9f54bbd93c0940c58dc2" title="Communiquons 2 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g06ca5f8ba48e034aca33a749d3553d55" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>8434,1702,7872,9284,6558</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g58f976535e329e6323d7bc32529adfcc</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each statement, then match it with the most logical response..&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_8434">
+            <material>
+              <mattext texttype="text/plain">1. Je me rends compte du changement climatique alors je participe à des actions pour un monde meilleur.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8350">
+                <material>
+                  <mattext>Je fais partie d’une association écologique et je fais des présentations sur l’impact des produits chimiques sur l’environnement.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3775">
+                <material>
+                  <mattext>Moi, je n’en ai pas besoin. J’ai tout le temps ma bouteille réutilisable dans mon sac quand je suis en randonnée ou quand je fais les magasins. C’est très pratique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2164">
+                <material>
+                  <mattext>L’eau potable est une ressource naturelle limitée. C’est à nous de donner le bon exemple.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1632">
+                <material>
+                  <mattext>Chez nous, les produits chimiques pour les tâches ménagères, c’est du passé !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2999">
+                <material>
+                  <mattext>Nous avons une voiture à faible émission de CO2 et nous mangeons bio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1702">
+            <material>
+              <mattext texttype="text/plain">2. N’achetez plus de bouteilles en plastique !</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8350">
+                <material>
+                  <mattext>Je fais partie d’une association écologique et je fais des présentations sur l’impact des produits chimiques sur l’environnement.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3775">
+                <material>
+                  <mattext>Moi, je n’en ai pas besoin. J’ai tout le temps ma bouteille réutilisable dans mon sac quand je suis en randonnée ou quand je fais les magasins. C’est très pratique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2164">
+                <material>
+                  <mattext>L’eau potable est une ressource naturelle limitée. C’est à nous de donner le bon exemple.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1632">
+                <material>
+                  <mattext>Chez nous, les produits chimiques pour les tâches ménagères, c’est du passé !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2999">
+                <material>
+                  <mattext>Nous avons une voiture à faible émission de CO2 et nous mangeons bio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_7872">
+            <material>
+              <mattext texttype="text/plain">3. Avant je prenais mon temps sous la douche, mais maintenant je me limite à deux minutes.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8350">
+                <material>
+                  <mattext>Je fais partie d’une association écologique et je fais des présentations sur l’impact des produits chimiques sur l’environnement.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3775">
+                <material>
+                  <mattext>Moi, je n’en ai pas besoin. J’ai tout le temps ma bouteille réutilisable dans mon sac quand je suis en randonnée ou quand je fais les magasins. C’est très pratique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2164">
+                <material>
+                  <mattext>L’eau potable est une ressource naturelle limitée. C’est à nous de donner le bon exemple.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1632">
+                <material>
+                  <mattext>Chez nous, les produits chimiques pour les tâches ménagères, c’est du passé !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2999">
+                <material>
+                  <mattext>Nous avons une voiture à faible émission de CO2 et nous mangeons bio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9284">
+            <material>
+              <mattext texttype="text/plain">4. Je suis fière de mes parents, ils achètent des  produits biologiques pour le nettoyage de la maison !</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8350">
+                <material>
+                  <mattext>Je fais partie d’une association écologique et je fais des présentations sur l’impact des produits chimiques sur l’environnement.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3775">
+                <material>
+                  <mattext>Moi, je n’en ai pas besoin. J’ai tout le temps ma bouteille réutilisable dans mon sac quand je suis en randonnée ou quand je fais les magasins. C’est très pratique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2164">
+                <material>
+                  <mattext>L’eau potable est une ressource naturelle limitée. C’est à nous de donner le bon exemple.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1632">
+                <material>
+                  <mattext>Chez nous, les produits chimiques pour les tâches ménagères, c’est du passé !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2999">
+                <material>
+                  <mattext>Nous avons une voiture à faible émission de CO2 et nous mangeons bio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_6558">
+            <material>
+              <mattext texttype="text/plain">5. On peut avoir un corps sain dans un environnement sain !</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="8350">
+                <material>
+                  <mattext>Je fais partie d’une association écologique et je fais des présentations sur l’impact des produits chimiques sur l’environnement.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3775">
+                <material>
+                  <mattext>Moi, je n’en ai pas besoin. J’ai tout le temps ma bouteille réutilisable dans mon sac quand je suis en randonnée ou quand je fais les magasins. C’est très pratique.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2164">
+                <material>
+                  <mattext>L’eau potable est une ressource naturelle limitée. C’est à nous de donner le bon exemple.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1632">
+                <material>
+                  <mattext>Chez nous, les produits chimiques pour les tâches ménagères, c’est du passé !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2999">
+                <material>
+                  <mattext>Nous avons une voiture à faible émission de CO2 et nous mangeons bio.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8434">8350</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1702">3775</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_7872">2164</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9284">1632</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_6558">2999</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

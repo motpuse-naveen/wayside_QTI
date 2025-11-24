@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gefd452d89ae72d8858f42213eb0ce1e2" title="Communiquons 2 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code8</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g0e69133e354cc10b6a81db3b01437e39" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>38253,12630,28689</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc3c3ca68195ac8054a2398427311482f</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Choose the response that is the best equivalent to the original statement.&lt;/p&gt;
+         
+    
+           &lt;p&gt;1. Maintenant, c’est à votre tour de faire le recyclage du plastique !&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="38253">
+                <material>
+                  <mattext texttype="text/plain">Recyclez le plastique !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="12630">
+                <material>
+                  <mattext texttype="text/plain">Recyclons le plastique !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28689">
+                <material>
+                  <mattext texttype="text/plain">Recycle le plastique !</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">38253</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gbe1ea57b2fcbc5939d129b7600a0386e" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>2890,48211,80352</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g325676f15ccd7b44374999f8387a286e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;2. Calvin et moi devons arriver à temps à l’usine d’assainissement.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="2890">
+                <material>
+                  <mattext texttype="text/plain">Sois à temps à l’usine d’assainissement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48211">
+                <material>
+                  <mattext texttype="text/plain">Soyons à temps à l’usine d’assainissement !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="80352">
+                <material>
+                  <mattext texttype="text/plain">Soyez à temps à l’usine d’assainissement !</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">48211</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="gfd8148c22e4e10872ddff8777662d334" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>9299,68308,67758</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g3d5f7e338456ef6c9d3f2af2e7e5feeb</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;3. Il faut que vous débranchiez vos appareils avant d’aller dormir.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="9299">
+                <material>
+                  <mattext texttype="text/plain">Débranche tes appareils avant d’aller dormir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68308">
+                <material>
+                  <mattext texttype="text/plain">Débranchons nos appareils avant d’aller dormir.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="67758">
+                <material>
+                  <mattext texttype="text/plain">Débranchez vos appareils avant d’aller dormir.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">67758</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5fab129b64f791920c12e10d7a132373" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>16181,37184,43887</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gbdb532114f15deaa4f38763eea7b0642</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;4. Il faudrait que tu fasses du covoiturage pour diminuer la circulation et pour réduire ton impact environnemental.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="16181">
+                <material>
+                  <mattext texttype="text/plain">Faisons du covoiturage pour diminuer la circulation et pour réduire notre impact environnemental.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37184">
+                <material>
+                  <mattext texttype="text/plain">Faites du covoiturage pour diminuer la circulation et pour réduire votre impact environnemental.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="43887">
+                <material>
+                  <mattext texttype="text/plain">Fais du covoiturage pour diminuer la circulation et pour réduire ton impact environnemental.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">43887</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+      <item ident="g5166cbf7707347431b40b6f2acd71686" title="simple-choice">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_choice_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>57217,48016,37511</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g6513ec82352bfb7393ebebe70e4a5455</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;5. Nous devons tous ensemble réduire les gaz à effet de serre et augmenter l’utilisation de combustibles propres.&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response1" rcardinality="Single">
+            <render_choice>
+              <response_label ident="57217">
+                <material>
+                  <mattext texttype="text/plain">Réduisez les gaz à effet de serre et augmentez l’utilisation de combustibles propres !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48016">
+                <material>
+                  <mattext texttype="text/plain">Réduisons les gaz à effet de serre et augmentons l’utilisation de combustibles propres !</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37511">
+                <material>
+                  <mattext texttype="text/plain">Réduis les gaz à effet de serre et augmente l’utilisation de combustibles propres !</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition continue="No">
+            <conditionvar>
+              <varequal respident="response1">48016</varequal>
+            </conditionvar>
+            <setvar action="Set" varname="SCORE">100</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

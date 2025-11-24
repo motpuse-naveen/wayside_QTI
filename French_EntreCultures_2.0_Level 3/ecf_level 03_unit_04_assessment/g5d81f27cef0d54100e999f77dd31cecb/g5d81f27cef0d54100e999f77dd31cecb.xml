@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g5d81f27cef0d54100e999f77dd31cecb" title="Communiquons 1 - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="ga0d40d696addf0182811eac61eb60e6c" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>74440,70596,85161</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g036b97684eca5f5320a0a2df15dec817</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Fill in each blank with the appropriate term from the word bank. When selecting a term, be sure to provide the correct form (i.e. agree the verbs and adjectives in gender and number). Not all word bank options will be used.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 94%; text-align: center; padding: 2%;"&gt;favoriser&amp;nbsp;&amp;nbsp;&amp;nbsp;déplacement&amp;nbsp;&amp;nbsp;&amp;nbsp;débrancher&amp;nbsp;&amp;nbsp;&amp;nbsp;être conscient &amp;nbsp;&amp;nbsp;&amp;nbsp;augmenter&amp;nbsp;&amp;nbsp;&amp;nbsp;recyclage&lt;/div&gt;
+&lt;p&gt;Copy and paste the special character whenever you need it for your answers.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 30%; text-align: center; padding: 1%;"&gt;é &amp;nbsp;&amp;nbsp;&amp;nbsp;è &amp;nbsp;&amp;nbsp;&amp;nbsp;ê&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1. Il faut que vous nettoyiez les emballages avant de les mettre au [RESPONSE].&lt;/p&gt;
+&lt;p&gt;2. Les élèves du lycée Marceau [RESPONSE1] du réchauffement climatique et ont échangé des idées pour baisser la consommation d’énergie dans l’école.&lt;/p&gt;
+&lt;p&gt;3. Afin de limiter nos [RESPONSE2] en voiture, nous travaillons la plupart du temps à domicile ou en visioconférence.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="74440">
+                <material>
+                  <mattext texttype="text/plain">recyclage</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70596">
+                <material>
+                  <mattext texttype="text/plain">sont conscients</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="85161">
+                <material>
+                  <mattext texttype="text/plain">déplacements</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">74440</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">70596</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">85161</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0438278ec28b7c60e8b1f1ea49dd52e1" title="Communiquons 2 - Vocabulary Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.AL.1.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g85c1235786870fe177d9e1c12a0dca5b" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20858,11755,67491,3301,46721,2417,12491,36799,76288,56342</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gb51bcc797532fb9f03f94c83ac325068</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Listen to William and Hector discuss their volunteer work, then indicate whether the statements that follow reflect their conversation. Choose &lt;strong&gt;&lt;i&gt;oui&lt;/i&gt;&lt;/strong&gt; if the statement is in line with the conversation and &lt;strong&gt;&lt;i&gt;non&lt;/i&gt;&lt;/strong&gt; if it is not.&lt;/p&gt;
+&lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
+                      &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com2_vq_ac2_q.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                  &lt;/audio&gt;&lt;/p&gt;
+    &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit4_Communiquons 2_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;              
+&lt;p&gt;1. William travaille dans une bibliothèque.&lt;/p&gt;
+[RESPONSE1]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;2. Les maisons à consommation énergétique nulle ont un impact important sur l'environnement.&lt;/p&gt;
+[RESPONSE2]&lt;br&gt;&lt;br&gt;
+&lt;p&gt;3. Il y a des lampes LED pour ne pas utiliser trop d’énergie.&lt;/p&gt;
+[RESPONSE3]
+&lt;p&gt;&lt;br&gt;4. Les toilettes fonctionnent avec l’eau de pluie.&lt;/p&gt;
+[RESPONSE4]
+&lt;p&gt;&lt;br&gt;5. Hector fait le même travail que William.&lt;/p&gt;
+[RESPONSE5]&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20858">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="11755">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="67491">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3301">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="46721">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2417">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12491">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="36799">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="76288">
+                <material>
+                  <mattext texttype="text/plain">oui</mattext>
+                </material>
+              </response_label>
+              <response_label ident="56342">
+                <material>
+                  <mattext texttype="text/plain">non</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">11755</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">67491</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">46721</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">12491</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">56342</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

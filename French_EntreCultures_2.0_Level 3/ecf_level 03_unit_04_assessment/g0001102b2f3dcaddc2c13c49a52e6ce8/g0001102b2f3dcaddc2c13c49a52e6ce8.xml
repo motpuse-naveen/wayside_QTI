@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g0001102b2f3dcaddc2c13c49a52e6ce8" title="Communiquons 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g4830f01b8bf8a001526230c35e309f24" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>31806,96507,23128,84815,40551</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g637ca949463b1de56a995875eb8913de</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read Eddy’s advice to his friend Thomas and fill in each blank with the correct form of the verb in parentheses in the &lt;strong&gt;&lt;i&gt;subjonctif.&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thomas, pour répondre à ta question, voici quelques conseils. Pour être un bon éco-citoyen, ce n’est pas très difficile. Il faut que tes amis et toi [RESPONSE] (agir) dans votre communauté et que vous [RESPONSE1] (être) conscients de l’impact que vous pouvez avoir. Par exemple, au lieu de jeter tes déchets ensemble, il faut d’abord que tu les [RESPONSE2] (trier) pour pouvoir les recycler plus efficacement. Il faut aussi que tu [RESPONSE3](gaspiller) moins. Il est important que tes amis [RESPONSE4] (prendre) aussi de bonnes habitudes. Ensemble, nous pourrons construire un monde meilleur pour les prochaines générations. À bientôt ! Eddy&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="31806">
+                <material>
+                  <mattext texttype="text/plain">agissiez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96507">
+                <material>
+                  <mattext texttype="text/plain">soyez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="23128">
+                <material>
+                  <mattext texttype="text/plain">tries</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="84815">
+                <material>
+                  <mattext texttype="text/plain">gaspilles</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="40551">
+                <material>
+                  <mattext texttype="text/plain">prennent</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">31806</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">96507</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">23128</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">84815</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">40551</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

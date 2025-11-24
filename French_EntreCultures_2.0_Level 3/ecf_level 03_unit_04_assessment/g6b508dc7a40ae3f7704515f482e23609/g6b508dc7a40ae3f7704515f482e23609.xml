@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g6b508dc7a40ae3f7704515f482e23609" title="Communiquons 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gd7088d3cb548cade5a4d0b1883b82433" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>4.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>5939,791,1358,8456</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g5f081e5af698787a130b818eb3e99d9d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Match each sentence with the corresponding image.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u4_vgq_vq1_activity1_q1.jpg" alt="illustration of a car with passengers" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;b. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u4_vgq_vq1_activity1_q2.jpg" alt="Plug begin plugged out of the wall" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;c. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u4_vgq_vq1_activity1_q3.jpg" alt="beach full of plastic bottles and other litter" width="80%"&gt;&lt;/td&gt;
+&lt;td&gt;d. &lt;img style="border: 2px solid;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF3/ecf3_u4_vgq_vq1_activity1_q4.jpg" alt="illustration of a warming planet with a sun and thermometer" width="80%"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_5939">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;1. Depuis des années, les scientifiques signalent les dangers du réchauffement de la planète.&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5339">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3687">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="813">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7384">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_791">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;2. Pour préserver les ressources naturelles, je fais du covoiturage avec Léo, Arthur et Louise tous les matins et le soir, je rentre en métro.&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5339">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3687">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="813">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7384">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_1358">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;3. Quand tu auras fini ton émission, n’oublie pas de débrancher la télé pour éviter le gaspillage d’énergie.&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5339">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3687">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="813">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7384">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8456">
+            <material>
+              <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;4. Ce week-end, les scouts organisent une action de nettoyage des plages, tous les déchets seront nettoyés et recyclés. Viens nous rejoindre !&lt;/p&gt;</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="5339">
+                <material>
+                  <mattext>d</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3687">
+                <material>
+                  <mattext>a</mattext>
+                </material>
+              </response_label>
+              <response_label ident="813">
+                <material>
+                  <mattext>b</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7384">
+                <material>
+                  <mattext>c</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_5939">5339</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_791">3687</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1358">813</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8456">7384</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

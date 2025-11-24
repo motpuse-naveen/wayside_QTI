@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g1e3707d6b2bb4fe4c0816c6415e73037" title="Communiquons 3 - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Acquiring Information</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gaaca9fc42626e01f8e4a07b58d743f3e" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>86361,59814,69648,27798,22965,79327,98569,1734,78503,15316</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gaf7237f299bbc44ab3c0d0a9d1c61a5d</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the correct verb form to complete each sentence.&lt;/p&gt;
+&lt;p&gt;1. Est-ce que vous [RESPONSE1] que l’électricité du Québec provenaient principalement de sources hydroélectriques ?&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Dans ma communauté, tous les gens que je [RESPONSE2] ont accès à l’éducation et savent lire et écrire.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. Nous [RESPONSE3] plusieurs moyens pour réduire la consommation d’énergie. Un des plus simples est d’utiliser des lampes LED.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. Dans notre village, nous avons des problèmes d’eau, est-ce que vous [RESPONSE4] comment résoudre ce problème ?&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. Je vous ai vus ensemble ce week-end, Valentin et toi, au bureau de notre association. Comment est-ce que tu le [RESPONSE5] ?&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86361">
+                <material>
+                  <mattext texttype="text/plain">connaissiez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="59814">
+                <material>
+                  <mattext texttype="text/plain">saviez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="69648">
+                <material>
+                  <mattext texttype="text/plain">sais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27798">
+                <material>
+                  <mattext texttype="text/plain">connais</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="22965">
+                <material>
+                  <mattext texttype="text/plain">connaissons</mattext>
+                </material>
+              </response_label>
+              <response_label ident="79327">
+                <material>
+                  <mattext texttype="text/plain">savons</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="98569">
+                <material>
+                  <mattext texttype="text/plain">savez</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1734">
+                <material>
+                  <mattext texttype="text/plain">connaissez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="78503">
+                <material>
+                  <mattext texttype="text/plain">sais</mattext>
+                </material>
+              </response_label>
+              <response_label ident="15316">
+                <material>
+                  <mattext texttype="text/plain">connais</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">59814</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">27798</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">22965</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">98569</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">15316</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

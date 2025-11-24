@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g51bddef826eff0916feeea7a828291a1" title="Unit Assessment - Grammar Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+          <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>WL.K12.AL.8.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g5fedebb8a2fe1d2e3e059233355647a8" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>7.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>80347,89894,51269,63611,18117,9199,49756</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g99ca0e075cc61241a5e8375959bb38a0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Fill in each blank with the correct form of the verb provided in the &lt;strong&gt;&lt;i&gt;impératif.&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Modèle : Nous / aller en ville ! =&amp;gt; Allons en ville !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;1. Vous / Permettre aux étudiants de travailler en vidéoconférence ! &lt;br&gt;[RESPONSE] aux étudiants de travailler en vidéoconférence !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2. Elisa et moi / Rester au courant de l’actualité mondiale ! &lt;br&gt;[RESPONSE1] au courant de l’actualité mondiale !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3. Toi / Sauvegarder ton fichier sur ta clé USB ! &lt;br&gt;[RESPONSE2] ton fichier sur ta clé USB&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4. Nous / Ne pas être accro aux jeux vidéo et aux réseaux sociaux !&lt;br&gt;[RESPONSE3] accros aux jeux vidéo et aux réseaux sociaux !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5. Lola et toi / Avoir des mots de passe difficiles à trouver ! &lt;br&gt;[RESPONSE4] des mots de passe difficiles à trouver !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;6. Toi / Savoir que le cyberharcèlement est puni par la loi ! &lt;br&gt;[RESPONSE5] que le cyberharcèlement est puni par la loi !&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;7. Tes sœurs et toi / Être conscientes de votre impact individuel sur l’environnement ! &lt;br&gt;[RESPONSE6] conscientes de votre impact individuel sur l’environnement !&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="80347">
+                <material>
+                  <mattext texttype="text/plain">Permettez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89894">
+                <material>
+                  <mattext texttype="text/plain">Restons</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="51269">
+                <material>
+                  <mattext texttype="text/plain">Sauvegarde</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="63611">
+                <material>
+                  <mattext texttype="text/plain">Ne soyons pas</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="18117">
+                <material>
+                  <mattext texttype="text/plain">Ayez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9199">
+                <material>
+                  <mattext texttype="text/plain">Sache</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE6">
+            <material>
+              <mattext>RESPONSE6</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="49756">
+                <material>
+                  <mattext texttype="text/plain">Soyez</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">80347</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">89894</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">51269</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">63611</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">18117</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">9199</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE6">49756</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">14.29</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

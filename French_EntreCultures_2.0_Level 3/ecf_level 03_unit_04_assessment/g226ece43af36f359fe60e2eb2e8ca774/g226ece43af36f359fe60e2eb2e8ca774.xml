@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g226ece43af36f359fe60e2eb2e8ca774" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.AL.2.2</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>WL.K12.AL.7.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g98284dc7b7ec9f9db1d9916e77c0bdb2" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>20109,63022,35395,18459,98833,88620,86493,17517,54859,64955,45276,76874,12801,14910,34841</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gc406a4e128070c58b3b4026ace8027ac</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the vocabulary word that most logically completes each sentence.&lt;/p&gt;
+&lt;p&gt;1. Notre association fait tout son possible pour [RESPONSE1] l’accès à l’éducation pour tous les enfants.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2. Le plus important pour notre famille c’est de/d’ [RESPONSE2] d’aliments bio et de faire du sport pour être en bonne santé.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3. Beaucoup de sans-abris sont dans la rue même en hiver, ils vivent souvent isolés. Ils pourraient développer des problèmes de [RESPONSE3] mentale ou physique.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;4. [RESPONSE4] d’une entreprise est aussi liée à son effort de développement durable. Cela signifie qu’une bonne entreprise prend des mesures pour limiter au maximum son impact négatif sur l'environnement.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;5. Quelle honte ! Je connais des enfants de notre communauté qui n’ont pas assez pour vivre et vivent sous le seuil &lt;em&gt;(level)&lt;/em&gt; de [RESPONSE5]&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="20109">
+                <material>
+                  <mattext texttype="text/plain">combattre</mattext>
+                </material>
+              </response_label>
+              <response_label ident="63022">
+                <material>
+                  <mattext texttype="text/plain">promouvoir</mattext>
+                </material>
+              </response_label>
+              <response_label ident="35395">
+                <material>
+                  <mattext texttype="text/plain">lutter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="18459">
+                <material>
+                  <mattext texttype="text/plain">lutter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98833">
+                <material>
+                  <mattext texttype="text/plain">éliminer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88620">
+                <material>
+                  <mattext texttype="text/plain">se nourrir</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86493">
+                <material>
+                  <mattext texttype="text/plain">paix</mattext>
+                </material>
+              </response_label>
+              <response_label ident="17517">
+                <material>
+                  <mattext texttype="text/plain">santé</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54859">
+                <material>
+                  <mattext texttype="text/plain">scolarité</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="64955">
+                <material>
+                  <mattext texttype="text/plain">La croissance</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45276">
+                <material>
+                  <mattext texttype="text/plain">La qualité</mattext>
+                </material>
+              </response_label>
+              <response_label ident="76874">
+                <material>
+                  <mattext texttype="text/plain">L’égalité</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12801">
+                <material>
+                  <mattext texttype="text/plain">scolarité</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14910">
+                <material>
+                  <mattext texttype="text/plain">égalité</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34841">
+                <material>
+                  <mattext texttype="text/plain">pauvreté</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">63022</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">88620</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">17517</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">45276</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">34841</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
