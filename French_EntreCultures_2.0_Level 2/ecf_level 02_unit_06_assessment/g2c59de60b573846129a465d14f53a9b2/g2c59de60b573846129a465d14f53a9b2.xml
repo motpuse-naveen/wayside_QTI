@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g2c59de60b573846129a465d14f53a9b2" title="Communiquons 2 - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IM.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g787f2b9aa7029f65a8c8332eaf6e4778" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>3.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>59527,2658,24367,839</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g2048720bde30924fef5f1d52ccb5bc02</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Based on each photo, fill in the blank with the most appropriate vocabulary word to complete the sentence.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u6_vgq_vq2_activity3_q1.jpg" alt="Hairbrush"&gt;&lt;/p&gt;
+&lt;p&gt;À la maison, je prendrai la bonne habitude de toujours mettre ma [RESPONSE] dans ma trousse de toilette.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u6_vgq_vq2_activity3_q2.jpg" alt="View of a waiting room at the airport overlooking departing planes"&gt;&lt;/p&gt;
+&lt;p&gt;Eli et Simon partent en vacances à l’étranger. Ils vont arriver tôt à [RESPONSE1]. Ils attendront dans la salle d’embarquement et regarderont les avions décoller.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 50%; border: 1px solid black;" src="https://cdn.waysidepublishing.com/textbooks/QTI/ECF2/ecf2_u6_vgq_vq2_activity3_q3.jpg" alt="Person putting lenses in their eyes"&gt;&lt;/p&gt;
+&lt;p&gt;Elena ne veut plus porter de lunettes. À partir de la semaine prochaine, elle portera des [RESPONSE2].&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="59527">
+                <material>
+                  <mattext texttype="text/plain">brosse à cheveux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="2658">
+                <material>
+                  <mattext texttype="text/plain">l'aéroport</mattext>
+                </material>
+              </response_label>
+              <response_label ident="839">
+                <material>
+                  <mattext texttype="text/plain">l’aéroport</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="24367">
+                <material>
+                  <mattext texttype="text/plain">lentilles</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">59527</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">2658</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">24367</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">33.33</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

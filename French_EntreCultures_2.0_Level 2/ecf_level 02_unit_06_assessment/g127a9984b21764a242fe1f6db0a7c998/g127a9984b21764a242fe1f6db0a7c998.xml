@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g127a9984b21764a242fe1f6db0a7c998" title="Unit Assessment - Vocabulary Activity 03">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbb4d0bcf5e6d7abfeca95a63531cc818" title="simple-choice4">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>matching_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>1320,9512,8741,4141,4917</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g0a243b1e54dcbad531b3245cfe9b6b17</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read each statement or question and select the response that corresponds to it.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_1320">
+            <material>
+              <mattext texttype="text/plain">1. On le fait quand on veut partir à l’étranger et quand on ne veut pas utiliser sa carte bancaire.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9359">
+                <material>
+                  <mattext>On change de l’argent à l’aéroport ou dans une banque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="609">
+                <material>
+                  <mattext>Son cadeau est un produit artisanal de sa région.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7682">
+                <material>
+                  <mattext>Un bon moyen de préserver les ressources naturelles, c’est de ne pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8651">
+                <material>
+                  <mattext>Normalement, je goûte les spécialités locales et je garde l’esprit ouvert pour vivre de nouvelles expériences.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5510">
+                <material>
+                  <mattext>Après le programme, comme il fait chaud, elles iront se baigner dans le lac en fin d’après-midi.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_9512">
+            <material>
+              <mattext texttype="text/plain">2. Tania le prend avec elle pour sa famille d’accueil.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9359">
+                <material>
+                  <mattext>On change de l’argent à l’aéroport ou dans une banque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="609">
+                <material>
+                  <mattext>Son cadeau est un produit artisanal de sa région.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7682">
+                <material>
+                  <mattext>Un bon moyen de préserver les ressources naturelles, c’est de ne pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8651">
+                <material>
+                  <mattext>Normalement, je goûte les spécialités locales et je garde l’esprit ouvert pour vivre de nouvelles expériences.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5510">
+                <material>
+                  <mattext>Après le programme, comme il fait chaud, elles iront se baigner dans le lac en fin d’après-midi.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_8741">
+            <material>
+              <mattext texttype="text/plain">3. La nature est précieuse, il faut la respecter.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9359">
+                <material>
+                  <mattext>On change de l’argent à l’aéroport ou dans une banque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="609">
+                <material>
+                  <mattext>Son cadeau est un produit artisanal de sa région.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7682">
+                <material>
+                  <mattext>Un bon moyen de préserver les ressources naturelles, c’est de ne pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8651">
+                <material>
+                  <mattext>Normalement, je goûte les spécialités locales et je garde l’esprit ouvert pour vivre de nouvelles expériences.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5510">
+                <material>
+                  <mattext>Après le programme, comme il fait chaud, elles iront se baigner dans le lac en fin d’après-midi.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4141">
+            <material>
+              <mattext texttype="text/plain">4. Qu’est-ce tu aimes faire quand tu es en voyage ?</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9359">
+                <material>
+                  <mattext>On change de l’argent à l’aéroport ou dans une banque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="609">
+                <material>
+                  <mattext>Son cadeau est un produit artisanal de sa région.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7682">
+                <material>
+                  <mattext>Un bon moyen de préserver les ressources naturelles, c’est de ne pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8651">
+                <material>
+                  <mattext>Normalement, je goûte les spécialités locales et je garde l’esprit ouvert pour vivre de nouvelles expériences.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5510">
+                <material>
+                  <mattext>Après le programme, comme il fait chaud, elles iront se baigner dans le lac en fin d’après-midi.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_4917">
+            <material>
+              <mattext texttype="text/plain">5. Hachiko se trouve à un festival de musique africaine avec Léanne.</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="9359">
+                <material>
+                  <mattext>On change de l’argent à l’aéroport ou dans une banque.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="609">
+                <material>
+                  <mattext>Son cadeau est un produit artisanal de sa région.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7682">
+                <material>
+                  <mattext>Un bon moyen de préserver les ressources naturelles, c’est de ne pas gaspiller.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8651">
+                <material>
+                  <mattext>Normalement, je goûte les spécialités locales et je garde l’esprit ouvert pour vivre de nouvelles expériences.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5510">
+                <material>
+                  <mattext>Après le programme, comme il fait chaud, elles iront se baigner dans le lac en fin d’après-midi.</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_1320">9359</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_9512">609</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_8741">7682</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4141">8651</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_4917">5510</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
