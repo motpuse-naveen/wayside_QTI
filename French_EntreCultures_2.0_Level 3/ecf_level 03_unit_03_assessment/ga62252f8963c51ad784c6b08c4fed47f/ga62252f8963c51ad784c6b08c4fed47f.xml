@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="ga62252f8963c51ad784c6b08c4fed47f" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>WL.K12.IH.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g9af1cbb3412f9f4d91975fefa234e962" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>88184,84310,46046,69355,71794,3796,89102,98747,16181,78755</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gce64b60b36aaeb468f5c1e9ea206b73e</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;You do not know the answer to any of your friend’s questions. Choose the correct response to complete the ending of each of your replies.&lt;/p&gt;
+&lt;p&gt;1. — Mon pote, qu’est-ce que tu cherches ?&lt;br&gt;&amp;nbsp; &amp;nbsp; — Je ne sais pas [RESPONSE1].&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;2. — Et quelle est la nature du conflit entre Jules et Théo ?&lt;br&gt;&amp;nbsp; &amp;nbsp; — Je ne sais pas&amp;nbsp; [RESPONSE2].&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;3. — Bon, mais comment prendre soin de ces plantes ?&lt;br&gt;&amp;nbsp; &amp;nbsp; — Je ne sais pas [RESPONSE3].&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;4. — Tu es vraiment perdu. Au moins, tu t’es fixé des objectifs pour cette année scolaire ?&lt;br&gt;&amp;nbsp; &amp;nbsp; — Je ne sais pas [RESPONSE4].&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;5. — OK, j’en ai assez. Que ferons-nous ce weekend pour nous amuser ?&lt;br&gt;&amp;nbsp; &amp;nbsp; — Je ne sais pas [RESPONSE5].&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="88184">
+                <material>
+                  <mattext texttype="text/plain">ce que je cherche</mattext>
+                </material>
+              </response_label>
+              <response_label ident="84310">
+                <material>
+                  <mattext texttype="text/plain">ce qui je cherche</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="46046">
+                <material>
+                  <mattext texttype="text/plain">ce que se passe entre eux</mattext>
+                </material>
+              </response_label>
+              <response_label ident="69355">
+                <material>
+                  <mattext texttype="text/plain">ce qui se passe entre eux</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="71794">
+                <material>
+                  <mattext texttype="text/plain">ce que tu dois faire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="3796">
+                <material>
+                  <mattext texttype="text/plain">ce qui tu dois faire</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="89102">
+                <material>
+                  <mattext texttype="text/plain">ce que est nécessaire de faire pour m’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="98747">
+                <material>
+                  <mattext texttype="text/plain">ce qui est nécessaire de faire pour m’orienter</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="16181">
+                <material>
+                  <mattext texttype="text/plain">ce qu’on fera</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78755">
+                <material>
+                  <mattext texttype="text/plain">ce qui on fera</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">88184</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">69355</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">71794</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">98747</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">16181</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

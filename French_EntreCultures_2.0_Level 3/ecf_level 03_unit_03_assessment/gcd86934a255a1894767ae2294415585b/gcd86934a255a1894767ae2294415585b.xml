@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gcd86934a255a1894767ae2294415585b" title="Unit Assessment - Grammar Activity 04">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global </fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code6</fieldlabel>
+              <fieldentry>ELA.K12.EE.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code7</fieldlabel>
+              <fieldentry>WL.K12.IH.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g778f85f663e3a430705c0b8b39f5509d" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>12176,94602,1266,46239,41837,98583</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gd7f4c582b55a63a15418a8d8c0a40e99</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Read the following statements about work-life balance. Then, based on what you read, complete the missing portions of the sentence with &lt;strong&gt;&lt;i&gt;ce que&lt;/i&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;i&gt;ce qui&lt;/i&gt;&lt;/strong&gt;, or with the correct form of the verb &lt;strong&gt;&lt;i&gt;être&lt;/i&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;i&gt;avoir besoin&lt;/i&gt;&lt;/strong&gt;, or &lt;strong&gt;&lt;i&gt;profiter&lt;/i&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;À la recherche de l’équilibre entre leur vie professionnelle et personnelle, la plupart de mes amis choisissent de travailler à domicile. &lt;br&gt;&lt;br&gt;1. Le télétravail est [RESPONSE] permet à ses amis de rééquilibrer leur vie.&lt;br&gt;&lt;br&gt;Ainsi, ils peuvent prendre soin de leur famille et être à l’aise chez eux.&lt;br&gt;&lt;br&gt;2. [RESPONSE1]ils veulent, c’est pouvoir prendre soin de leur famille et être à l’aise.&lt;br&gt;&lt;br&gt;Les ingénieurs commerciaux et les développeurs web auront besoin de garder leur calme en toute situation de conflit ou d’échec quand des problèmes surviendront en ligne.&lt;br&gt;&lt;br&gt;3. Lorsqu’il y a aura un échec en ligne, les ingénieurs et les développeurs web [RESPONSE2] de garder leur calme.&lt;br&gt;&lt;br&gt;Mais, mes amis profitent quand même des opportunités pour échanger avec des collègues aux salons et mûrir professionnellement.&lt;br&gt;&lt;br&gt;4. Aux salons, aussitôt qu’ils auront l'opportunité, ses amis [RESPONSE3] des opportunités pour échanger avec des collègues.&lt;br&gt;&lt;br&gt;Alors, vous devrez continuer de vous concentrer sur vos compétences sociales.&lt;br&gt;&lt;br&gt;5. Si on trouve un poste &lt;span&gt;en télétravail&lt;/span&gt;, il [RESPONSE4] nécessaire de continuer de se concentrer sur ses compétences sociales à l'avenir.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="12176">
+                <material>
+                  <mattext texttype="text/plain">Ce qui</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="94602">
+                <material>
+                  <mattext texttype="text/plain">Ce qu’</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1266">
+                <material>
+                  <mattext texttype="text/plain">Ce qu'</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="46239">
+                <material>
+                  <mattext texttype="text/plain">Auront besoin</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="41837">
+                <material>
+                  <mattext texttype="text/plain">Profiteront</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="98583">
+                <material>
+                  <mattext texttype="text/plain">Sera</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">12176</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">94602</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">46239</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">41837</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">98583</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

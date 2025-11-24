@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gfd9c7ff72feacc091960bbd0a102c948" title="Communiquons 1 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g54e7a288de2363a4c1531fce0de6b5ad" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>62408,30218,57751,46882,34414,41266,92512,18737,653,16091,96605,68690,89657,30507,8854,44496,68264,48843,54099,7657,35151,70866,53386,94560,30956</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g910f97d7fa06a073c7fe91a8e5511752</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the correct verb to complete each sentence.&lt;/p&gt;
+&lt;p&gt;1. Veux-tu [RESPONSE2] ton numéro de téléphone avec moi ?&lt;/p&gt;
+&lt;p&gt;2. Si Nannette veut gérer une fondation, elle devrait [RESPONSE3] vers un métier dans le secteur des affaires.&lt;/p&gt;
+&lt;p&gt;3. Mason et son correspondant belge vont [RESPONSE4] au concert de Stromae.&lt;/p&gt;
+&lt;p&gt;4. Quand Lucien va-t-il [RESPONSE5] ? Il doit choisir une orientation.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="62408">
+                <material>
+                  <mattext texttype="text/plain">s’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30218">
+                <material>
+                  <mattext texttype="text/plain">se rencontrer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="57751">
+                <material>
+                  <mattext texttype="text/plain">cibler</mattext>
+                </material>
+              </response_label>
+              <response_label ident="46882">
+                <material>
+                  <mattext texttype="text/plain">se décider</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34414">
+                <material>
+                  <mattext texttype="text/plain">échanger</mattext>
+                </material>
+              </response_label>
+              <response_label ident="41266">
+                <material>
+                  <mattext texttype="text/plain">s’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92512">
+                <material>
+                  <mattext texttype="text/plain">se rencontrer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="18737">
+                <material>
+                  <mattext texttype="text/plain">cibler</mattext>
+                </material>
+              </response_label>
+              <response_label ident="653">
+                <material>
+                  <mattext texttype="text/plain">se décider</mattext>
+                </material>
+              </response_label>
+              <response_label ident="16091">
+                <material>
+                  <mattext texttype="text/plain">échanger</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="96605">
+                <material>
+                  <mattext texttype="text/plain">s’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68690">
+                <material>
+                  <mattext texttype="text/plain">se rencontrer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89657">
+                <material>
+                  <mattext texttype="text/plain">cibler</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30507">
+                <material>
+                  <mattext texttype="text/plain">se décider</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8854">
+                <material>
+                  <mattext texttype="text/plain">échanger</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="44496">
+                <material>
+                  <mattext texttype="text/plain">s’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68264">
+                <material>
+                  <mattext texttype="text/plain">se rencontrer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="48843">
+                <material>
+                  <mattext texttype="text/plain">cibler</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54099">
+                <material>
+                  <mattext texttype="text/plain">se décider</mattext>
+                </material>
+              </response_label>
+              <response_label ident="7657">
+                <material>
+                  <mattext texttype="text/plain">échanger</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="35151">
+                <material>
+                  <mattext texttype="text/plain">s’orienter</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70866">
+                <material>
+                  <mattext texttype="text/plain">se rencontrer</mattext>
+                </material>
+              </response_label>
+              <response_label ident="53386">
+                <material>
+                  <mattext texttype="text/plain">cibler</mattext>
+                </material>
+              </response_label>
+              <response_label ident="94560">
+                <material>
+                  <mattext texttype="text/plain">se décider</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30956">
+                <material>
+                  <mattext texttype="text/plain">échanger</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">57751</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">96605</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">68264</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">94560</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">25.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

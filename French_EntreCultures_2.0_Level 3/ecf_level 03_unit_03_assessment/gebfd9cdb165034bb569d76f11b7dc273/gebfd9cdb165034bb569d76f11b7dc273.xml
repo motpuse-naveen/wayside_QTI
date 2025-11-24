@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gebfd9cdb165034bb569d76f11b7dc273" title="Communiquons 3 - Vocabulary Activity 01">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communities</fieldlabel>
+              <fieldentry>School and Global</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Connections</fieldlabel>
+              <fieldentry>Other Disciplines</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IH.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>WL.K12.IH.7.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="g1577dfaad9bc336e720c28299c138ee0" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>73592,70077,6974,55048,68084,42546,19216,19625,72868,88507,61998,89272,45226,72954,14416,97350,30261,2104,78789,88300,95644,92188,82022,95225,54093</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g78c10d71a89cf02218e3090a04c42fb0</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Joseph discusses workplace social skills. Complete the text by choosing the term that most logically completes each sentence.&lt;/p&gt;
+&lt;p&gt;Comme je suis jeune, je suis toujours en train d’identifier [RESPONSE1]. Les employeurs sont&amp;nbsp; [RESPONSE2] candidats qualifiés,&amp;nbsp; [RESPONSE3] et autonomes. Généralement, [RESPONSE4] ces personnes sont dignes de confiance. Donc, quand j’aurai des [RESPONSE5], je montrerai que je tiens mes engagements.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="73592">
+                <material>
+                  <mattext texttype="text/plain">à la recherche de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="70077">
+                <material>
+                  <mattext texttype="text/plain">fiables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="6974">
+                <material>
+                  <mattext texttype="text/plain">la plupart de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="55048">
+                <material>
+                  <mattext texttype="text/plain">entrevues</mattext>
+                </material>
+              </response_label>
+              <response_label ident="68084">
+                <material>
+                  <mattext texttype="text/plain">mes compétences sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="42546">
+                <material>
+                  <mattext texttype="text/plain">à la recherche de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19216">
+                <material>
+                  <mattext texttype="text/plain">fiables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="19625">
+                <material>
+                  <mattext texttype="text/plain">la plupart de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72868">
+                <material>
+                  <mattext texttype="text/plain">entrevues</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88507">
+                <material>
+                  <mattext texttype="text/plain">mes compétences sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="61998">
+                <material>
+                  <mattext texttype="text/plain">à la recherche de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="89272">
+                <material>
+                  <mattext texttype="text/plain">fiables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45226">
+                <material>
+                  <mattext texttype="text/plain">la plupart de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72954">
+                <material>
+                  <mattext texttype="text/plain">entrevues</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14416">
+                <material>
+                  <mattext texttype="text/plain">mes compétences sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="97350">
+                <material>
+                  <mattext texttype="text/plain">à la recherche de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30261">
+                <material>
+                  <mattext texttype="text/plain">fiables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="2104">
+                <material>
+                  <mattext texttype="text/plain">la plupart de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="78789">
+                <material>
+                  <mattext texttype="text/plain">entrevues</mattext>
+                </material>
+              </response_label>
+              <response_label ident="88300">
+                <material>
+                  <mattext texttype="text/plain">mes compétences sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="95644">
+                <material>
+                  <mattext texttype="text/plain">à la recherche de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="92188">
+                <material>
+                  <mattext texttype="text/plain">fiables</mattext>
+                </material>
+              </response_label>
+              <response_label ident="82022">
+                <material>
+                  <mattext texttype="text/plain">la plupart de</mattext>
+                </material>
+              </response_label>
+              <response_label ident="95225">
+                <material>
+                  <mattext texttype="text/plain">entrevues</mattext>
+                </material>
+              </response_label>
+              <response_label ident="54093">
+                <material>
+                  <mattext texttype="text/plain">mes compétences sociales</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">68084</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">42546</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">89272</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">2104</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">95225</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
