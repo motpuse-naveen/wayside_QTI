@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="gcf1556ad207fff019d06e799c80e468f" title="Unit Assessment - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Presentational</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry>ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>WL.K12.IM.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gbb98344d40d4ad0d87fdb027b9fe86cc" title="Textentries">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>fill_in_multiple_blanks_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>6.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>70404,31331,19258,27698,19564,82292</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>gead5bbc64b46b26197fdb7c8733ff792</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Yesterday, Clara wrote about her day. Read what she shared, noting the verbs in bold. In the second paragraph, help her tell her story in the past tense. Fill in each blank by conjugating the bolded verbs in the &lt;strong&gt;&lt;i&gt;passé composé&lt;/i&gt;&lt;/strong&gt;. Copy and paste these special characters whenever you need them for your answers.&lt;/p&gt;
+&lt;div style="border: 1px solid black; display: flex; justify-content: center; width: 99%; text-align: center;"&gt;&amp;nbsp;&amp;nbsp;à&amp;nbsp;&amp;nbsp;&amp;nbsp;ç&amp;nbsp;&amp;nbsp;&amp;nbsp;é&amp;nbsp;&amp;nbsp;&amp;nbsp;è&amp;nbsp;&amp;nbsp;&amp;nbsp;ê&amp;nbsp;&amp;nbsp;&amp;nbsp;ë&amp;nbsp;&amp;nbsp;&amp;nbsp;œ&amp;nbsp;&amp;nbsp;&amp;nbsp;î&amp;nbsp;&amp;nbsp;&amp;nbsp;ô&amp;nbsp;&amp;nbsp;&amp;nbsp;û&amp;nbsp;&amp;nbsp;&amp;nbsp;ù&lt;/div&gt;
+&lt;p&gt;Il fait très beau. Je &lt;strong&gt;vais&lt;/strong&gt; faire les puces avec mon amie Léna. Ensuite, nous &lt;strong&gt;prenons&lt;/strong&gt; un café au Quartier Latin. Léna &lt;strong&gt;invite&lt;/strong&gt; quelqu’un pour venir avec nous à la fête foraine. Mais qui ? Khalid ! Le garçon le plus populaire de l’école. Il &lt;strong&gt;arrive&lt;/strong&gt; en vélib. Comment elle le connaît ? En fait, elle le connaît très bien. Khalid &lt;strong&gt;habite&lt;/strong&gt; dans le même immeuble. Après les tours de manège, Khalid &lt;strong&gt;poste&lt;/strong&gt; des photos de l’après-midi sur son blog. Il est vraiment très sympa.&lt;/p&gt;
+&lt;p&gt;Hier, il faisait très beau. Je [RESPONSE] faire les puces avec mon amie Léna. Ensuite, nous [RESPONSE1] un café au Quartier Latin. Léna [RESPONSE2] quelqu’un pour venir avec nous à la fête foraine. Mais qui ? Khalid ! Le garçon le plus populaire de l’école. Il [RESPONSE3] en vélib. Comment elle le connaît ? En fait, elle le connaît très bien. Khalid [RESPONSE4] dans le même immeuble pendant des années. Après les tours de manège, Khalid [RESPONSE5] des photos de l’après-midi sur son blog. Il était vraiment très sympa.&lt;/p&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE">
+            <material>
+              <mattext>RESPONSE</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70404">
+                <material>
+                  <mattext texttype="text/plain">suis allée</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="31331">
+                <material>
+                  <mattext texttype="text/plain">avons pris</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="19258">
+                <material>
+                  <mattext texttype="text/plain">a invité</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="27698">
+                <material>
+                  <mattext texttype="text/plain">est arrivé</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="19564">
+                <material>
+                  <mattext texttype="text/plain">a habité</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="82292">
+                <material>
+                  <mattext texttype="text/plain">a posté</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE">70404</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">31331</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">19258</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">27698</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">19564</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">82292</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">16.67</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>

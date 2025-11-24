@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/ims_qtiasiv1p2 http://www.imsglobal.org/xsd/ims_qtiasiv1p2p1.xsd">
+  <assessment ident="g54ccff40ada342dfcd76f6e992fa8dfe" title="Communiquons 1 - Grammar Activity 02">
+    <qtimetadata>
+      <qtimetadatafield>
+        <fieldlabel>cc_maxattempts</fieldlabel>
+        <fieldentry>1</fieldentry>
+      </qtimetadatafield>
+      <qtimetadatafield>
+              <fieldlabel>ACTFL_Communication</fieldlabel>
+              <fieldentry>Interpretive</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code1</fieldlabel>
+              <fieldentry>WL.K12.IM.2.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code2</fieldlabel>
+              <fieldentry>ELA.K12.EE.2.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code3</fieldlabel>
+              <fieldentry> ELA.K12.EE.3.1</fieldentry>
+            </qtimetadatafield>
+             <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code4</fieldlabel>
+              <fieldentry>MA.K12.MTR.5.1</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>FL_Benchmark_Code5</fieldlabel>
+              <fieldentry>MA.K12.MTR.6.1</fieldentry>
+            </qtimetadatafield>
+    </qtimetadata>
+    <section ident="root_section">
+      <item ident="gf55019697f5a48452b3429973eb9c7b3" title="Choice true and false">
+        <itemmetadata>
+          <qtimetadata>
+            <qtimetadatafield>
+              <fieldlabel>question_type</fieldlabel>
+              <fieldentry>multiple_dropdowns_question</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>points_possible</fieldlabel>
+              <fieldentry>5.0</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>original_answer_ids</fieldlabel>
+              <fieldentry>52554,40986,87621,58279,29463,70635,66700,37270,14828,34099,86486,26717,28947,26312,72239,70386,80578,27686,26033,64594,50398,30210,45359,29531,60203</fieldentry>
+            </qtimetadatafield>
+            <qtimetadatafield>
+              <fieldlabel>assessment_question_identifierref</fieldlabel>
+              <fieldentry>g47390722c1d966249d56e0cc9eacbea2</fieldentry>
+            </qtimetadatafield>
+          </qtimetadata>
+        </itemmetadata>
+        <presentation>
+          <material>
+            <mattext texttype="text/html">&lt;div&gt;&lt;div class="prompt"&gt;
+&lt;p&gt;Choose the correct expression to complete each sentence or question.&lt;/p&gt;
+&lt;p&gt;1. Où peut-on voir [RESPONSE1] spectacles de la ville ?&lt;/p&gt;
+&lt;p&gt;2. C’est dans la capitale que l’on trouve [RESPONSE2] salle de théâtre.&lt;/p&gt;
+&lt;p&gt;3. J’ai besoin de nouveaux vêtements. Quel est [RESPONSE3] endroit pour faire du shopping ?&lt;/p&gt;
+&lt;p&gt;4. Quel mauvais service ici ! C’est [RESPONSE4] restaurant de la ville !&lt;/p&gt;
+&lt;p&gt;5. Cette exposition est [RESPONSE5] visitée, c’est vraiment dommage !&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</mattext>
+          </material>
+          <response_lid ident="response_RESPONSE1">
+            <material>
+              <mattext>RESPONSE1</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="52554">
+                <material>
+                  <mattext texttype="text/plain">les meilleurs</mattext>
+                </material>
+              </response_label>
+              <response_label ident="40986">
+                <material>
+                  <mattext texttype="text/plain">le pire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="87621">
+                <material>
+                  <mattext texttype="text/plain">la plus grande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="58279">
+                <material>
+                  <mattext texttype="text/plain">la moins</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29463">
+                <material>
+                  <mattext texttype="text/plain">le meilleur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE2">
+            <material>
+              <mattext>RESPONSE2</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70635">
+                <material>
+                  <mattext texttype="text/plain">les meilleurs</mattext>
+                </material>
+              </response_label>
+              <response_label ident="66700">
+                <material>
+                  <mattext texttype="text/plain">le pire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="37270">
+                <material>
+                  <mattext texttype="text/plain">la plus grande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="14828">
+                <material>
+                  <mattext texttype="text/plain">la moins</mattext>
+                </material>
+              </response_label>
+              <response_label ident="34099">
+                <material>
+                  <mattext texttype="text/plain">le meilleur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE3">
+            <material>
+              <mattext>RESPONSE3</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="86486">
+                <material>
+                  <mattext texttype="text/plain">les meilleurs</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26717">
+                <material>
+                  <mattext texttype="text/plain">le pire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="28947">
+                <material>
+                  <mattext texttype="text/plain">la plus grande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26312">
+                <material>
+                  <mattext texttype="text/plain">la moins</mattext>
+                </material>
+              </response_label>
+              <response_label ident="72239">
+                <material>
+                  <mattext texttype="text/plain">le meilleur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE4">
+            <material>
+              <mattext>RESPONSE4</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="70386">
+                <material>
+                  <mattext texttype="text/plain">les meilleurs</mattext>
+                </material>
+              </response_label>
+              <response_label ident="80578">
+                <material>
+                  <mattext texttype="text/plain">le pire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="27686">
+                <material>
+                  <mattext texttype="text/plain">la plus grande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="26033">
+                <material>
+                  <mattext texttype="text/plain">la moins</mattext>
+                </material>
+              </response_label>
+              <response_label ident="64594">
+                <material>
+                  <mattext texttype="text/plain">le meilleur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+          <response_lid ident="response_RESPONSE5">
+            <material>
+              <mattext>RESPONSE5</mattext>
+            </material>
+            <render_choice>
+              <response_label ident="50398">
+                <material>
+                  <mattext texttype="text/plain">les meilleurs</mattext>
+                </material>
+              </response_label>
+              <response_label ident="30210">
+                <material>
+                  <mattext texttype="text/plain">le pire</mattext>
+                </material>
+              </response_label>
+              <response_label ident="45359">
+                <material>
+                  <mattext texttype="text/plain">la plus grande</mattext>
+                </material>
+              </response_label>
+              <response_label ident="29531">
+                <material>
+                  <mattext texttype="text/plain">la moins</mattext>
+                </material>
+              </response_label>
+              <response_label ident="60203">
+                <material>
+                  <mattext texttype="text/plain">le meilleur</mattext>
+                </material>
+              </response_label>
+            </render_choice>
+          </response_lid>
+        </presentation>
+        <resprocessing>
+          <outcomes>
+            <decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/>
+          </outcomes>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE1">52554</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE2">37270</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE3">72239</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE4">80578</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+          <respcondition>
+            <conditionvar>
+              <varequal respident="response_RESPONSE5">29531</varequal>
+            </conditionvar>
+            <setvar varname="SCORE" action="Add">20.00</setvar>
+          </respcondition>
+        </resprocessing>
+      </item>
+    </section>
+  </assessment>
+</questestinterop>
