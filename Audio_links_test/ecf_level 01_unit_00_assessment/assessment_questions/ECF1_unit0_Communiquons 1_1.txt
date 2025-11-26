@@ -1,5 +1,0 @@
-Speaker 1
-Comment t’appelles-tu ?
-
-Speaker 2
-Je m’appelle Sylvie.
