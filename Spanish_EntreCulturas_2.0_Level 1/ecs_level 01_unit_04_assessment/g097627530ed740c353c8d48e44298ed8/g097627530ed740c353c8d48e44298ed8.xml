@@ -47,8 +47,11 @@
 &lt;div class="prompt"&gt;
 &lt;div&gt;
 &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
-      			&lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_com1_vq_activity2_audio_q1.mp3" type="audio/mpeg"&gt;
-    			&lt;/audio&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+      			<!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_com1_vq_activity2_audio_q1.mp3" type="audio/mpeg"&gt;
+    			&lt;/audio&gt; -->
+          &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_com1_vq_activity2_audio_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+          &lt;/audio&gt;
+          &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_comunicacion-1_vq_activity2_audio_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;          
 &lt;/div&gt;
 &lt;/div&gt;

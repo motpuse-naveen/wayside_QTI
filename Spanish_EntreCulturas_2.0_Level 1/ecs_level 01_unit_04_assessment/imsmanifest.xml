@@ -168,6 +168,36 @@
     <resource identifier="g8b05486206354b747dc9167c2d172981" type="associatedcontent/imscc_xmlv2p1/learning-application-resource" href="g6010447fa0faf9dafa611536c9b6acfa/assessment_meta.xml">
       <file href="g6010447fa0faf9dafa611536c9b6acfa/assessment_meta.xml"/>
     </resource>
+<resource identifier="35fc7f54-48d7-4356-9298-3e567ec9c709" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q1.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q1.mp3"/>
+</resource>
+<resource identifier="1badb51d-3359-4629-8578-cba64f8d3615" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q2.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q2.mp3"/>
+</resource>
+<resource identifier="5327895c-f154-4df4-9e73-e4b919a9af12" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q3.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q3.mp3"/>
+</resource>
+<resource identifier="f91f8851-b6e7-42d1-9615-b841445b4dca" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q4.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q4.mp3"/>
+</resource>
+<resource identifier="fca8678b-7b00-438a-b0fe-f9143bf160a2" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q5.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q5.mp3"/>
+</resource>
+<resource identifier="e46c736b-d530-4385-96bb-2caeca2840d9" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q6.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q6.mp3"/>
+</resource>
+<resource identifier="1ea401e0-7059-4fc3-85c4-6f1b87e98946" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q7.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q7.mp3"/>
+</resource>
+<resource identifier="d9b827de-e156-4bfa-8679-afeb6c262ee0" type="webcontent" href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q8.mp3">
+<file href="assessment_questions/ecs1_u4_ua_vq_activity1_audio_q8.mp3"/>
+</resource>
+<resource identifier="a631a3be-7ff9-4401-8227-9c251599ed2f" type="webcontent" href="assessment_questions/ecs1_u4_com1_vq_activity2_audio_q1.mp3">
+<file href="assessment_questions/ecs1_u4_com1_vq_activity2_audio_q1.mp3"/>
+</resource>
+<resource identifier="67c8cf50-3c81-419c-8370-0061e1bac465" type="webcontent" href="assessment_questions/ecs1_u4_com2_gr_activity1_audio_q1.mp3">
+<file href="assessment_questions/ecs1_u4_com2_gr_activity1_audio_q1.mp3"/>
+</resource>
     <resource identifier="aaf011e3-dda8-4bd6-98b1-8ced27e2d6ed" type="webcontent" href="assessment_questions/ECS1_unit4_comunicacion-1_vq_activity2_audio_q1.txt">
       <file href="assessment_questions/ECS1_unit4_comunicacion-1_vq_activity2_audio_q1.txt"/>
     </resource>

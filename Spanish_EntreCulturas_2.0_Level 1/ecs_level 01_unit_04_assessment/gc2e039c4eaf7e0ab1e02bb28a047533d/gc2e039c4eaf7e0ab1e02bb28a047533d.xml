@@ -62,8 +62,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;1.&lt;/p&gt;
                       &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                          &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q5.mp3" type="audio/mpeg"&gt;
-                             &lt;/audio&gt;
+                          <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q5.mp3" type="audio/mpeg"&gt;
+                             &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
             &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                 
                              &lt;/div&gt;</mattext>
             </material>
@@ -95,8 +97,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;2.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                           &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q6.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                           <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q6.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q6.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
                                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q6.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;        
                             &lt;/div&gt;</mattext>
             </material>
@@ -128,8 +132,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;3.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q7.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q7.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q7.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
                               &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q7.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                             &lt;/div&gt;</mattext>
             </material>
@@ -161,8 +167,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;4.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q8.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q8.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q8.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
                    &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q8.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                             &lt;/div&gt;</mattext>
             </material>
@@ -263,8 +271,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;5.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                         &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q1.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q1.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
           &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;            
                             &lt;/div&gt;</mattext>
             </material>
@@ -296,8 +306,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;6.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                         &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q2.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q2.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
    &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                          
                             &lt;/div&gt;</mattext>
             </material>
@@ -329,8 +341,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;7.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                         &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q3.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q3.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;                 
                             &lt;/div&gt;</mattext>
             </material>
@@ -362,8 +376,10 @@
               <mattext texttype="text/html">&lt;p style="margin-left: -18px;"&gt;8.&lt;/p&gt;
                     &lt;div style="margin-left: -4px; width: 100%; margin-top: -53px;"&gt;
                         &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px;"&gt;
-                            &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q4.mp3" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
+                            <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_ua_vq_activity1_audio_q4.mp3" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_ua_vq_activity1_audio_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_assessment_vq_activity1_audio_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;    
                             &lt;/div&gt;</mattext>
             </material>

@@ -46,8 +46,11 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen while two friends, Bruno and Valentina, talk about what they like to eat. Then read the sentences below and decide whether each sentence is true (&lt;i&gt;cierto&lt;/i&gt;) or false (&lt;i&gt;falso&lt;/i&gt;) based on what you hear.&lt;/p&gt;
 &lt;div class="prompt"&gt;
 &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_com2_gr_activity1_audio_q1.mp3" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/p&gt;
+                <!-- &lt;source src="https://cdn.waysidepublishing.com/textbooks/QTI/ECS1/audio/ecs1_u4_com2_gr_activity1_audio_q1.mp3" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/ecs1_u4_com2_gr_activity1_audio_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/p&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECS1_unit4_comunication-2_gr_activity1_audio_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;1. A Valentina no le gusta el batido de plátano.&lt;/p&gt;
 [RESPONSE]
