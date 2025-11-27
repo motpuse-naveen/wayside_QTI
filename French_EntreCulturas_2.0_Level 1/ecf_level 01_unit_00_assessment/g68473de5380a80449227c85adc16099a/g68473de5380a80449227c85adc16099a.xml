@@ -50,7 +50,9 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the conversation among three classmates and choose the best answer to each question.&lt;/p&gt;
 
             &lt;audio id="audioElement" controls="controls"&gt;
-        &lt;source src="https://canvas.instructure.com/assessment_questions/302424569/files/256342395/download?verifier=5pQ2y9gcxcXBqVRn7hKDR5Y8AieDCDpRFGCpOfCC" type="audio/mpeg"&gt;
+       <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/302424569/files/256342395/download?verifier=5pQ2y9gcxcXBqVRn7hKDR5Y8AieDCDpRFGCpOfCC" type="audio/mpeg"&gt;
+        &lt;/audio&gt; -->
+        &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
         &lt;/audio&gt;
         &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_assessment_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
     

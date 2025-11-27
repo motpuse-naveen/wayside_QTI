@@ -161,6 +161,21 @@
     <resource identifier="ge332b384ebd14756fa9f50b02f03163c" type="associatedcontent/imscc_xmlv2p1/learning-application-resource" href="g3d55d64edce754fda3431733623f3100/assessment_meta.xml">
       <file href="g3d55d64edce754fda3431733623f3100/assessment_meta.xml"/>
     </resource>
+    <resource identifier="73d68492-a9b1-4aa0-bbee-a27bea40fd67" type="webcontent" href="assessment_questions/unit5_ac2_q1.mp3">
+      <file href="assessment_questions/unit5_ac2_q1.mp3"/>
+    </resource>
+    <resource identifier="f3d43455-4168-4adc-843b-d160bfc6da08" type="webcontent" href="assessment_questions/unit5_ac2_q2.mp3">
+      <file href="assessment_questions/unit5_ac2_q2.mp3"/>
+    </resource>
+    <resource identifier="78c45b2a-5d75-4d03-b6de-2f808adab404" type="webcontent" href="assessment_questions/unit5_ac2_q3.mp3">
+      <file href="assessment_questions/unit5_ac2_q3.mp3"/>
+    </resource>
+    <resource identifier="51d2c84c-d506-4b46-88e9-326d8eb55f3b" type="webcontent" href="assessment_questions/unit5_ac2_q4.mp3">
+      <file href="assessment_questions/unit5_ac2_q4.mp3"/>
+    </resource>
+    <resource identifier="8ff50d0c-2ea3-4455-a7b9-9857413c3053" type="webcontent" href="assessment_questions/unit5_ac2_q5.mp3">
+      <file href="assessment_questions/unit5_ac2_q5.mp3"/>
+    </resource>
     <resource identifier="g4701a17a1986f5b1932fe011138a5167" type="webcontent" href="assessment_questions/unit5_ac3_q1.mp3">
       <file href="assessment_questions/unit5_ac3_q1.mp3"/>
     </resource>

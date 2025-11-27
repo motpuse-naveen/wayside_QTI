@@ -195,6 +195,9 @@
     <resource identifier="ge5a2c303a0ecbe8947e2921afc9a9d13" type="webcontent" href="assessment_questions/unit3_ac2_q1.mp3">
       <file href="assessment_questions/unit3_ac2_q1.mp3"/>
     </resource>
+    <resource identifier="049b353b-4fb0-4c52-bc34-4abc9084a2d6" type="webcontent" href="assessment_questions/unit3_ac3_q1.mp3">
+      <file href="assessment_questions/unit3_ac3_q1.mp3"/>
+    </resource>
     <resource identifier="aaf011e3-dda8-4bd6-98b1-8ced27e2d6ed" type="webcontent" href="assessment_questions/ECS1_unit3_assessment_ac2_q1.txt">
       <file href="assessment_questions/ECS1_unit3_assessment_ac2_q1.txt"/>
     </resource>

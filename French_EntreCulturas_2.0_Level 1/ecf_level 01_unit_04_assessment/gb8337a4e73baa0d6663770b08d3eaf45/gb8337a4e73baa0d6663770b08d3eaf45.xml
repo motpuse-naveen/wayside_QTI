@@ -58,8 +58,11 @@
             <mattext texttype="text/html">&lt;div&gt;Listen to the statements about food, then select the number that you hear in each sentence.
 &lt;br&gt;
 &lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/298036639/files/252823644/download?verifier=DdI8xHH81n8JTi3AkCgWO3ZiIsjvww2SSf6BPyib" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/298036639/files/252823644/download?verifier=DdI8xHH81n8JTi3AkCgWO3ZiIsjvww2SSf6BPyib" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com2_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
                 </mattext>
           </material>
@@ -124,8 +127,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/298037929/files/252824852/download?verifier=MTD2MQ3IHgkGj7VflpGpFj8IFsp0WOjp4uJS9YYc" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/298037929/files/252824852/download?verifier=MTD2MQ3IHgkGj7VflpGpFj8IFsp0WOjp4uJS9YYc" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com2_ac1_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
                 </mattext>
           </material>
@@ -190,8 +196,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/298038111/files/252824983/download?verifier=nIdWemEuvNqYWKfIy1VhPU3ws9CEnjwEOYdLhG8f" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/298038111/files/252824983/download?verifier=nIdWemEuvNqYWKfIy1VhPU3ws9CEnjwEOYdLhG8f" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com2_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
                 </mattext>
           </material>
@@ -256,8 +265,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/298038162/files/252825136/download?verifier=KmDgmdASj7sFAmueiR6zmqgZAJHS5bcWHL2Vq77o" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/298038162/files/252825136/download?verifier=KmDgmdASj7sFAmueiR6zmqgZAJHS5bcWHL2Vq77o" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_com2_ac1_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit4_comunication-2_ac1_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
                 </mattext>
           </material>

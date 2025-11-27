@@ -70,7 +70,9 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Emmanuel talks abouts his and his friends’ past jobs. Listen and select the appropriate response to each question.&lt;/p&gt;
 &lt;br&gt;
 &lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/324725026/files/274461092/download?verifier=2H2mNOREVc9HPBFCy26XpFr7UO1fOrN1shKS1s0m" type="audio/mpeg"&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/324725026/files/274461092/download?verifier=2H2mNOREVc9HPBFCy26XpFr7UO1fOrN1shKS1s0m" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 01.mp3?canvas_download=1" type="audio/mpeg"&gt;
                 &lt;/audio&gt;
 &lt;br&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit1_assessment_ac1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;

@@ -74,8 +74,11 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to Dara’s observations about the arts in Paris and choose the best answer to each question.&lt;/p&gt;
 
         &lt;p&gt;&lt;audio id="audioElement" controls="controls"&gt;
-&lt;source src="https://canvas.instructure.com/assessment_questions/324479504/files/274191838/download?verifier=X7LQF5QHUo1LqmtsMIlSxv7KVZR9vXp37A7tecBZ" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/p&gt;
+<!-- &lt;source src="https://canvas.instructure.com/assessment_questions/324479504/files/274191838/download?verifier=X7LQF5QHUo1LqmtsMIlSxv7KVZR9vXp37A7tecBZ" type="audio/mpeg"&gt;
+&lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit6_ua_ac1_q.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;/p&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF3_unit6_assessment_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
     
            &lt;p&gt;1. Quel est le sentiment de Dara en regardant l’architecture à Paris ?&lt;/p&gt;&lt;/div&gt;</mattext>
