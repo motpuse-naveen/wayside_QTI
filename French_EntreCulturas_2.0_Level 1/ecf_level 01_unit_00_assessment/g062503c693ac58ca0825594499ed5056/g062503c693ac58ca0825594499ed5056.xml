@@ -83,7 +83,9 @@ table, th, td {
             <material>
               <mattext texttype="text/html">&lt;div style="margin-left: -4px; width: 100%;"&gt;
                    &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px; margin-top: -5px; margin-left: -10px;"&gt;
-                          &lt;source src="https://canvas.instructure.com/assessment_questions/304158935/files/257747037/download?verifier=ThCOUb8RNZb1u1YrS1pRCBGjZ8pjk5UYO0S9H2oa" type="audio/mpeg"&gt;
+                          <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/304158935/files/257747037/download?verifier=ThCOUb8RNZb1u1YrS1pRCBGjZ8pjk5UYO0S9H2oa" type="audio/mpeg"&gt;
+                             &lt;/audio&gt; -->
+                             &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ecf_com1_vq_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
                              &lt;/audio&gt;
                             &lt;/div&gt;
                       &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_Communiquons 1_1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
@@ -187,9 +189,10 @@ table, th, td {
             <material>
               <mattext texttype="text/html">&lt;div style="margin-left: -4px; width: 100%;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px; margin-top: -5px; margin-left: -10px;"&gt;
-                           &lt;source src="https://canvas.instructure.com/assessment_questions/304158935/files/257747038/download?verifier=76nOflZsap701jKCiIXo7d6r11Qa25POF6s83zqf" type="audio/mpeg"&gt;
+                           <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/304158935/files/257747038/download?verifier=76nOflZsap701jKCiIXo7d6r11Qa25POF6s83zqf" type="audio/mpeg"&gt;
+                            &lt;/audio&gt -->
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ecf_com1_vq_ac1_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
                             &lt;/audio&gt;
-                          
                             ;&lt;/div&gt;
                      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_Communiquons 1_2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
                             </mattext>
@@ -292,9 +295,10 @@ table, th, td {
             <material>
               <mattext texttype="text/html">&lt;div style="margin-left: -4px; width: 100%;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px; margin-top: -5px; margin-left: -10px;"&gt;
-                            &lt;source src="https://canvas.instructure.com/assessment_questions/304158890/files/257746956/download?verifier=BRT53Jb5knEeNg1eUReMaWXHtANNjymNhDxv6JO8" type="audio/mpeg"&gt;
-                            &lt;/audio&gt;
-                            
+                            <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/304158890/files/257746956/download?verifier=BRT53Jb5knEeNg1eUReMaWXHtANNjymNhDxv6JO8" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ecf_com1_vq_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                              &lt;/audio&gt;
                             &lt;/div&gt;
                      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_Communiquons 1_3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
                             </mattext>
@@ -397,9 +401,10 @@ table, th, td {
             <material>
               <mattext texttype="text/html">&lt;div style="margin-left: -4px; width: 100%;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px; margin-top: -5px;    margin-left: -10px;"&gt;
-                            &lt;source src="https://canvas.instructure.com/assessment_questions/304158839/files/257746848/download?verifier=O8NwsV2iaRVTETKoze38SibvkLS1QKDIOxceguZc" type="audio/mpeg"&gt;
+                            <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/304158839/files/257746848/download?verifier=O8NwsV2iaRVTETKoze38SibvkLS1QKDIOxceguZc" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ecf_com1_vq_ac1_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
                             &lt;/audio&gt;
-                            
                             &lt;/div&gt;
                      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_Communiquons 1_4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
                             </mattext>
@@ -502,9 +507,10 @@ table, th, td {
             <material>
               <mattext texttype="text/html">&lt;div style="margin-left: -4px; width: 100%;"&gt;
                     &lt;audio id="audioElement" controls="controls" style="max-width: 100%; width: 265px; margin-top: -5px;    margin-left: -10px;"&gt;
-                            &lt;source src="https://canvas.instructure.com/assessment_questions/304158793/files/257746745/download?verifier=nlhzn0GT99nTIBGcwmZMNiGjZT9ZosX8TMxCbXLm" type="audio/mpeg"&gt;
+                            <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/304158793/files/257746745/download?verifier=nlhzn0GT99nTIBGcwmZMNiGjZT9ZosX8TMxCbXLm" type="audio/mpeg"&gt;
+                            &lt;/audio&gt; -->
+                            &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit0_ecf_com1_vq_ac1_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
                             &lt;/audio&gt;
-                            
                             &lt;/div&gt;
                      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit0_Communiquons 1_5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;       
                             </mattext>
