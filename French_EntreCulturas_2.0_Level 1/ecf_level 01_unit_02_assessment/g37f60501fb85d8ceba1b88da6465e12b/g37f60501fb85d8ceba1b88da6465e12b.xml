@@ -62,8 +62,10 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the announcements and choose the corresponding &lt;u&gt;&lt;b&gt;time.&lt;/b&gt;&lt;/u&gt; &lt;/p&gt;
        
          &lt;audio id="audioElement" controls="controls" style="margin-left: 24px; margin-bottom: -54px;"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/309829626/files/263000700/download?verifier=jsqOoMz7ByMMmlccXaxe5BZ7Fd1RB2v87bYqRu3R" type="audio/mpeg"&gt;
-                &lt;/audio&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/309829626/files/263000700/download?verifier=jsqOoMz7ByMMmlccXaxe5BZ7Fd1RB2v87bYqRu3R" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
            &lt;p&gt;1. &lt;/p&gt;&lt;/div&gt;
                            &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_Grammar_ac1_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
            </mattext>
@@ -124,8 +126,10 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls" style="margin-left: 24px; margin-bottom: -54px;"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/309829662/files/263000743/download?verifier=4oUOmNF3ByPv2nMcJfuLq1U6csrEcuSJoD0b0pNJ" type="audio/mpeg"&gt;
-                &lt;/audio&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/309829662/files/263000743/download?verifier=4oUOmNF3ByPv2nMcJfuLq1U6csrEcuSJoD0b0pNJ" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
             &lt;p&gt;2. &lt;/p&gt;&lt;/div&gt;
           &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_Grammar_ac1_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
          </mattext>
@@ -186,8 +190,10 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls" style="margin-left: 24px; margin-bottom: -54px;"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/309829722/files/263000797/download?verifier=LBABBwR4BzhMHpAQQ57bov3JOwoRgoMHihkkSLBf" type="audio/mpeg"&gt;
-                &lt;/audio&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/309829722/files/263000797/download?verifier=LBABBwR4BzhMHpAQQ57bov3JOwoRgoMHihkkSLBf" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
             &lt;p&gt;3. &lt;/p&gt;&lt;/div&gt;
                             &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_Grammar_ac1_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
             </mattext>
@@ -248,8 +254,10 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls" style="margin-left: 24px; margin-bottom: -54px;"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/309829735/files/263000816/download?verifier=BaF7hCOJjFIPh7CAPJMb6seuH2PPCdnKK0bLRd75" type="audio/mpeg"&gt;
-                &lt;/audio&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/309829735/files/263000816/download?verifier=BaF7hCOJjFIPh7CAPJMb6seuH2PPCdnKK0bLRd75" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
             &lt;p&gt;4.&lt;/p&gt;&lt;/div&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_Grammar_ac1_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
             </mattext>
@@ -310,8 +318,10 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls" style="margin-left: 24px; margin-bottom: -54px;"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/309829978/files/263001154/download?verifier=rSeeZXfCRIm0agcw2Gdbq44Bn1upS8jZW2EOAErt" type="audio/mpeg"&gt;
-                &lt;/audio&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/309829978/files/263001154/download?verifier=rSeeZXfCRIm0agcw2Gdbq44Bn1upS8jZW2EOAErt" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit1_ac1_q5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
             &lt;p&gt;5.&lt;/p&gt;&lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_Communiquons 2_Grammar_ac1_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
             </mattext>

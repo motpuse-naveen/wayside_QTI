@@ -66,8 +66,11 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to the description of a school and choose the correct answer.&lt;/p&gt;
    &lt;div class="prompt"&gt;
 &lt;audio id="audioElement" controls="controls"&gt;
-&lt;source src="https://canvas.instructure.com/assessment_questions/308701828/files/262159490/download?verifier=smEYZaBy99DbM7civTPvm5j0fLzjgSIlcKlUhyqD" type="audio/mpeg"&gt;
-&lt;/audio&gt;&lt;/div&gt;
+<!-- &lt;source src="https://canvas.instructure.com/assessment_questions/308701828/files/262159490/download?verifier=smEYZaBy99DbM7civTPvm5j0fLzjgSIlcKlUhyqD" type="audio/mpeg"&gt;
+&lt;/audio&gt; -->
+&lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit3_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit2_assessment_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 
 
