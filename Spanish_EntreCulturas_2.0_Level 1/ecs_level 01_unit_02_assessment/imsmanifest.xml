@@ -200,7 +200,19 @@
       <file href="assessment_questions/unit2_ass_ac2_q3.mp3"/>
     </resource>
     <resource identifier="gedb6581f92afbd3eaad1320b02b601b6" type="webcontent" href="assessment_questions/unit2_ass_ac2_q4.mp3">
-      <file href="assessment_questions/unit2_ass_ac2_q4.mp3"/>
+      <file href="assessment_questions/unit2_ass_ac2_q4.mp3"/>  
+    </resource>
+     <resource identifier="f070bbb3-c7f8-42f6-ac94-6c41f2b4e687" type="webcontent" href="assessment_questions/unit2_com1_vq_ac2_q1.mp3">
+      <file href="assessment_questions/unit2_com1_vq_ac2_q1.mp3"/>
+    </resource>
+    <resource identifier="aeea90f6-4ff5-4efc-ad26-dfeaf64b9512" type="webcontent" href="assessment_questions/unit2_com1_vq_ac2_q2.mp3">
+      <file href="assessment_questions/unit2_com1_vq_ac2_q2.mp3"/>
+    </resource>
+    <resource identifier="46144c48-652a-427b-866e-a428aff43ebc" type="webcontent" href="assessment_questions/unit2_com1_vq_ac2_q3.mp3">
+      <file href="assessment_questions/unit2_com1_vq_ac2_q3.mp3"/>
+    </resource>
+    <resource identifier="30f9fd06-d191-4162-8235-b4492a80d691" type="webcontent" href="assessment_questions/unit2_com1_vq_ac2_q4.mp3">
+      <file href="assessment_questions/unit2_com1_vq_ac2_q4.mp3"/>
     </resource>
     <resource identifier="9c4e215d-bc0e-4a85-b9ee-1b11ee71ba03" type="webcontent" href="assessment_questions/ECS1_unit2_comunicacion-3_ac1_q1.txt">
       <file href="assessment_questions/ECS1_unit2_comunicacion-3_ac1_q1.txt"/>
