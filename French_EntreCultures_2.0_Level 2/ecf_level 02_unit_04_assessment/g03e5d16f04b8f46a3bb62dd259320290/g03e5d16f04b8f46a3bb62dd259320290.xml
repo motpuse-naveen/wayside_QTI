@@ -66,8 +66,11 @@
             <mattext texttype="text/html">&lt;div&gt;&lt;p&gt;Listen to each audio clip, then select the activity mentioned.&lt;/p&gt;
 &lt;br&gt;
 &lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/318521706/files/269506415/download?verifier=mkZ4WQujI2IlevWGvUY6sQWzQkNCEULwy9xYAonL" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/318521706/files/269506415/download?verifier=mkZ4WQujI2IlevWGvUY6sQWzQkNCEULwy9xYAonL" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 02_1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit4_assessment_vo_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                 </mattext>
           </material>
@@ -127,8 +130,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/318523646/files/269508733/download?verifier=8iwLlvcWw9btH4wSiWHvDXbQTR2dCifYsMu4WNic" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/318523646/files/269508733/download?verifier=8iwLlvcWw9btH4wSiWHvDXbQTR2dCifYsMu4WNic" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 02_2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit4_assessment_vo_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                 </mattext>
           </material>
@@ -188,8 +194,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/318523552/files/269508601/download?verifier=RfCOksqBBfLkIfv24Y2YV4JDKYouwe7TPKXu7i5j" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/318523552/files/269508601/download?verifier=RfCOksqBBfLkIfv24Y2YV4JDKYouwe7TPKXu7i5j" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 02_3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit4_assessment_vo_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                 </mattext>
           </material>
@@ -249,8 +258,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/318523505/files/269508491/download?verifier=PTFHH0OnXEeYdZNAuitwStKIbl9FsL7FFPB0tHJw" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/318523505/files/269508491/download?verifier=PTFHH0OnXEeYdZNAuitwStKIbl9FsL7FFPB0tHJw" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 02_4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit4_assessment_vo_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                 </mattext>
           </material>
@@ -310,8 +322,11 @@
         <presentation>
           <material>
             <mattext texttype="text/html">&lt;div&gt;&lt;audio id="audioElement" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/318523420/files/269508373/download?verifier=mwqcSkEz3QBjTPMm6pgYv5LGBEVotbySnSqZBKCD" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/div&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/318523420/files/269508373/download?verifier=mwqcSkEz3QBjTPMm6pgYv5LGBEVotbySnSqZBKCD" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+                &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/Unit Assessment - Vocabulary Activity 02_5.mp3?canvas_download=1" type="audio/mpeg"&gt;
+                &lt;/audio&gt;
+                &lt;/div&gt;
      &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF2_unit4_assessment_vo_ac2_q5.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;           
                 </mattext>
           </material>
