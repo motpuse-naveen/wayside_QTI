@@ -64,26 +64,38 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style="margin-bottom: -50px;"&gt;1.&lt;/p&gt;
 &lt;p&gt;&lt;audio id="audioElement" style="margin-left: 18px;" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505919/download?verifier=06O4jtTkSaOCPVzUhjxJZQWc9INzMeTqR0CFJg6S" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/p&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505919/download?verifier=06O4jtTkSaOCPVzUhjxJZQWc9INzMeTqR0CFJg6S" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+       &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ac2_q1.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;         
+                &lt;/p&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit3_assessment_ac2_q1.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[RESPONSE1]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p style="margin-bottom: -50px;"&gt;2.&lt;/p&gt;
 &lt;p&gt;&lt;audio id="audioElement" style="margin-left: 18px;" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505920/download?verifier=pZ1SiM8xF9Rs3KtbxfcOQ85fa98pdEGfkTGuHIwm" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/p&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505920/download?verifier=pZ1SiM8xF9Rs3KtbxfcOQ85fa98pdEGfkTGuHIwm" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+       &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ac2_q2.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;        
+                &lt;/p&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit3_assessment_ac2_q2.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[RESPONSE2]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p style="margin-bottom: -50px;"&gt;3.&lt;/p&gt;
 &lt;p&gt;&lt;audio id="audioElement" style="margin-left: 18px;" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505921/download?verifier=f7CO5gqsqKoGuNIHZesW1qVKIB1OaRDA156MmMTU" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/p&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505921/download?verifier=f7CO5gqsqKoGuNIHZesW1qVKIB1OaRDA156MmMTU" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+       &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ac2_q3.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;       
+                &lt;/p&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit3_assessment_ac2_q3.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[RESPONSE3]&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p style="margin-bottom: -50px;"&gt;4.&lt;/p&gt;
 &lt;p&gt;&lt;audio id="audioElement" style="margin-left: 18px;" controls="controls"&gt;
-                &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505922/download?verifier=VdW3DNIHVmzIpPNcuFKDKa5lpYMEmI7tkNji8V9B" type="audio/mpeg"&gt;
-                &lt;/audio&gt;&lt;/p&gt;
+                <!-- &lt;source src="https://canvas.instructure.com/assessment_questions/310375465/files/263505922/download?verifier=VdW3DNIHVmzIpPNcuFKDKa5lpYMEmI7tkNji8V9B" type="audio/mpeg"&gt;
+                &lt;/audio&gt; -->
+        &lt;source src="$IMS-CC-FILEBASE$/assessment_questions/unit4_ac2_q4.mp3?canvas_download=1" type="audio/mpeg"&gt;
+&lt;/audio&gt;        
+                &lt;/p&gt;
                 &lt;div class="transcript"&gt;&lt;a href="$IMS-CC-FILEBASE$/assessment_questions/ECF1_unit3_assessment_ac2_q4.txt" target="_blank"&gt;Download transcript (TXT)&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;[RESPONSE4]&lt;/p&gt;&lt;/div&gt;</mattext>
           </material>
