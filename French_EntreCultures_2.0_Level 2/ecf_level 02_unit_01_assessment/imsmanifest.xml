@@ -204,8 +204,8 @@
 <resource identifier="3673ac6e-e7a2-4d8f-956b-446874ce4644" type="webcontent" href="assessment_questions/ECF2_unit1_Communiquons 2_ac2_q5.txt">
       <file href="assessment_questions/ECF2_unit1_Communiquons 2_ac2_q5.txt"/>
     </resource>
-<resource identifier="9d5db192-9bab-4bf4-be26-dd1bffad9036" type="webcontent" href="assessment_questions/ECF2_unit1_Assessment - vo_ac1_q1.txt">
-      <file href="assessment_questions/ECF2_unit1_Assessment - vo_ac1_q1.txt"/>
+<resource identifier="9d5db192-9bab-4bf4-be26-dd1bffad9036" type="webcontent" href="assessment_questions/ECF2_unit1_Assessment_vo_ac1_q1.txt">
+      <file href="assessment_questions/ECF2_unit1_Assessment_vo_ac1_q1.txt"/>
     </resource>
   </resources>
 </manifest>
